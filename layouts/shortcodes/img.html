@@ -1,0 +1,5 @@
+{{ if .IsNamedParams }}
+<img class="{{ .Get "class" }}" src="{{ .Get "src" }}" {{ if or (.Get "alt") (.Get "caption") }}alt="{{ with .Get "alt"}}{{.}}{{else}}{{ .Get "caption" }}{{ end }}"{{ end }}>
+{{ else }}
+<img class="pure-img" src="{{ index .Params 0 }}" alt="">
+{{ end }}

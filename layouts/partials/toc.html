@@ -1,0 +1,3 @@
+<div id="toc-sidenav">
+		{{ .Page.TableOfContents | replaceRE "<ul class='-menu-list'>[[:space:]]*<li class='-menu-item'>[[:space:]]*<ul class='pure-menu-list'>" "<ul class='pure-menu-list'>" | replaceRE "</ul>[[:space:]]*</li>[[:space:]]*</ul>" "</ul>" |  safeHTML }}
+</div>

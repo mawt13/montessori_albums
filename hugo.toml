@@ -1,0 +1,109 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Montessori Albums'
+theme = 'blackburn'
+author = 'Matt'
+
+# Shown in the side menu
+copyright = "&copy; 2023. All rights reserved."
+canonifyurls = true
+paginate = 10
+
+[markup.tableOfContents]
+  endLevel = 5
+  startLevel = 1
+
+# [indexes]
+#   tag = "tags"
+#   topic = "topics"
+
+[params]
+  # Shown in the home page
+  subtitle = "Author Stephanie"
+  brand = "Albums"
+  # CSS name for highlight.js
+  dateFormat = "02 Jan 2006, 15:04"
+  # Include any custom CSS and/or JS files
+  # (relative to /static folder)
+  custom_css = ["css/my.css"]
+  custom_js = ["js/my.js"]
+
+[menu]
+  # Shown in the side menu.
+  [[menu.main]]
+    name = "Practical Life"
+    pre = "<i class='fa fa-puzzle-piece fa-fw'></i>"
+    identifier = "practical_life"
+    url = "/album/practical_life"
+    weight = 1
+  [[menu.main]]
+    name = "Sensorial"
+    pre = "<i class='fa fa-thumbs-up fa-fw'></i>"
+    identifier = "sensorial"
+    url = "/album/sensorial"
+    weight = 2
+  [[menu.main]]
+    name = "Math"
+    pre = "<i class='fa fa-plus fa-fw'></i>"
+    identifier = "math"
+    url = "/album/math"
+    weight = 3
+    [[menu.main]]
+    name = "Pre-Math"
+    pre = "<i class='fa fa-calculator fa-fw'></i>"
+    identifier = "pre-math"
+    url = "/album/math-pre-math"
+    parent = 'math'
+    weight = 1
+    [[menu.main]]
+    name = "Introduction to Numbers"
+    pre = "<i class='fa fa-list-ol fa-fw'></i>"
+    identifier = "intro-num"
+    url = "/album/math-intro-num"
+    parent = 'math'
+    weight = 2
+    [[menu.main]]
+    name = "The Decimal System"
+    pre = "<i class='fa fa-grip-lines-vertical fa-fw'></i>"
+    identifier = "decimal-system"
+    url = "/album/math-decimal-system"
+    parent = 'math'
+    weight = 3
+    [[menu.main]]
+    name = "Study of Addition"
+    pre = "<i class='fa fa-plus fa-fw'></i>"
+    identifier = "addition"
+    url = "/album/math-addition"
+    parent = 'math'
+    weight = 4
+    [[menu.main]]
+    name = "Study of Subtraction"
+    pre = "<i class='fa fa-minus fa-fw'></i>"
+    identifier = "subtraction"
+    url = "/album/math-subtraction"
+    parent = 'math'
+    weight = 5
+  [[menu.main]]
+    name = "Language"
+    pre = "<i class='fa fa-language fa-fw'></i>"
+    identifier = "language"
+    url = "/album/language"
+    weight = 4
+  [[menu.main]]
+    name = "Art Music Movement"
+    pre = "<i class='fa fa-music fa-fw'></i>"
+    identifier = "art_music_movement"
+    url = "/album/art_music_movement"
+    weight = 5
+  [[menu.main]]
+    name = "Culture"
+    pre = "<i class='fa fa-globe fa-fw'></i>"
+    identifier = "culture"
+    url = "/album/culture"
+    weight = 6
+  [[menu.main]]
+    name = "About"
+    pre = "<i class='fa fa-user fa-fw'></i>"
+    weight = 10
+    identifier = "about"
+    url = "/about/"
