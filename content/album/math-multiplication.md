@@ -4,43 +4,35 @@ weight: 5.3
 toc: true
 ---
 
-# Study of Multiplication
-
-{{< spacer >}}
-
-
 {{< table_of_contents >}}
 
+# Study of Multiplication
 
-{{< spacer >}}
-
-
-
-
-Multiplication with Golden Bead Material
+[Multiplication with Golden Bead Material](#golden-bead-multiplication)\
 Multiplication is adding the same quantity over and over. An introduction to
 the idea of multiplication is done using the familiar golden bead material.
 
-Multiplication with Stamp Game
+[Multiplication with Stamp Game](#stamp-game---multiplication)\
 Multiplication and move toward abstraction: the following lessons 
 may be presented in parallel as a child begins to move toward 
 abstraction with the operation of multiplication.
 
-Multiplication with Bead Bars
+[Multiplication with Bead Bars](#bead-bar-multiplication)\
 This material emphasizes the counting-on aspect of “____ taken ____ times”
 and attaches the equation to the number story of the operation.
 
-Multiplication Board
+[Multiplication Board](#multiplication-board)\
 This material introduces the multiplication fact tables.
 
-Multiplication with Small Bead Frame
+[Multiplication with Small Bead Frame](#bead-frame--multiplication)\
 (see the presentation for addition with bead frame)
 
-Multiplication Working Charts
+[Multiplication Working Charts](#working-charts---multiplication)\
 These charts are used in parallel with the other multiplication materials
 and lessons. They are primarily used to encourage memorization of the fact tables. 
 Chart I and Chart II are used early on as control charts.
 
+{{< spacer >}}
 
 ## Golden Bead Multiplication
 

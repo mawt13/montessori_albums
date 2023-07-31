@@ -83,6 +83,20 @@ paginate = 10
     url = "/album/math-subtraction"
     parent = 'math'
     weight = 5
+    [[menu.main]]
+    name = "Study of Multiplication"
+    pre = "<i class='fa fa-times fa-fw'></i>"
+    identifier = "multiplication"
+    url = "/album/math-multiplication"
+    parent = 'math'
+    weight = 6
+    [[menu.main]]
+    name = "Study of Division"
+    pre = "<i class='fa fa-divide fa-fw'></i>"
+    identifier = "division"
+    url = "/album/math-division"
+    parent = 'math'
+    weight = 7
   [[menu.main]]
     name = "Language"
     pre = "<i class='fa fa-language fa-fw'></i>"
