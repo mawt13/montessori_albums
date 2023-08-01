@@ -1,6 +1,6 @@
 ---
 title: "Introduction to Numbers Section.2.1.22"
-weight: 5.7
+weight: 407
 toc: true
 ---
 

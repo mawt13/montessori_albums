@@ -1,6 +1,6 @@
 ---
 title: "The Study of Addition"
-weight: 5.5
+weight: 405
 toc: true
 ---
 

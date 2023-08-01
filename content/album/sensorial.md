@@ -1,6 +1,6 @@
 ---
 title: "Early Childhood: Sensorial Album"
-weight: 6
+weight: 500
 toc: true
 ---
 

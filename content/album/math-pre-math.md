@@ -1,6 +1,6 @@
 ---
 title: "Pre-Math and Early Math Exercises Section.1.22"
-weight: 5.8
+weight: 408
 toc: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "The Decimal System Section.2.18.22"
-weight: 5.6
+weight: 406
 toc: true
 ---
 

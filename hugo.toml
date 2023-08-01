@@ -97,6 +97,13 @@ paginate = 10
     url = "/album/math-division"
     parent = 'math'
     weight = 7
+    [[menu.main]]
+    name = "Study of Fractions"
+    pre = "<i class='fa fa-percent fa-fw'></i>"
+    identifier = "fraction"
+    url = "/album/math-fractions"
+    parent = 'math'
+    weight = 8
   [[menu.main]]
     name = "Language"
     pre = "<i class='fa fa-language fa-fw'></i>"

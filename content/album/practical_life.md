@@ -1,7 +1,7 @@
 ---
 title: "Early Childhood: Practical Life Album"
 author: "Steph"
-weight: 7
+weight: 600
 toc: true
 ---
 
