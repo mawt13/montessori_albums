@@ -1,0 +1,9 @@
+<div class="{{ if .Get "class"}}{{ .Get "class" }}{{ else }}red-border{{ end }}">
+	{{ .Inner | markdownify }}
+
+	{{ if .Get "src" }}
+	<div class="red-border--img-div">
+		<img src="{{ .Get "src"}}" alt="{{ .Get "img-alt"}}" class="{{ if .Get "img-class" }}{{ .Get "img-class" }}{{ else }}preview-md{{ end }}" \>
+	</div>
+	{{ end }}
+</div>
