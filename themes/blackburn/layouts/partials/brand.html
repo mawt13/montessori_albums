@@ -1,0 +1,6 @@
+{{ with .Site.Params.brand }}
+<div id="brandDiv">
+  <img src="/img/uwrf_logo.png" width="90px" \>
+  <a class="pure-menu-heading brand" href="/">{{ . | safeHTML }}</a>
+</div>
+{{ end }}
