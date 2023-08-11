@@ -16,7 +16,7 @@ Instructors: Emily McDoniels and Caitlin O’Connor
 {{< spacer >}}
 
 
-# Art, Movement, and Music Rational
+## Art, Movement, and Music Rational
 
 The aims of the Art, Music, and Movement curriculum in the Montessori primary classroom are similar to/build upon the aims in the practical life and sensorial areas of the classroom.  For instance, all art, music, and movement lessons could also have as their aim order, coordination, concentration, and independence (the same indirect aims for all practical life lessons) and the sensorial materials involve heightening one’s perception of similarities and differences (which the art, music, and movement curriculum connects to as well).  In addition, the aim of the (further) development of a sense of self and a sense of wonder are held in common between the sensorial area of the classroom and the curricular area of art, music, and movement.  The aim of the art, music, and movement album is to provide guides with the guidance and direct instruction to provide children, at which point it is necessary to let the child lead with their own artistic mind (which will develop naturally unless adults interfere).  As guides in the primary classroom, we can provide the materials and lessons on how to work with said materials, from which point the child can take the lead as the artist and musician.
 
@@ -48,7 +48,7 @@ Pursuing a balance which incorporates the beauty of the arts, music, and movemen
 
 
 
-## Resources
+### Resources
 
 Austin Children’s Academy. (2020, February 29). The Neurology of Montessori for Brain Development. Austin Children’s Academy. Retrieved May 1, 2022, from https://austinchildrensacademy.org/aca-blog/montessori-for-brain-development/ 
 
@@ -66,14 +66,14 @@ University of North Carolina Learning Center. (2022). Movement and Learning. Uni
 {{< spacer >}}
 
 
-# Art Lessons
+## Art Lessons
 1. [Tissue Paper Collage with Metal Insets](#1-tissue-paper-collage-with-metal-insets)
 2. [Oil Painting Lesson](#2-oil-painting-lesson)
 3. [Weaving with a Garden Loom (or Miniature Table Top Loom)](#3-weaving-with-a-garden-loom)
 4. [Watercolor on Drenched Paper](#4-watercolor-on-drenched-watercolor-paper)
 5. [Clay Sculptures of Classroom Materials](#5-sculptures-of-materials-in-the-classroom-with-clay)
 
-## 1. Tissue Paper Collage (with Metal Insets)
+### 1. Tissue Paper Collage (with Metal Insets)
 
 {{< img class="float-right pure-img" src="/img/art/image001.webp" alt="Tissue Paper Collage" >}}
 
@@ -170,7 +170,7 @@ https://www.firstpalette.com/craft/tissue-paper-sun-catchers.html
 {{< spacer >}}
 
 
-## 2. Oil Painting Lesson
+### 2. Oil Painting Lesson
 
 {{< grid-table class="col-2" >}}
 
@@ -257,7 +257,7 @@ Kooness. Top 30 Black Female Painters. 23 July 2021.  https://www.kooness.com/po
 {{< spacer >}}
 
 
-## 3. Weaving with a Garden Loom
+### 3. Weaving with a Garden Loom
 
 {{< figure class="pure-img float-left" src="/img/art/image012.webp" alt="Child Weaving" caption="(https://www.pinterest.com/pin/148478118937771039)" >}}
 
@@ -342,7 +342,7 @@ Diversity 8: DI.K-2.8: I want to know about other people and how our lives and e
 {{< spacer >}}
 
 
-## 4. Watercolor on Drenched Watercolor Paper
+### 4. Watercolor on Drenched Watercolor Paper
 
 {{< figure class="pure-img float-right" src="/img/art/image019.webp" alt="Watercolor" caption="(https://www.dreamstime.com/watercolor-handdrawn-background-art-water-splashes-blue-purple-aquarelle-color-wallpaper-paint-paper-texture-cosmos-space-image175293402)" >}}
 
@@ -399,7 +399,7 @@ Identity 4: ID.K-2.4 I can feel good about myself without being mean or making o
 
 {{< spacer >}}
 
-## 5. Sculptures of Materials in the Classroom with Clay 
+### 5. Sculptures of Materials in the Classroom with Clay 
 
 (Examples: geometric solids, bead stair, miniature red rods, land and water forms, etc.)
 
@@ -498,7 +498,7 @@ She incorporates poetry, ceramics, ambient sound, and video, creating a sensoria
 {{< spacer >}}
 
 
-# Movement Lessons
+## Movement Lessons
 1. [Walking/Balancing on Gonge River Stones](#1-walkingbalancing-on-gonge-river-stones)
 2. [Tracing Lazy/Sideways 8s](#2-tracing-lazysideways-eightselephant-trunk-lazy-eights)
 3. [Log Rolls](#3-log-rolls)
@@ -507,7 +507,7 @@ She incorporates poetry, ceramics, ambient sound, and video, creating a sensoria
 
 
 
-## 1. Walking/Balancing on Gonge River Stones
+### 1. Walking/Balancing on Gonge River Stones
 
 {{< figure class="float-right" src="/img/art/image031.webp" alt="Riverstones" caption="https://www.fatbraintoys.com/toy_companies/educators_resource/gonge_riverstones.cfm" >}}
 
@@ -554,7 +554,7 @@ She incorporates poetry, ceramics, ambient sound, and video, creating a sensoria
 
 
 
-## 2. Tracing “Lazy”/”Sideways” Eights/”Elephant Trunk” Lazy Eights
+### 2. Tracing “Lazy”/”Sideways” Eights/”Elephant Trunk” Lazy Eights
 
 {{< figure class="float-right" src="/img/art/image032.webp" alt="Figure Eights" caption="(Image courtesy of: wholebrainliving.com)" >}}
 
@@ -608,7 +608,7 @@ Consider explaining some of the benefits for making the sideways eights (it’s 
 
  
 
-## 3. Log-Rolls
+### 3. Log-Rolls
 
 {{< figure class="float-right" src="/img/art/image033.webp" alt="Log-Rolls" caption="My Gym Children’s Fitness Center. Build Kid’s Core Strength with Log Rolls!   https://www.youtube.com/watch?v=5ZE8tDHYBIQ, uploaded 15 June 2017.  Downloaded 30 April 2022." >}}
 
@@ -645,7 +645,7 @@ Consider explaining some of the benefits for making the sideways eights (it’s 
 {{< spacer >}}
 
 
-## 4. Mirror Me Activity
+### 4. Mirror Me Activity
 
 **Preparation:** Lessons with the guide (because the child has already practiced repeating the guide’s actions/movements with increasing perfection)
 
@@ -678,7 +678,7 @@ Consider explaining some of the benefits for making the sideways eights (it’s 
 {{< spacer >}}
 
 
-## 5. Crawling on the Ellipse/Progressing to an “Alligator” Crawl on the Line
+### 5. Crawling on the Ellipse/Progressing to an “Alligator” Crawl on the Line
 
 **Preparation:** Walking on the line, grace and courtesy lessons
 
@@ -723,7 +723,7 @@ Associating different music with different ways of moving along the ellipse (exe
 
 
 
-# Music Lessons
+## Music Lessons
 
 1. [Introduction to the Orchestra/Landfill Harmonic Lesson](#1-introduction-to-the-orchestra-welcome-to-the-symphony-lesson-and-introduction-to-landfill-harmonic-and-the-recycled-orchestra)
 2. [Introduction To Classical Composers and Moving to their Music Along the Ellipse](#2-introduction-to-classical-composers-from-and-moving-to-their-music-along-the-line)
@@ -734,7 +734,7 @@ Associating different music with different ways of moving along the ellipse (exe
 
 
 
-## 1. Introduction to the Orchestra: Welcome to the Symphony Lesson AND Introduction to Landfill Harmonic and The Recycled Orchestra
+### 1. Introduction to the Orchestra: Welcome to the Symphony Lesson AND Introduction to Landfill Harmonic and The Recycled Orchestra
 
 {{< grid-table class="col-2" >}}
 
@@ -822,7 +822,7 @@ An orchestra is when a group of instrumentalists work together to create beautif
 {{< spacer >}}
 
 
-## 2. Introduction to Classical Composers from and moving to their music along the line
+### 2. Introduction to Classical Composers from and moving to their music along the line
 
 {{< img class="float-right" src="/img/art/image036.webp" alt="Wolfgang Mozart Book">}}
 
@@ -899,7 +899,7 @@ Music/Musicians to Explore: Mozart, Beethoven, and all of the artists listed bel
 
 {{< spacer >}}
 
-## 3. Music: Exploring Various Artists from the Indigenous and POC Communities
+### 3. Music: Exploring Various Artists from the Indigenous and POC Communities
 
 **Preparation:** Listening to the sound of a bell/quieting at the sound of the three-tone bell
 
@@ -962,7 +962,7 @@ All of the musicians listed above
 
 
 
-## 4. Dancing with Green and Blue Scarves to Little Blue World by Jeremy Messersmith
+### 4. Dancing with Green and Blue Scarves to Little Blue World by Jeremy Messersmith
 
 {{< grid-table class="col-2" >}}
 
@@ -1028,7 +1028,7 @@ All of the musicians listed above
 
 
 
-## Music Lesson 5: Exploring Lullabies of Families in the Classroom as well as lullabies from around the world
+### Music Lesson 5: Exploring Lullabies of Families in the Classroom as well as lullabies from around the world
 
 {{< img class="float-right" src="/img/art/image043.webp" alt="Hush Baby Hush Book" >}}
 
@@ -1080,7 +1080,7 @@ All of the musicians listed above
 {{< spacer >}}
   
 
-## Music Lesson 6: What a Wonderful World by George David Weiss and Bob Thiele, illustrated by Ashley Bryan, sung by Louis Armstrong
+### Music Lesson 6: What a Wonderful World by George David Weiss and Bob Thiele, illustrated by Ashley Bryan, sung by Louis Armstrong
 
 {{< grid-table class="col-2" >}}
 

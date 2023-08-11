@@ -31,7 +31,9 @@
 
   {{ partial "social.html" . }}
 
-  {{ partial "toc.html" . }}
+<div id="toc-sidenav">
+  {{ .Page.TableOfContents }}
+</div>
 
   <hr>
 

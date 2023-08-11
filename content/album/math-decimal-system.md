@@ -4,7 +4,7 @@ weight: 406
 toc: true
 ---
 
-# The Decimal System
+## The Decimal System
 
 >The decimal system is the foundation on which we rely
 to sort numerical quantities.\
@@ -36,7 +36,7 @@ guidelines outlined by child psychology, 1934/2016, page 11
 {{< table_of_contents >}}
 
 
-## Introductory Tray
+### Introductory Tray
 
 Learning the quantities and symbols for 1, 10, 100, 1000
 
@@ -169,7 +169,7 @@ Montessori, Maria,  Psychoarithmetic: Arithmetic developed under the guidelines 
 
 
 
-## Building Tray (Tray of Nines)
+### Building Tray (Tray of Nines)
 
 Showing the relationship between 1, 10, 100, 1000 – the “final play between nine and ten” as the move is made to the next order/hierarchy. 
 
@@ -180,7 +180,7 @@ Psychoarithmetic: Arithmetic developed under the guidelines outlined by child ps
 
 There is a lesson that developed over the years called the Crisis of 9s. The lesson and the pictures are here BEFORE the Building Tray Lesson which we much prefer since it requires a great deal less time, uses the building tray (Tray of 9s), the cards for 999,  one card for 1000 and has a fun surprise – the “final play.”  This lesson Follows the Crisis of Nines lesson.
 
-### Crisis of Nines Lesson
+#### Crisis of Nines Lesson
 
 **Materials:**
 * Tray containing nine each of one beads, ten bars, and hundred squares AND a single thousand cube
@@ -300,7 +300,7 @@ The layout on the left is used as a small “bank” for practice composing numb
 {{< spacer >}}
 
 
-### Building Tray- Tray of Nines
+#### Building Tray- Tray of Nines
 
 **Materials:**\
 Tray containing nine each of one/ unit beads, ten bead bars, and hundred bead squares AND then contents of the Decimal tray: a single thousand cube, a 100 square, 1 ten bar and a one/ unit. You can either bring the tray or the content to the rug but it must be hidden under a cloth and ideally out of sight or behind the teacher. Note that the UNIT bead needs to be placed in a  small special box/ container/ bag. 
@@ -362,7 +362,7 @@ The layout may be done in different ways:
 
 
 
-## Decimal Layout (45 Layout)
+### Decimal Layout (45 Layout)
 Illustration of the concept of number for the numbers shown: 1-9, 10-90, 100-900, 1000-9000.
 
 **3 presentations:**\
@@ -534,7 +534,7 @@ Xavier University Montessori Teacher Education Program, Spring 2010 revision
 Kateri Carver, PhD, Center for Montessori Teacher Education, North Carolina, 1987
 
 
-### Variation images 
+#### Variation images 
 
 {{< grid-table class="col-2" >}}
 
@@ -558,7 +558,7 @@ Kateri Carver, PhD, Center for Montessori Teacher Education, North Carolina, 198
 {{< spacer >}}
 
 
-## The Bank Game
+### The Bank Game
 
 Fetching different quantities and then quantities & symbols.\
 “Go to the bank and get _______.”
@@ -699,7 +699,7 @@ Xavier University Montessori Teacher Education Program, Spring 2010 revision
 {{< spacer >}}
 
 
-## Number Composition
+### Number Composition
 
 Extending the Bank Game:  introduces zero as a place holder and shows how numbers are composed AND written.
 
@@ -813,7 +813,7 @@ Montessori, Maria, Psychoarithmetic: arithmetic developed under the guidelines o
 {{< spacer >}}
 
 
-## Reading Composed Numbers
+### Reading Composed Numbers
 
 Extending the Bank Game:  shows how to read (and de-compose) an already-composed number.
 
@@ -874,7 +874,7 @@ Work with two children – give one child a “secret message” to read (not sh
 Kateri Carver, PhD, Center for Montessori Teacher Education, North Carolina,2001 addition to 1987 album 
 
 
-## Exchange Games
+### Exchange Games
 Practice exchanging quantities between hierarchies.
 
 **Materials:**
@@ -1007,7 +1007,7 @@ Montessori, Maria, Psychoarithmetic: Arithmetic developed under the guidelines o
 
 
 
-### The “Little Bank” Game
+#### The “Little Bank” Game
 
 This is an assessment tool for decimal system presentations and practice with relationships between quantities, symbols, and hierarchical relationships. 
 
@@ -1037,7 +1037,7 @@ Kateri Carver PhD, Center for Montessori Teacher Education, North Carolina, 1987
 {{< spacer >}}
 
 
-## MAKING A NUMBER ROLL
+### MAKING A NUMBER ROLL
 
 (We will create a sample number roll at Face to Face and then students should complete the write-up.)
 

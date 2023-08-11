@@ -5,7 +5,7 @@ toc: true
 ---
 
 
-# Study of Addition
+## Study of Addition
 
 
 {{< spacer >}}
@@ -17,7 +17,7 @@ toc: true
 {{< spacer >}}
 
 
-## Introduction to Symbols: “+” and “=”
+### Introduction to Symbols: “+” and “=”
 **NOTE:** This same approach may be used to introduce other operational symbols: ×, - , ÷
 
 **Materials:**\
@@ -105,7 +105,7 @@ Extend the lesson by asking about more and less: “Give yourself more than I ha
 
 
 
-## Red and Blue Rods - Addition
+### Red and Blue Rods - Addition
 
 **Materials:**\
 Red and Blue rods, numeral cards, 2 sets of “+” and “=” signs
@@ -188,7 +188,7 @@ Montessori, Maria, Psychoarithmetic: arithmetic developed under the guidelines o
 
 
 
-## Bead Bars - Addition
+### Bead Bars - Addition
 
 **Materials:**
 box of colored bead bars – enough to construct three bead stairs
@@ -262,7 +262,7 @@ Maria Montessori. Psychoarithmetic: Arithmetic Developed under the Guidelines Ou
 
 
 
-## Addition Strip Board
+### Addition Strip Board
 
 **Materials:**
 * Addition Strip Board – heavy line dividing the board vertically after the 10th square
@@ -366,7 +366,7 @@ Maria Montessori. Psychoarithmetic: Arithmetic developed under the guidelines ou
 
 
 
-## Golden Bead Material – Static Addition
+### Golden Bead Material – Static Addition
 
 **Materials:**
 * Golden Bead Material
@@ -464,7 +464,7 @@ Maria Montessori, Psychoarithmetic: Arithmetic developed under the guidelines ou
 {{< spacer >}}
 
 
-## Golden Bead Material – Dynamic Addition
+### Golden Bead Material – Dynamic Addition
 
 **Materials:**
 * Golden Bead Material
@@ -551,7 +551,7 @@ Maria Montessori. Psychoarithmetic: Arithmetic developed under the guidelines ou
 
 
 
-## Stamp Game – Static Addition
+### Stamp Game – Static Addition
 
 **Materials:**
 Stamp Game 
@@ -662,7 +662,7 @@ Maria Montessori, Psychoarithmetic: Arithmetic developed under the guidelines ou
 
 
 
-## Stamp Game – Dynamic Addition
+### Stamp Game – Dynamic Addition
 
 **Materials:**
 * Stamp Game 
@@ -770,7 +770,7 @@ Two-Handed Exchange
 {{< spacer >}}
 
 
-## Bead Frame - Addition
+### Bead Frame - Addition
 
 {{< img class="float-right" src="/img/math/addition/image024.webp" alt="Bead Frame" >}}
 
@@ -874,7 +874,7 @@ Maria Montessori. Psychoarithmetic: Arithmetic developed under the guidelines ou
 
 
 
-## Working Charts - Addition
+### Working Charts - Addition
 
 **Materials:**
 * Chart 1:  Addition Fact Chart contains 81 basic addition facts: 1+1 to 9+9. It is used as a control chart to check work. 
@@ -919,7 +919,7 @@ Practice identifying the sum of any two number combinations from 1 to 10 by usin
 **Age:** 5 – 6 years
 
 
-### Addition Chart I – 81 Basic Facts
+#### Addition Chart I – 81 Basic Facts
 
 
 {{< img class="pure-img" src="/img/math/addition/image031.webp" alt="Working Charts 1 Addition" >}}
@@ -948,7 +948,7 @@ Practice identifying the sum of any two number combinations from 1 to 10 by usin
 
 
 
-### Addition Chart II – Commutative Property
+#### Addition Chart II – Commutative Property
 
 {{< img class="pure-img" src="/img/math/addition/image032.webp" alt="Working Charts 2 Addition" >}}
 
@@ -963,7 +963,7 @@ Practice identifying the sum of any two number combinations from 1 to 10 by usin
 
 
 
-### Addition Chart III – Addition Finger Chart (FIRST)
+#### Addition Chart III – Addition Finger Chart (FIRST)
 
 {{< img class="pure-img" src="/img/math/addition/image033.webp" alt="Working Charts 3 Addition" >}}
 
@@ -978,7 +978,7 @@ Practice identifying the sum of any two number combinations from 1 to 10 by usin
 4. To encourage memorization, the chart and the equation paper/recording paper could be in different areas of the room. This will require the child to hold the equation and sum in his/her mind while walking back to the table with the multiplication table paper and pencil.
 
 
-### Addition Chart IV – Half Chart
+#### Addition Chart IV – Half Chart
 
 {{< img class="pure-img" src="/img/math/addition/image034.webp" alt="Working Charts 4 Addition" >}}
 
@@ -994,7 +994,7 @@ Practice identifying the sum of any two number combinations from 1 to 10 by usin
 4. Now, move the other finger (on the greater number) to the right in its row but stop in the column also occupied by the other finger. This (greater number) finger is now resting on the resulting product of the two factors – the answer.
 
 
-### Addition Chart V
+#### Addition Chart V
 
 {{< img class="pure-img" src="/img/math/addition/image035.webp" alt="Working Charts 5 Addition" >}}
 
@@ -1014,7 +1014,7 @@ Practice identifying the sum of any two number combinations from 1 to 10 by usin
 
 
 
-### Addition Chart VI – Blind Chart
+#### Addition Chart VI – Blind Chart
 
 {{< img class="pure-img" src="/img/math/addition/image036.webp" alt="Working Charts 6 Addition" >}}
 
@@ -1052,7 +1052,7 @@ Maria Montessori. Psychoarithmetic: Arithmetic developed under the guidelines ou
 {{< spacer >}}
 
 
-## The Dot Game
+### The Dot Game
 
 **Prerequisites:** Addition and Subtraction with Golden Bead, Addition and Subtraction Stamp Game.
 

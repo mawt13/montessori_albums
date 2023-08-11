@@ -27,7 +27,7 @@ Early Childhood Sensorial Album
 
 {{< spacer >}}
 
-# Sensorial Rationale
+## Sensorial Rationale
 
 The Montessori classroom is inviting and contains within a variety of materials developed by Montessori (or adapted from the materials developed by Edouard Seguin and Jean Itard).  There are a variety of materials and areas of development addressed through the child’s work in all areas of the Montessori classroom, of which the sensorial materials are of crucial importance.  Upon observing Montessori classrooms, many visitors are struck by the level of concentration and/or the amount of repetition children engage in while working with the sensorial materials.  The sensorial area of the classroom is beautiful and inviting to the children; the children’s concentration and engagement with these materials helps set the tone for their intellectual, social-emotional, and physical development and are an aid to children’s lives, as Maria Montessori believed education should be.
 
@@ -55,7 +55,7 @@ Though my experience with Montessori materials is still limited, I have always b
 
 The sensorial materials are an aid to children’s development and lives both inside and outside of the classroom.  In addition to the beauty and intriguing quality of the sensorial materials, they help children gain sensorial impressions of objects, such as an object’s height, length, shape, volume, and various other characteristics.  These help prepare children for scientific exploration and the mathematical concepts explored within the three-year cycle of the Montessori classroom.  The sensorial materials are beautiful, inviting, and highly important and valued in the Montessori classroom.  
 
-## References
+### References
 
 Standing, E.M. (1957 and 1998).  Maria Montessori: Her Life and Work.   Plume, 158-168.
 
@@ -66,9 +66,9 @@ Montessori, M. (1909 and 2017). The Discovery of the Child. Montessori Pierson P
 {{< spacer >}}
 
 
-# INTRODUCTION TO SENSORIAL
+## INTRODUCTION TO SENSORIAL
 
-## Sensorial Class Notes: Day 1:
+### Sensorial Class Notes: Day 1:
 
 * Can make your own tasting (gustatory) bottles with bottles from Amazon (1.7 oz) or eye dropper bottles for herbs from co-op
 * 2 credit class….we will not be working in here on Friday….Thursday can be time to practice and oral lessons….wrapping up/cleaning up environment….heading out about 1:00 on Thursday
@@ -85,7 +85,7 @@ Montessori, M. (1909 and 2017). The Discovery of the Child. Montessori Pierson P
 
 * Only want to get the tips of your first two fingers (not thumb) wet
 * Begin with grace and courtesy, practical life lessons, then proceed to sensorial, Pink Tower/Tower of Cubes, Broad Stair, Rods of Length
-* Practical life varies by culture; sensorial is consistent across culture, these items stay out all year and can be varied with **Extensions:** starts with 2.5-4 year olds, want them to be able to discriminate, fine-tune senses for academics…noticing the difference in cubes helps child notice differences between a p, d, and b….
+* Practical life varies by culture; sensorial is consistent across culture, these items stay out all year and can be varied with Extensions: starts with 2.5-4 year olds, want them to be able to discriminate, fine-tune senses for academics…noticing the difference in cubes helps child notice differences between a p, d, and b….
 * Most sensorial materials are done on rugs (because they’re big); practical life was often done on tables….
 * Sensorial pre-writing goes on a table, anything big and clunky goes on a rug
 * There’s no sensorial area in E1 classrooms, but there’s a big geometry component in sensorial…in E1 they have a math area and a geometry area; the sensorial area becomes the geometry area in E1
@@ -157,7 +157,7 @@ Game you can play online to help you notice subtle color differences: I Love Hue
 
 {{< spacer >}}
 
-## Sensorial In-Person Class Day 2:
+### Sensorial In-Person Class Day 2:
 * Montessori Research and Development book from Montessori standards that discusses objectives of Montessori lessons and how it corresponds to the state standards (for children’s house)…nobody has done this for E1-E2
 * You can’t exactly quantify what a child is taking away from each lesson….when children are learning, it’s challenging…mastery takes a lot of effort and time, but once mastered, the work can become meditative…can still keep works open for them even when its beyond the children’s development….older children can teach younger children
 * Repetition crucial in Montessori….have a spiral curriculum: learning it at the sensorial level before the concrete/abstract E1-E2 level…..
@@ -196,7 +196,7 @@ Game you can play online to help you notice subtle color differences: I Love Hue
 {{< spacer >}}
 
 
-## Sensorial Day 3 Notes:
+### Sensorial Day 3 Notes:
 
 * Tactile, stereognostic, baric, thermic, gustatory, olfactory
 * Testing day tomorrow….
@@ -497,7 +497,7 @@ Basket of Affirmations: Kobold’s Box in the classroom:  (also a PBIS system):
 {{< spacer >}}
 
 
-# Lecture 10: Unlocking the Intelligence:
+## Lecture 10: Unlocking the Intelligence:
 * “To human beings, identities are more strikingly visible than dissimilarities.  For instance, one’s attention is easily drawn to twins.  Contrasts, too, attract attention.  This is why when we present the materials, we start with the extremes.  Once the attention is focused and the interest aroused by experience, we can help the child through the gradations to arrive at a refinement of observation and intelligence.  This gradation allows the individual to appreciate small differences” (80).
 * “If the gradation is measured, if the distances between each differing objects are alike, the observation becomes methodical, scientific, clear and constructive for the mind and the clarity of perception is greater” (80).
 * “Another important factor is the isolation of the sense….If one sense is isolated, it seems to be enhanced in its power of perception. The possibility of perception is more profound” (80).
@@ -507,7 +507,7 @@ Basket of Affirmations: Kobold’s Box in the classroom:  (also a PBIS system):
 * “…(T)he isolation of the senses is a great help towards the clarity of reception of the impressions.  If we wish to be of help to children, we must help them achieve something which they cannot achieve by themselves, such as the theory of color, or the three dimensions of the relativity of heat.  You can not explain all these facts in words.  However, you can pave the way for experiences through which the subconscious mind will become imbued with these facts.  They will come to recognize them unconsciously, and they will therefore appreciate the differences, etc., though comparison and their own experiences.  They will be able to learn for themselves something which we could not transmit by using words alone.  We give an abstraction.  They learn to understand this abstract concept by using the material.  We call this mechanism materialized abstraction” (81).
 * Practical help we can give: “It is through the eyes that we receive impressions of color, size, and shape” (81).
 
-## Cylinders:
+### Cylinders:
 * “Cylinders give an impression of shape”…The various sets of cylinder differ in: one dimension, two dimensions, three dimensions (81).
 * “It would be very difficult to make a child understand if I spoke to him about it as I have to you.  A child would not be interested in an explanation.  But at 2.5 years, children are eager to acquire motor experiences along certain lines; they ar also eager when they are 1.5 and 2 years” (82).
 * Introduce gradations: children enjoy learning to recognize identities (and gradations)…recognizing the two extremes is easiest and one should start with the presentation there
@@ -522,7 +522,7 @@ Basket of Affirmations: Kobold’s Box in the classroom:  (also a PBIS system):
 * “Once he has acquired the power of observation and discrimination, you can give him the other sets” (83)….do not present the sets on the same day.  Then give: 2 sets together, three sets together, all sets together.  
 * **Direct Aim:**visual discrimination of size; in**Direct Aim:**preparation for writing/holding the pencil.  Control of error is in the material (the cylinders can only be placed flush in their correct places).  **Age:** 2.5-3
 
-## Pink Tower, Broad Stair, Long Rods:
+### Pink Tower, Broad Stair, Long Rods:
 * Aim: to aid visual discrimination of size or dimensions
 * The Long Rods differ in 1 dimension
 * The Broad Stair differs in 2 dimensions
@@ -536,13 +536,13 @@ Basket of Affirmations: Kobold’s Box in the classroom:  (also a PBIS system):
 
 * Start with only 3-4 of the long rods, then gradually increase these as they have been mastered. Place the rods next to each other longest to shortest with one end level to each of the rods.  Run your finger along each of the rods as you place them next to each other one end to the other.  This is to achieve a muscular impression of the length of the rods (85).
 
-## Broad Stair
+### Broad Stair
 * Must be placed with great precision for clarity….pick up the largest with one hand, then the next, placing them alongside each other.  Emphasize that the prisms must be put on the same level.  “Your interest, seriousness, and attention will make the child realize that it is important” (85).
 * The difference is in 2 dimensions, so hold the prisms across their thickness, allowing the whole hand to receive the impression of their thickness (85)
 * **Direct Aim:**Visual discrimination of dimensions; In**Direct Aim:**Muscular education of grip, preparation of the mechanical mind
 * **Control of Error:** the arrangement of the prisms lacks harmony; if a mistake is made, let children try again…experience helps them acquire subtleties of perception.  Do not point out the error…(86).
 
-## Pink Tower:
+### Pink Tower:
 * The tiny cube can disappear if you’re not careful
 * Take the large cube in one hand 
 * Differences are in three dimensions
@@ -551,7 +551,7 @@ Basket of Affirmations: Kobold’s Box in the classroom:  (also a PBIS system):
 * **Age:** 2.5-3 years
 * **Control of Error:** The eye of the child, which will see harmony (or note disharmony)
 
-## Indirect Preparation:
+### Indirect Preparation:
 * “In every action there is a motive of interest.  Through it, the organs are prepared for something in the future.  It is the conscious interest of the moment that prepares the intelligence and the organ for future development, though the individual is unaware of this” (86-87).
 * Immediate interest enables children to acquire skills/coordination required…holding the knob of the cylinders with the first two fingers and thumb is a preparation of the coordination of hand for writing.  At a later age the intelligence of the child will urge him to write…he will be impeded if not prepared (87).
 * The mathematical mind is especially interested in mathematics, finding them interesting and absorbing.  Most children in Montessori schools are enthusiastic about mathematics, due to the preparation of their minds (87).
@@ -573,9 +573,9 @@ Montessori, M. (2012). The 1946 London Lectures. Amsterdam: Montessori-Pierson P
 {{< spacer >}}
 
 
-# Practical Life: Spooning Pros and Cons List:
+## Practical Life: Spooning Pros and Cons List:
 
-## Video 1: Transferring with a Ladle :
+### Video 1: Transferring with a Ladle :
 
 {{< pure_table
 "Pros|Cons"
@@ -590,7 +590,7 @@ Montessori, M. (2012). The 1946 London Lectures. Amsterdam: Montessori-Pierson P
 {{< spacer >}}
 
 
-## Video 2:   Water Pouring Exercise 1:
+### Video 2:   Water Pouring Exercise 1:
 
 {{< pure_table
 "Pros|Cons"
@@ -604,9 +604,9 @@ Montessori, M. (2012). The 1946 London Lectures. Amsterdam: Montessori-Pierson P
 
 {{< spacer >}}
 
-# Sense of Touch
+## Sense of Touch
 
-## Exploration of the Sense of Touch in Nature
+### Exploration of the Sense of Touch in Nature
 
 ****Materials:**** Outside: Grass, Leaves, Trees, Stones, Rocks, Sand, Dirt, (if these are not available in your location, consider bringing them in), flower petals, several plastic bins, several towels
 
@@ -681,11 +681,11 @@ Extensions Gradually add other items to sensorially explore through the sense of
 {{< spacer >}}
 
 
-## Exploring the Five Senses in Nature Journal
+### Exploring the Five Senses in Nature Journal
 
 (for children who are not writing on their own, have a guide or another child help write the words they dictate in this journal)
 
-### Sensorial Album Notes:
+#### Sensorial Album Notes:
 
 * Practical life activities are not a prereq. For the Sensorial activities, but are a companion to these materials.
 * OCCI=Order, Coordination, Concentration, Independence
@@ -714,9 +714,9 @@ Extensions Gradually add other items to sensorially explore through the sense of
 
 {{< spacer >}}
 
-# The Montessori Method: Chapters 12 and 13 Notes
+## The Montessori Method: Chapters 12 and 13 Notes
 
-## Chapter 12: Education of the Senses:
+### Chapter 12: Education of the Senses:
 
 * “The education of the senses must undoubtedly assume the greatest importance” (128).
 * “Pedagogy…is not designed to measure the sensations, but educate the senses” (128).
@@ -763,7 +763,7 @@ Extensions Gradually add other items to sensorially explore through the sense of
 * In regards to the distribution of the stimuli: one should proceed from few stimuli that strongly contrast to may stimuli in gradual differentiation always more fine and imperceptible (138).  For example, presenting the shortest and longest of the red rods, the thinnest and thickest of the broad stair, then the delicately different in tints or thickness or length (138).
 
 
-## Chapter 13: Education of the Senses and Illustrations of the Didactic Material: General Sensibility, the Tactile, Thermic, Baric, and Stereognostic Senses:
+### Chapter 13: Education of the Senses and Illustrations of the Didactic Material: General Sensibility, the Tactile, Thermic, Baric, and Stereognostic Senses:
 
 * “The education of the tactile and thermic senses go together…the warm bath, and heat, render the tactile sense more acute.  …(for the tactile sense), bathing the hands in warm water has the additional advantage of teaching the child a principle of cleanliness-that of not touching objects with hands that are not clean”…have children wash hands, care for their nails, etc., as preparation for the tactile stimuli (140).
 * Limit the tactile exercise to the cushioned tips of the fingers…prepares the person to use the medium of the finger tips (140).
@@ -846,7 +846,7 @@ Extensions Gradually add other items to sensorially explore through the sense of
 * Montessori helped her students achieve perfect silence by drawing the childrens’ attention to the silence of a sleeping baby and challenged the students to be as silent as the sleeping infant.  She referred to the infant as the children’s teacher…”None of you knows how to be as quiet as she does” (157-158).
 
 
-## Sensory Processing Video: A Child’s View of Sensory Processing:
+### Sensory Processing Video: A Child’s View of Sensory Processing:
 
 * SPD is caused by when the messages your brain gets from its environment are not organized, so you don’t respond to things like most people do….makes daily routines more challenging
 * Seven Sensory Systems: Sound, Taste, Smell, Vision, Touch, Proprioception, and Vestibular
@@ -861,9 +861,9 @@ Extensions Gradually add other items to sensorially explore through the sense of
 {{< spacer >}}
 
 
-# The Discovery of the Child: Chapters 9 and 10 Notes
+## The Discovery of the Child: Chapters 9 and 10 Notes
 
-## Chapter 9: On the Training of the Senses:
+### Chapter 9: On the Training of the Senses:
 * “But there has not been a serious attempt to prepare a systematic method for training the senses of individuals.  Yet I believe that psychometrics should be more concerned with the DEVELOPMENT of the INDIVIDUAL than of the instrument” (168, emphasis mine).
 * “(T)he training of the senses is a matter of the greatest importance in education” (168).
 * There are biological and social aims in education.  “The biological objective is to assist the natural development of the individual; the social objective consists in preparing the individual for his environment, and this also embraces professional education, which teaches an individual how to make use of his surroundings” (168).
@@ -894,7 +894,7 @@ Extensions Gradually add other items to sensorially explore through the sense of
 * “The senses are organs for the apprehension of images of the external world necessary for the mind, just as the hand is the organ for grasping material needed by the body.  But both hand and senses can be perfected to perform much higher tasks and thus become ever more worthy servants of the spirit that retains them in its service” (173).
 * “Any real education of the intellect, should also raise the potentialities of these two faculties, which are capable of almost indefinite improvement” (173).
 
-## Chapter 10: The Teacher:
+### Chapter 10: The Teacher:
 
 * “It is not a question of giving the child knowledge about the qualities of things, such as size, shape, and color, by means of various objects.  Nor is it her aim to train a child to use the materials correctly.  This would put our material in competition with that of others” (175).
 * “(O)ur materials are not a new means to be placed in the hands of an ‘active’ teacher to help her with her teaching.  Rather, there is a radical change in method.  Activity has hitherto been the special competence of the teacher, but in our system it is left mainly to the child” (175).
@@ -923,7 +923,7 @@ Extensions Gradually add other items to sensorially explore through the sense of
 * “(T)he teacher keeps watch so that a child who is absorbed in his work is not disturbed by one of his companions.  This office of being the “guardian angel” of minds concentrated on work that will improve them is one of the most solemn duties of the teacher” (178).
 * “In her duty of guiding a child in using the material, a teacher must make a distinction between two different periods.  In the first she puts the child in contact with the material and initiates him in its use.  In the second she intervenes to enlighten a child who has already succeeded in distinguishing differences through his own spontaneous efforts.  It is then that she can determine the ideas acquired by a child, if this is necessary, and provide him with words to describe the differences he has perceived” (179).
 
-## What did it teach you?  Is it giving you a new awareness of the Sensorial area?
+### What did it teach you?  Is it giving you a new awareness of the Sensorial area?
 
 In considering the importance/value of the Sensorial materials and their use for the students, I was struck by the statements regarding assisting the natural development of the child (169) and adapting an individual to his environment.  It seems obvious how the sensorial materials and their sequencing would aid the children in both.  The way in which Dr. Montessori envisioned the training of the senses and prepared materials for this very purpose was based on science, and the ways in which these materials have helped young minds expand and grow over the years have been fascinating.
 
@@ -939,11 +939,11 @@ Teachers as those who meticulously arrange the environment for the exploration (
 {{< spacer >}}
 
 
-# The Discovery of the Child: Chapters 6&7 Notes:
+## The Discovery of the Child: Chapters 6&7 Notes:
 
 Montessori, Maria.  (1909, 2017). The Discovery of the Child. M.J. Costelloe, S.J. Fides Publishers Inc.  Kelpin, Fred, MontessoriPierson Publishing Company.
 
-## Chapter 6: The Materials for Development:
+### Chapter 6: The Materials for Development:
 * Developed partly from the materials used by Itard and Seguin in their education of children with disabilities.  The reactions of the children to the learning materials, the ways in which they were used, and the advantages derived from them, led to the reliable criteria…color, size, and shape were determined by experience (111).
 * “The training and sharpening of the senses has the obvious advantage of enlarging the field of perception and of offering an ever more solid foundation for intellectual growth.  The intellect builds up its store of practical ideas through contact with, and explanation of, its environment.  Without such concepts the intellect would lack precision and inspiration in its abstract operation” (111).
 * The sensorial materials aid in the training/refinement of the senses (111)
@@ -971,7 +971,7 @@ Montessori, Maria.  (1909, 2017). The Discovery of the Child. M.J. Costelloe, S.
 * Children are explorers of their world and need the paths that point them towards their goals… “He..passionately attaches himself to those things, limited and direct in scope, which bring order into the chaos that has been created within him; and with this order, they provide light for his exploring mind and a guide for his researches” (117).
 * If children have too many objects/materials in their environment, it creates chaos/discouragement (and overstimulation).
 
-## Chapter 7: The Exercises: How a Teacher Should Give a Lesson: Comparison with the Older Systems:
+### Chapter 7: The Exercises: How a Teacher Should Give a Lesson: Comparison with the Older Systems:
 
 * The sensorial lessons are given individually, the teacher approaches this cautiously, merely beginning by picking up a material that she thinks might interest the child
 * The lesson is as if the guide is making experiments, calling the child’s attention to the material…if it meets the child’s needs, this leads to prolonged working with the material
@@ -1042,13 +1042,13 @@ Montessori, Maria.  (1909, 2017). The Discovery of the Child. M.J. Costelloe, S.
 {{< spacer >}}
 
 
-# THE SENSORIAL MATERIALS
+## THE SENSORIAL MATERIALS
 
-## I VISUAL
+### I VISUAL
 
-### A. Size
+#### A. Size
 
-#### 1.  The Knobbed Cylinders
+##### 1.  The Knobbed Cylinders
 
 {{< img class="pure-img float-right" src="/img/sensorial/image018.webp" alt="Knobbed Cylinders Closeup" >}}
 
@@ -1059,24 +1059,24 @@ Montessori, Maria.  (1909, 2017). The Discovery of the Child. M.J. Costelloe, S.
 
 "The order which I have given refers to the degree of ease with which the child performs the exercises." Montessori
 
-#### 2. Tower of Cubes - discrimination of volume
+##### 2. Tower of Cubes - discrimination of volume
 
 {{< img class="pure-img float-right" src="/img/sensorial/image019.webp" alt="Pink Tower Closeup" >}}
 
 10 cubes which decrease in 3 dimensions the sides diminish from 10 cm3  to 1 cm3
 
-#### 3. Broad Prisms - discrimination of width
+##### 3. Broad Prisms - discrimination of width
 
 10 prisms which decrease in 2 dimensions ; the height and width diminishes from 10 cm3 to 1 cm3
 
-#### 4. Length Rods - discrimination of length
+##### 4. Length Rods - discrimination of length
 
 {{< img class="pure-img float-right" src="/img/sensorial/image020.webp" alt="Length Rods Closeup" >}}
 
 10 rods which decrease in 1 dimension length diminishes from 1 meter to 10 cm.
 
 
-#### 5. The Knobless Cylinders - corresponds to the Knobbed Cylinders
+##### 5. The Knobless Cylinders - corresponds to the Knobbed Cylinders
 
 Red - thick to thin\
 Yellow - tall to short/thick to thin\
@@ -1090,9 +1090,9 @@ Blue - tall to short
 These materials refine the child's visual discrimination of size. Initially, the control of error is built into the material with the Knobbed Cylinders. All the subsequent materials develop the child's eye as the control of error. The purpose of the materials is not that the child initially grade the objects correctly but, rather, train the eye through the trial and error of repetition.\
 ⇒ The Knobless Cylinders are the most difficult in this sequence since their differences are less dramatic, less obvious than the cubes, prisms and rods. All these materials are sets of 10.
 
-### B. Color
+#### B. Color
 
-#### 1. Color Box *  
+##### 1. Color Box *  
 
 Primary Colors (red, yellow, blue)
 
@@ -1101,7 +1101,7 @@ Primary Colors (red, yellow, blue)
 {{< img class="pure-img" src="/img/sensorial/image022.webp" alt="Color Box Closeup" >}}
 
 
-#### 2. Color Box * 
+##### 2. Color Box * 
 
 Primary Colors (red, yellow, blue)
 
@@ -1113,7 +1113,7 @@ Tint (pink)\
 
 {{< img class="pure-img" src="/img/sensorial/image023.webp" alt="Color Box 2 Closeup" >}}
 
-#### 3. Color Box *  
+##### 3. Color Box *  
 
 Gradation of color in 3 variations, 3 boxes
 
@@ -1126,14 +1126,14 @@ Minimum - 16 tablets, matched pairs of 8 colors, each pair in lightest degree
 {{< img class="preview" src="/img/sensorial/image024.webp" alt="Color Box 3 Closeup" >}}
 {{< img class="preview" src="/img/sensorial/image025.webp" alt="Color Box 3 Closeup" >}}
 
-#### 4. Color Box *  
+##### 4. Color Box *  
 
 Gradation of color in 4 variations; 64 tablets, 8 colors; matched pairs in 4 variations within each color (r,y,b,o,p,g,brown ,grey). This box combines both matching and grading.
 
 {{< img class="pure-img" src="/img/sensorial/image026.webp" alt="Color Box 4 Closeup" >}}
 
 
-#### 5. Color Box #5 
+##### 5. Color Box #5 
 
 Gradation of color in 7 variations; 63 tablets, 9 colors, 7 variation within each (r,y,b,o,p,g, brown, grey, maroon). This box is just for grading.
 
@@ -1142,12 +1142,12 @@ Remember to incorporate memory games in the extensions from Dr. Montessori's Own
 
 {{< spacer >}}
 
-### C. Form
+#### C. Form
 
 {{< img class="pure-img" src="/img/sensorial/image027.webp" alt="Geometric Solids Box Closeup" >}}
 
 
-#### 1. Geometric Solids 
+##### 1. Geometric Solids 
 
 discrimination of 3-dimensional form 
 
@@ -1155,17 +1155,17 @@ solids - cube, sphere, cylinder, cone, ovoid, rectangular prism, ellipsoid, squa
 
 ⇒ Use first for sensorial exploration, then introduce language with the Three Period Lesson. Begin with 3 dissimilar solids.
 
-#### 2.   Bases for the Geometric Solids 
+##### 2.   Bases for the Geometric Solids 
 
 2 dimensional figures; 11 geometric figures - 3 squares, 2 circles, 2 rectangles, 2 equilateral triangles, 2 isosceles triangles.
 
-#### 3.   Geometric Solids and Bases 
+##### 3.   Geometric Solids and Bases 
 
 Relationship between 3 dimensional forms and 2 dimensional figures
 
 ⇒ Note that some solids have more than one base and some solids have no base.
 
-#### 4. Geometric Cabinet
+##### 4. Geometric Cabinet
 
 {{< img class="" src="/img/sensorial/image028.webp" alt="Geometric Cabinet Closeup" >}}
 {{< img class="" src="/img/sensorial/image029.webp" alt="Geometric Cabinet Closeup" >}}
@@ -1181,7 +1181,7 @@ Drawer *  - 6 polygons - pentagon, hexagon, heptagon, octagon, nonagon, decagon\
 Drawer #5 - 4 irregular sided figures - oval, ellipse, curvilinear triangle, quatrefoil\
 Drawer #6 - 4 irregular sided figures - rhombus, trapezoid, parallelogram, quadrilateral
 
-#### 5. Cards for the Geometric Cabinet 
+##### 5. Cards for the Geometric Cabinet 
 
 Moving to abstraction
 
@@ -1198,7 +1198,7 @@ Box with 3 sets of cards representing all of the above figure
 ⇒ The progression in this sequence moves from concrete to abstract, from 3 dimensional solids to 2-dimensional plane figures to line representations of the figure. 
 
 
-#### 6. Constructive Triangles
+##### 6. Constructive Triangles
 
 1. Blue Triangles for exploration
 2. Triangular Box
@@ -1216,7 +1216,7 @@ Box with 3 sets of cards representing all of the above figure
 6. Rectangular Box and Blue Triangles 
 7. Blue Triangles for Testing
 
-#### 7. Cubes
+##### 7. Cubes
 
 1. Monomial cube
 2. Cube of the trinomial 
@@ -1229,9 +1229,9 @@ Box with 3 sets of cards representing all of the above figure
 {{< spacer >}}
 
 
-## II AUDITORY
+### II AUDITORY
 
-### A. Silence
+#### A. Silence
 
 1. Introduction - Creating Silence
 2. Silence Activities
@@ -1240,7 +1240,7 @@ Box with 3 sets of cards representing all of the above figure
 	3. the silence book
 	4. candle
 
-### B. Sound
+#### B. Sound
 
 1. Sound Basket - exploration of different sounds
 2. Sound/No Sound Basket - sorting, classification
@@ -1250,7 +1250,7 @@ a. pairing first with 3 extremes (loudest, medium, quiet)\
 b. pairing all 6\
 c. grading 1 set of 6 from loudest to quietest
 
-### C. Musical Tones
+#### C. Musical Tones
 
 1. The Bells - 2 sets of matched bells which range from Middle C to High C. 
 One set has white bases, the other has natural wood bases. 
@@ -1266,11 +1266,11 @@ There are also a set of bells with black bases which correspond to sharps and fl
 {{< spacer >}}
 
 
-## III TACTILE
+### III TACTILE
 
 Preparation for tactile activities - fingertip sensitizing (can sensitize with water and sponger or by rubbing fingertips together)
 
-### A. Surface
+#### A. Surface
 
 {{< figure src="/img/sensorial/image003.webp" alt="Sponge on Tray" caption="www.wonderfulmontessori.com" class="float-right" >}}
 
@@ -1294,7 +1294,7 @@ b. grading 1 set
 
 {{< spacer >}}
 
-### B. Texture
+#### B. Texture
 
 {{< figure src="/img/sensorial/image037.webp" alt="Fabric Box Closeup" caption="www.hiphomeschoolmoms.org" class="float-right" >}}
 
@@ -1315,7 +1315,7 @@ Can discuss rough, smooth, state names of the fabrics (on the 2nd or 3rd present
 {{< spacer >}}
 
 
-## IV. STEREOGNOSTIC   (touch without vision) eyes closed, blindfold 
+### IV. STEREOGNOSTIC   (touch without vision) eyes closed, blindfold 
 
 1. One object
 2. Mystery Basket - objects that are familiar, objects from the natural world, geometric solids
@@ -1325,7 +1325,7 @@ Can discuss rough, smooth, state names of the fabrics (on the 2nd or 3rd present
 {{< spacer >}}
 
 
-## V. BARIC
+### V. BARIC
 
 {{< img class="float-right" src="/img/sensorial/image041.webp" alt="Rectangular Box Closeup" >}}
 
@@ -1339,7 +1339,7 @@ b. use all 3 - sort and match - result is 3 stacks
 ⇒ Be aware of the different system used with this material
 Language=heavy, medium, and light; or heavier, lighter
 
-## V. THERMIC
+### V. THERMIC
 
 1. Explore classroom and outdoor environment for objects that are hot and cold
 2.    Thermic bottles - 2 matched sets of 4 each begin with 3, add 4th later\
@@ -1349,7 +1349,7 @@ Language=heavy, medium, and light; or heavier, lighter
 
 3. Thermic Tablets - 2 matched sets of 4 which vary in temperature
 
-## VII. OLFACTORY
+### VII. OLFACTORY
 
 1. Introduction to single smell (some ideas - scented candle, herb, flower, incense)
 2. Matching smells – (fruits/vegetables, herbs, flowers, spices, potpourri, soaps) 
@@ -1357,7 +1357,7 @@ Language=heavy, medium, and light; or heavier, lighter
 a. preparation\
 b. pairing first 3, then gradually add others
 
-## VIII. GUSTATORY
+### VIII. GUSTATORY
 
 1. Introduction to a single food (line activity/snack)
 2. Sweet/Sour 
@@ -1365,12 +1365,12 @@ b. pairing first 3, then gradually add others
 4. Comparisons – Same category (vegetables, cheeses, fruits, nuts)
 5. Comparisons – Transformation (grapes to raisins, strawberries to jam, peanuts to peanut butter)
 
-## IX. SENSE OF SELF
+### IX. SENSE OF SELF
 
 So many ways to explore this - for ourselves and with the children. A knowing and an appreciation for who we are remain as the foundation for a joyful and harmonious life.
 Bring laughter, tenderness, compassion and caring to all, especially ourselves.
 
-## X. SENSE OF WONDER
+### X. SENSE OF WONDER
 
 The world is truly magnificent - what a gorgeous classroom for the lessons of life. There are infinite discoveries, endless challenges.
 Share with children the beauty, the delicacy, the wonder of the world around us.
@@ -1383,7 +1383,7 @@ Open the heart for that is the greatest gift of all.
 
 
 
-# PRESUPPOSITIONS FOR SENSORIAL PRESENTATIONS
+## PRESUPPOSITIONS FOR SENSORIAL PRESENTATIONS
 
 1. Prepare the work area
 * space available (proper size rug or table)
@@ -1424,7 +1424,7 @@ Open the heart for that is the greatest gift of all.
 
 Sources:  Carey Smith, Helen de Vere, Beth Rice
 
-## GRADING SYSTEM
+### GRADING SYSTEM
 
 1. Collect a series of objects, decreasing in regular increments.  Collect 10 whenever possible.
 
@@ -1444,7 +1444,7 @@ Sources:  Carey Smith, Helen de Vere, Beth Rice
 8. Admire work and then mix on right hand side of the workspace again, if the child would like a tum. Otherwise, have the child help return materials to the container and/or shelf.
 
 
-## MATCHING SYSTEM I
+### MATCHING SYSTEM I
 
 **Materials:**  One source of matched items
 
@@ -1473,7 +1473,7 @@ Sources:  Carey Smith, Helen de Vere, Beth Rice
 
 ****Source:****  Helen DeVere	OMTEI 1996
 
-## MATCHING SYSTEM II
+### MATCHING SYSTEM II
 
 **Materials:**  Two or more source containers of matching sets of materials.
 
@@ -1508,14 +1508,14 @@ Sources:  Carey Smith, Helen de Vere, Beth Rice
 
 
 
-## VISUAL
+### VISUAL
 
 I. Size\
 II. Color\
 III. Form 
 
 
-### CYLINDER BLOCKS/ KNOBBED CYLINDERS
+#### CYLINDER BLOCKS/ KNOBBED CYLINDERS
 
 {{< img class="float-right" src="/img/sensorial/image042.webp" alt="Knobbed Cylinders Closeup" >}}
 
@@ -1603,7 +1603,7 @@ Through exploration and discovery, the child develops and refines the ability to
 {{< spacer >}}
 
 
-### TOWER OF CUBES/PINK TOWER
+#### TOWER OF CUBES/PINK TOWER
 
 {{< img class="float-right" src="/img/sensorial/image046.webp" alt="Pink Tower Closeup" >}}
 
@@ -1679,7 +1679,7 @@ Can isolate extremes for students at first, or focus on 1, 3, 5, 7, 9 pieces….
 
 
 
-### BROAD PRISMS/BROWN STAIRS
+#### BROAD PRISMS/BROWN STAIRS
 
 {{< img class="float-right" src="/img/sensorial/image054.webp" alt="Child Using Brown Stairs" >}}
 
@@ -1753,7 +1753,7 @@ Can bring language after 1st presentation.
 
 
 
-### LENGTH RODS/RED RODS
+#### LENGTH RODS/RED RODS
 
 {{< img class="float-right" src="/img/sensorial/image062.webp" alt="Red Rods Closeup" >}}
 
@@ -1809,7 +1809,7 @@ Through exploration and discovery, the child develops and refines the ability to
 {{< spacer >}}
 
 
-### KNOBLESS CYLINDERS
+#### KNOBLESS CYLINDERS
 
 {{< img class="float-right" src="/img/sensorial/image066.webp" alt="Knobless Cylinders in Box" >}}
 
@@ -1882,13 +1882,13 @@ Blue	tall, short
 {{< spacer >}}
 
 
-## VISUAL: COLOR 
+### VISUAL: COLOR 
 
-### COLOR TABLET SEQUENCE
+#### COLOR TABLET SEQUENCE
 
 {{< img class="preview-md" src="/img/sensorial/image074.webp" alt="Color Box Closeup" >}}
 
-#### Color Box 1
+##### Color Box 1
 
 Primary colors pairing
 * Red/Red (hereafter RR)
@@ -1898,7 +1898,7 @@ Primary colors pairing
 Only touch the sides, practice handling them correctly as you pass them along the line
 Extension: “Find something in the room that is blue, yellow, red”; memory game, have child go across the room to find “that one”----can play this with multiple children…name the colors at the next Presentation: “This one is yellow.  Please find the other one that is yellow”
 
-#### Color Box 2
+##### Color Box 2
 
 Present Primary and secondary; add tertiary later
 
@@ -1920,7 +1920,7 @@ Present Primary and secondary; add tertiary later
 
 Ex) have children travel across room to find the correct match
 
-#### Color Box 3
+##### Color Box 3
 
 {{< img class="float-right" src="/img/sensorial/image076.webp" alt="Color Box on Mat" >}}
 
@@ -1943,7 +1943,7 @@ All three – Pairing and grading
 
 
 
-#### Color Box 4
+##### Color Box 4
 
 {{< img class="float-right" src="/img/sensorial/image077.webp" alt="Color Box Closeup" >}}
 
@@ -1965,7 +1965,7 @@ All three – Pairing and grading
 
 
 
-#### Color Box 5
+##### Color Box 5
 
 {{< img class="float-right" src="/img/sensorial/image078.webp" alt="Color Box Closeup" >}}
 
@@ -1995,7 +1995,7 @@ Black = Absence of all colors of light
 {{< spacer >}}
 
 
-### COLOR BOX 1
+#### COLOR BOX 1
 
 {{< img class="float-right" src="/img/sensorial/image079.webp" alt="Color Box 1 Closeup" >}}
 
@@ -2038,7 +2038,7 @@ Through exploration and discovery, the child develops and refines the ability to
 {{< spacer >}}
 
 
-### COLOR BOX 2
+#### COLOR BOX 2
 
 {{< img class="float-right" src="/img/sensorial/image022.webp" alt="Color Box 2 Closeup" >}}
 
@@ -2080,7 +2080,7 @@ Through exploration and discovery, the child develops and refines the ability to
 {{< spacer >}}
 
 
-### COLOR BOX 3
+#### COLOR BOX 3
 
 {{< img class="float-right" src="/img/sensorial/image080.webp" alt="Color Box 3 Closeup" >}}
 
@@ -2132,7 +2132,7 @@ Through exploration and discovery, the child develops and refines the ability to
 {{< spacer >}}
 
 
-### COLOR BOX 4
+#### COLOR BOX 4
 
 {{< img class="float-right" src="/img/sensorial/image078.webp" alt="Color Box 4 Closeup" >}}
 
@@ -2176,7 +2176,7 @@ Through exploration and discovery, the child develops and refines the ability to
 {{< spacer >}}
 
 
-### COLOR BOX 5
+#### COLOR BOX 5
 
 **Materials:**
 Box containing 63 color tablets in nine different colors (red, blue, yellow, green, purple, orange, brown, gray, pink). There are seven variations of each color.  
@@ -2223,10 +2223,10 @@ Through exploration and discovery, the child develops and refines the ability to
 {{< img class="preview-md" src="/img/sensorial/image081.webp" alt="Geometric Shapes" >}}
 
 
-## VISUAL FORM
+### VISUAL FORM
 
 
-### GEOMETRIC CABINET 
+#### GEOMETRIC CABINET 
 
 {{< img class="float-right" src="/img/sensorial/image082.webp" alt="Geometric Cabinet Closeup" >}}
 
@@ -2295,7 +2295,7 @@ Remember that the child will gain more concrete information about the shape by t
 {{< spacer >}}
 
 
-### CARDS FOR THE GEOMETRIC CABINET
+#### CARDS FOR THE GEOMETRIC CABINET
 
 {{< img class="float-right" src="/img/sensorial/image084.webp" alt="Child working with Shapes" >}}
 
@@ -2347,7 +2347,7 @@ Through exploration and discovery, the child develops and refines the ability to
 {{< spacer >}}
 
 
-### Geometric Solids
+#### Geometric Solids
 
 {{< img class="float-right" src="/img/sensorial/image085.webp" alt="Geometric Solid Closeup" >}}
 
@@ -2408,7 +2408,7 @@ Geometric solids-cube, sphere, cylinder, cone, ovoid, rectangular prism, ellipso
 {{< spacer >}}
 
 
-### MONOMIAL CUBE
+#### MONOMIAL CUBE
 
 {{< img class="float-right" src="/img/sensorial/image086.webp" alt="MONOMIAL Cube" >}}
 
@@ -2456,7 +2456,7 @@ When you add language, you can show that two of certain shapes= the next biggest
 {{< spacer >}}
 
 
-### BINOMIAL CUBE
+#### BINOMIAL CUBE
 
 {{< img class="preview-md" src="/img/sensorial/image087.webp" alt="BINOMIAL Cube" >}}
 {{< img class="preview-md" src="/img/sensorial/image088.webp" alt="BINOMIAL Cube" >}}
@@ -2510,7 +2510,7 @@ Through exploration and discovery, the child develops and refines the ability to
 {{< spacer >}}
 
 
-### TRINOMIAL CUBE
+#### TRINOMIAL CUBE
 
 {{< img class="preview-md" src="/img/sensorial/image089.webp" alt="Child with TRINOMIAL Cube" >}}
 {{< img class="preview-md" src="/img/sensorial/image090.webp" alt="TRINOMIAL Cube" >}}
@@ -2563,7 +2563,7 @@ Through exploration and discovery, the child develops and refines the ability to
 {{< spacer >}}
 
 
-### The Arithmetic  Cube:
+#### The Arithmetic  Cube:
 
 {{< img class="preview-md" src="/img/sensorial/image092.webp" alt="Arithmetic Cube" >}}
 {{< img class="preview-md" src="/img/sensorial/image093.webp" alt="Arithmetic Cube" >}}
@@ -2576,7 +2576,7 @@ Through exploration and discovery, the child develops and refines the ability to
 
 {{< spacer >}}
 
-### Square of Pythagreas 
+#### Square of Pythagreas 
 
 {{< img class="preview-md" src="/img/sensorial/image094.webp" alt="Square of Pythagreas" >}}
 {{< img class="preview-md" src="/img/sensorial/image095.webp" alt="Square of Pythagreas" >}}
@@ -2590,7 +2590,7 @@ Through exploration and discovery, the child develops and refines the ability to
 {{< spacer >}}
 
 
-### Inscribed and Concentric Figures
+#### Inscribed and Concentric Figures
 
 {{< img class="preview-md" src="/img/sensorial/image097.webp" alt="Inscribed and Concentric Figures" >}}
 {{< img class="preview-md" src="/img/sensorial/image098.webp" alt="Inscribed and Concentric Figures" >}}
@@ -2605,7 +2605,7 @@ Children can explore with shapes and design patterns with shapes of different si
 {{< spacer >}}
 
 
-### PRESUPPOSITIONS FOR THE CONSTRUCTIVE TRIANGLES
+#### PRESUPPOSITIONS FOR THE CONSTRUCTIVE TRIANGLES
 
 1. Carry the box with two hands. Place it in the center of the mat.
 2. Remove the box lid and place it in the lower right corner of the mat.
@@ -2623,7 +2623,7 @@ Children can explore with shapes and design patterns with shapes of different si
 {{< spacer >}}
 
 
-### TIPS FOR UNDERSTANDING THE TRIANGLE BOXES
+#### TIPS FOR UNDERSTANDING THE TRIANGLE BOXES
 
 1. These boxes are for understanding RELATIONSHIPS between figures.
 2. We show these relationships when we SUPERIMPOSE the whole on the parts and/or the parts on other parts that make the whole. 
@@ -2637,7 +2637,7 @@ Children can explore with shapes and design patterns with shapes of different si
 {{< spacer >}}
 
 
-### BLUE TRIANGLES FOR EXPLORATION
+#### BLUE TRIANGLES FOR EXPLORATION
 
 {{< img class="float-right" src="/img/sensorial/image100.webp" alt="Blue Triangles" >}}
 
@@ -2677,7 +2677,7 @@ Through exploration and discovery, the child develops and refines the ability to
 
 
 
-### TRIANGULAR BOX OF CONTRUCTIVE TRIANGLE
+#### TRIANGULAR BOX OF CONTRUCTIVE TRIANGLE
 
 {{< img class="float-right" src="/img/sensorial/image101.webp" alt="Triangle Box" >}}
 
@@ -2733,7 +2733,7 @@ Through exploration and discovery, the child develops and refines the ability to
 {{< spacer >}}
 
 
-### TRIANGLE BOX
+#### TRIANGLE BOX
 
 {{< grid-table >}}
 
@@ -2761,7 +2761,7 @@ Through exploration and discovery, the child develops and refines the ability to
 {{< spacer >}}
 
 
-### LARGE HEXAGONAL BOX OF CONSTRUCTIVE TRIANGLES
+#### LARGE HEXAGONAL BOX OF CONSTRUCTIVE TRIANGLES
 
 {{< img class="float-right" src="/img/sensorial/image111.webp" alt="Large Hex Box Closeup" >}}
 
@@ -2841,7 +2841,7 @@ Order, coordination, concentration and independence
 {{< spacer >}}
 
 
-### SMALL HEXAGONAL BOX OF CONSTRUCTIVE TRIANGLES
+#### SMALL HEXAGONAL BOX OF CONSTRUCTIVE TRIANGLES
 
 **Materials:**   Small Hexagonal Box
 * 2     yellow equilateral triangles 
@@ -2947,7 +2947,7 @@ Add more “discoveries and explorations” here 😊
 {{< spacer >}}
 
 
-### RECTANGULAR BOX OF CONSTRUCTIVE TRIANGLES
+#### RECTANGULAR BOX OF CONSTRUCTIVE TRIANGLES
 
 {{< img class="float-right" src="/img/sensorial/image142.webp" alt="Rectangular Box of Triangles" >}}
 
@@ -3042,7 +3042,7 @@ Plenty of other relationships between triangles to explore and discover.
 {{< spacer >}}
 
 
-### BLUE TRIANGLES FOR TESTING
+#### BLUE TRIANGLES FOR TESTING
 
 {{< img class="float-right" src="/img/sensorial/image152.webp" alt="Blue Triangles" >}}
 
@@ -3082,7 +3082,7 @@ See suppositions; and
 {{< spacer >}}
 
 
-### MATCHING AND SORTING BASKETS
+#### MATCHING AND SORTING BASKETS
 
 {{< img class="float-right" src="/img/sensorial/image153.webp" alt="Sorting Trinkets" >}}
 
@@ -3099,9 +3099,9 @@ MATCHING: Basket of similar shaped/kinds of shells that have minute/subtle diffe
 {{< spacer >}}
 
 
-## Auditory
+### Auditory
 
-### Silence
+#### Silence
 
 Making silence, a well-known part of the Montessori method, allows the children to control their will, their bodies and to focus on their sense of hearing.
 
@@ -3118,7 +3118,7 @@ When all the children were still, she introduced "the call" when she whispers th
 {{< spacer >}}
 
 
-### THE SILENCE BOOK AND GAME
+#### THE SILENCE BOOK AND GAME
 
 {{< img class="float-right" src="/img/sensorial/image158.webp" alt="Silence Game" >}}
 {{< img class="float-right" src="/img/sensorial/image157.webp" alt="Silence Book" >}}
@@ -3137,7 +3137,7 @@ Present to the group. Light candle. After lighting the candle ask the children t
 {{< spacer >}}
 
 
-### INDIVIDUAL SILENCE ACTIVITY 
+#### INDIVIDUAL SILENCE ACTIVITY 
 
 {{< img class="float-right" src="/img/sensorial/image159.webp" alt="Silence Activity" >}}
 
@@ -3153,7 +3153,7 @@ Present to the group. Light candle. After lighting the candle ask the children t
 {{< spacer >}}
 
 
-### ROOM SILENCE (Optional)
+#### ROOM SILENCE (Optional)
 
 {{< img class="float-right" src="/img/sensorial/image161.webp" alt="Silence Please" >}}
 {{< img class="float-right" src="/img/sensorial/image160.webp" alt="Child with Hands over Ears" >}}
@@ -3178,7 +3178,7 @@ Present to the group. Light candle. After lighting the candle ask the children t
 {{< spacer >}}
 
 
-### SOUND/NO SOUND BASKET
+#### SOUND/NO SOUND BASKET
 
 {{< img class="float-right" src="/img/sensorial/image162.webp" alt="No Sound Basket" >}}
 
@@ -3207,7 +3207,7 @@ Take out the objects and distribute them randomly on the right side of the rug. 
 {{< spacer >}}
 
 
-### SOUND CYLINDERS
+#### SOUND CYLINDERS
 
 {{< img class="float-right" src="/img/sensorial/image163.webp" alt="Sound Cylinders" >}}
 
@@ -3260,15 +3260,15 @@ Take out the objects and distribute them randomly on the right side of the rug. 
 {{< spacer >}}
 
 
-## Tactile
+### Tactile
 
 
 
 
 
-### TACTILE: SURFACE
+#### TACTILE: SURFACE
 
-#### SENSITIZING THE FINGERTIPS
+##### SENSITIZING THE FINGERTIPS
 
 {{< img class="float-right" src="/img/sensorial/image003.webp" alt="Sponge in Tray" >}}
 
@@ -3294,7 +3294,7 @@ Take out the objects and distribute them randomly on the right side of the rug. 
 {{< spacer >}}
 
 
-#### TOUCH BOARDS
+##### TOUCH BOARDS
 
 **Material:**
 Rough and smooth Touch boards (four boards)
@@ -3330,7 +3330,7 @@ Rough and smooth Touch boards (four boards)
 {{< spacer >}}
 
 
-#### TOUCH TABLETS
+##### TOUCH TABLETS
 
 {{< figure src="/img/sensorial/image166.webp" caption="www.montessoriacademy.com/au" class="float-right" >}}
 
@@ -3402,7 +3402,7 @@ Matching (three extremes: rough, medium, smooth)
 {{< spacer >}}
 
 
-#### ROUGH AND SMOOTH BASKET
+##### ROUGH AND SMOOTH BASKET
 
 {{< figure src="/img/sensorial/image170.webp" caption="www.montessorilife.com, pinterest.com" class="preview" alt="Rough Smooth Piles" >}}
 
@@ -3429,9 +3429,9 @@ Matching (three extremes: rough, medium, smooth)
 {{< spacer >}}
 
 
-### TACTILE: TEXTURE
+#### TACTILE: TEXTURE
 
-#### FABRIC MATCHING
+##### FABRIC MATCHING
 
 {{< figure src="/img/sensorial/image173.webp" caption="www.creoschool.org" class="float-right" alt="Child doing Fabric Matching" >}}
 
@@ -3479,7 +3479,7 @@ Through exploration and discovery, the child develops and refines the ability to
 
 
 
-#### FABRIC BOX 2
+##### FABRIC BOX 2
 
 {{< figure src="/img/sensorial/image174.webp" caption="www.teachingfromatacklebox.com" class="float-right" alt="Fabric Box 2" >}}
 
@@ -3522,7 +3522,7 @@ Through exploration and discovery, the child develops and refines the ability to
 {{< spacer >}}
 
 
-## Olfactory
+### Olfactory
 
 
 Note: With both Auditory and Olfactory exercises it is recommended to introduce some preliminary exercises (individual and/ or group or small group) prior to the Montessori material.
@@ -3531,7 +3531,7 @@ Note: With both Auditory and Olfactory exercises it is recommended to introduce 
 {{< spacer >}}
 
 
-### INTRODUCTING A SINGLE SMELL
+#### INTRODUCTING A SINGLE SMELL
 
 {{< img class="float-right" src="/img/sensorial/image175.webp" alt="Child Smelling Flowers" >}}
 
@@ -3552,7 +3552,7 @@ Take a single flower.  Have the children pass it around on the circle. Have they
 {{< spacer >}}
 
 
-### SMELLING CYLINDERS
+#### SMELLING CYLINDERS
 
 {{< img class="float-right" src="/img/sensorial/image176.webp" alt="Smelling Cylinders Closeup" >}}
 
@@ -3598,7 +3598,7 @@ Take a single flower.  Have the children pass it around on the circle. Have they
 {{< spacer >}}
 
 
-### MATCHING BASKET OF SCENTS
+#### MATCHING BASKET OF SCENTS
 
 {{< img class="float-right" src="/img/sensorial/image180.webp" alt="Smelling Cylinders Closeup" >}}
 
@@ -3621,7 +3621,7 @@ Use scents that all look the same much like Fabric box 2 in which the visual aid
 {{< spacer >}}
 
 
-### Ideas for Olfactory
+#### Ideas for Olfactory
 
 * Isolate tastes - fruits and fruit salad 
 * Bar soap - 
@@ -3640,12 +3640,12 @@ Use scents that all look the same much like Fabric box 2 in which the visual aid
 {{< spacer >}}
 
 
-## Baric/Stereognostic
+### Baric/Stereognostic
 
 
-### BARIC 
+#### BARIC 
 
-#### BARIC EXERCISES
+##### BARIC EXERCISES
 
 {{< img class="float-right" src="/img/sensorial/image181.webp" alt="Baric Tablets Closeup" >}}
 
@@ -3701,7 +3701,7 @@ The first and second presentations are to sensorially feel the weight difference
 {{< spacer >}}
 
 
-#### WEIGHING/ SCALE
+##### WEIGHING/ SCALE
 
 {{< img class="float-right preview-lg" src="/img/sensorial/image183.webp" alt="Weighing Scale Closeup" >}}
 
@@ -3778,11 +3778,11 @@ The first and second presentations are to sensorially feel the weight difference
 {{< spacer >}}
 
 
-### Thermic
+#### Thermic
 
 
 
-#### THERMIC BOTTLES
+##### THERMIC BOTTLES
 
 {{< figure src="/img/sensorial/image184.jpg" title="There are Montessori bottles/canisters that are insulated for thermic exercises. However, they are cost prohibitive for many schools. These bottles shown are an alternative, but they will not keep the liquid/solid hot or cold for long. After a morning work cycle, the bottles will likely be room temperature. But, this is a whole other lesson in and of itself! Thermic exercises are often linked to science, observation and experimentation." class="float-right preview-md" alt="Weighs in Basket">}}
 
@@ -3835,7 +3835,7 @@ Through exploration and discovery, the child develops and refines the ability to
 {{< spacer >}}
 
 
-### THERMIC TABLETS
+#### THERMIC TABLETS
 
 {{< img class="float-right" src="/img/sensorial/image186.webp" alt="Thermic Tablets" >}}
 
@@ -3885,7 +3885,7 @@ Through exploration and discovery, the child develops and refines the ability to
 {{< spacer >}}
 
 
-## STEREOGNOSTIC
+### STEREOGNOSTIC
 
 This is a VERY popular exercise and can be introduced after sufficient practice is done on many of the sensorial materials. This is often listed as an extension in the lesson.
 
@@ -3893,7 +3893,7 @@ This is a VERY popular exercise and can be introduced after sufficient practice 
 {{< img class="preview-md" src="/img/sensorial/image188.webp" alt="Child Working with Sensorial Materials" >}}
 
 
-### BASKET/BAGS TO MATCH SHAPES (Mystery bag)
+#### BASKET/BAGS TO MATCH SHAPES (Mystery bag)
 
 **Materials:**  basket, 2 drawstring bags of different colors each containing several objects; objects in each bag are identical; mat or rug
 
@@ -3941,10 +3941,10 @@ The children really enjoy doing this stereognostic work and they often do it in 
 {{< spacer >}}
 
 
-## GUSTATORY
+### GUSTATORY
 
 
-### INTRODUCING A SINGLE FOOD
+#### INTRODUCING A SINGLE FOOD
 
 {{< img class="float-right" src="/img/sensorial/image189.webp" alt="Children Eating Food at Table" >}}
 
@@ -3971,7 +3971,7 @@ The children really enjoy doing this stereognostic work and they often do it in 
 
 
 
-### SWEET AND SOUR
+#### SWEET AND SOUR
 
 {{< img class="float-right" src="/img/sensorial/image190.webp" alt="Taste Diagram" >}}
 
@@ -4007,7 +4007,7 @@ You can dilute almond extract, lemon extract, vanilla extract, fresh-squeezed le
 {{< spacer >}}
 
 
-### Sense of Self
+#### Sense of Self
 
 **Idea:** Have every child bring a family collage and put all the collective family collages in a class book, discussing unique things about each family
 
@@ -4050,7 +4050,7 @@ Share your lessons with you peers and all will benefit!
 {{< spacer >}}
 
 
-### Sense of Self Exploration/Lesson:
+#### Sense of Self Exploration/Lesson:
 
 **Materials:** Collage of family photos, small mirrors that stand upright at a table, paper, crayons in skin tones and eye colors
 
@@ -4063,7 +4063,7 @@ Share your lessons with you peers and all will benefit!
 
 {{< spacer >}}
 
-### SENSE OF WONDER
+#### SENSE OF WONDER
 
 > The world is truly a wonderful place.  There are endless discoveries, endless challenges. We share with each other the beauty, the delicacy and the variety in the world around us. We keep rediscovering the joy of living that is in us and all around us.
 
@@ -4096,7 +4096,7 @@ Share your lessons with you peers and all will benefit!
 
 
 
-### THE MYSTERY OF THE FLOWERNG BULB
+#### THE MYSTERY OF THE FLOWERNG BULB
 
 {{< img class="float-right" src="/img/sensorial/image192.webp" alt="Plants in Bottles" >}}
 
@@ -4143,7 +4143,7 @@ Preparation: About a week before bringing the bulb into the classroom; keep bulb
 {{< spacer >}}
 
 
-### Sense of Wonder Original Lesson Plan:
+#### Sense of Wonder Original Lesson Plan:
 **Materials:** Binoculars (one for each child), Bird Boxes, Appropriate outdoor clothing, outdoor trail, preferably near nature, field guides for foliage and animal life in the habitat, cameras
 
 **Prerequisites:**  Grace and Courtesy lessons (particularly the silence lessons); discussions regarding wildlife and  habitats, particularly the habitat in the community of the classroom

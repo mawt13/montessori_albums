@@ -1,9 +1,23 @@
+{{ $img_alt := .Get "img-alt" }}
+{{ $img_class := .Get "img-class" }}
+{{ $img_grid_size := default "3" (.Get "img-grid-size") }}
+
 <div class="{{ if .Get "class"}}{{ .Get "class" }}{{ else }}red-border{{ end }}">
 	{{ .Inner | markdownify }}
 
 	{{ if .Get "src" }}
 	<div class="red-border--img-div">
-		<img src="{{ .Get "src"}}" alt="{{ .Get "img-alt"}}" class="{{ if .Get "img-class" }}{{ .Get "img-class" }}{{ else }}preview-md{{ end }}" \>
+		<img src="{{ .Get "src"}}" alt="{{ $img_alt }}" class="{{ if $img_class }}{{ $img_class }}{{ else }}preview-md{{ end }}" \>
+	</div>
+	{{ end }}
+
+	{{ if .Get "srcs" }}
+	{{ $srcs := .Get "srcs" }}
+	{{ $extra_class := print "col-" $img_grid_size }}
+	<div class="red-border--img-grid {{ $extra_class }}">
+		{{ range split $srcs "|" }}
+		<img src="{{ . }}" alt="{{ $img_alt }}" class="{{ if $img_class }}{{ $img_class }}{{ else }}pure-img{{ end }}" \>
+		{{ end }}
 	</div>
 	{{ end }}
 </div>

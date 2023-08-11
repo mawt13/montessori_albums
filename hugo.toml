@@ -10,8 +10,8 @@ canonifyurls = true
 paginate = 10
 
 [markup.tableOfContents]
-  endLevel = 5
-  startLevel = 1
+  startLevel = 2
+  endLevel = 6
 
 # [indexes]
 #   tag = "tags"

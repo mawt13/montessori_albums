@@ -1,0 +1,1 @@
+{{ if .IsNamedParams }}<span class="{{ .Get "class" }}">{{ .Inner | markdownify }}</span>{{ else }}<span class="{{ .Get 1 }}">{{ .Get 0 }}</span>{{ end }}

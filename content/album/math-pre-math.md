@@ -12,14 +12,14 @@ Updated 12.2021
 {{< spacer >}}
 
 
-# Pre-Math Math Activities (before 1-10)
+## Pre-Math Math Activities (before 1-10)
 
 {{< img class="float-left preview-md" src="/img/math/pre-math/image001.webp" alt="Empty Shelf" >}}
 
 
 **The Pre-Math/Early Math Exercise shelf** in the math area is placed after the Sensorial exercises, but before the red and blue rods. The activities do not typically emphasize numbers but do allow practice of foundational mathematical ideas.  Activities may be selected and rotated to meet the needs of students in the classroom community. Teachers may also consider activities that scaffold the early Montessori lessons. This shelf also offers a place for number books and other children’s books related to math or small group math games.
 
-## Logical Quantification
+### Logical Quantification
 Source for Logical Quantification Section: Teresa Van Acker, CMTE/NC 1995
 
 There are many math activities a child can engage in before the first traditional Montessori math materials beginning with the number rods. Logical Quantification is an important part of pre-math skills and understandings. The numbers 1-5 are perceptual numbers; we can see them in our minds without counting. To quantify is to determine or express a quantity. What is quantitative is expressed or expressible as a quantity; it is not numerical. At this state of instruction, there is no counting. In activities for logical quantification, the teacher uses language such as “this many,” “that many,” “set” and “group.” The following activities give the child the opportunity to see, feel, and carry different quantities.
@@ -78,7 +78,7 @@ From an assessment point of view, it is very handy to have these for checking 1:
 
 Here are some other activities that are suitable for this early math shelf. There are many resources available for similar early math activities. Each possibility should be carefully evaluated for isolating the targeted outcome.
 
-## Building Sets using Multiple Attributes
+### Building Sets using Multiple Attributes
 The sensorial exercises draw a child’s attention to attributes: such as length, height, width, texture, weight, taste, and shape. Objects that isolate these types of attributes can be supplied. 
 
 **“What’s my rule?” activity**\
@@ -92,7 +92,7 @@ This activity helps a child /small group of children practice seeing common attr
 6. On a different day, offer a set of SIX objects and ask the children, “Which object DOES NOT belong in this set?”
 7. On a different day, invite each child to build a set using a rule.
 
-## Subitizing
+### Subitizing
 A child subitizes when she makes an immediate and accurate determination of a quantity of items without needing to count them. Children can usually subitize up to a quantity of five, adults to a quantity of six. This is a skill that can be practiced. Children learn to “trust the count” and do not need to start from one each time to count the quantity. Subitizing activities can start with cards displaying dots arranged in predictable patterns (like dots on the face of dice) and then move on to dots of a similar quantity arranged in a variety of ways. After that, quantities of loose objects can be manipulated in a similar way.
 
 **“Show me what you saw?” game**\
@@ -119,7 +119,7 @@ Create a set of 20 cards with dots arranged on one side as seen on the face of a
 {{< img class="preview-md" src="/img/math/pre-math/image014.webp" alt="Dice Game" >}}
 
 
-## Patterning
+### Patterning
 Using sets of objects, build patterns (ABABAB, ABBABBABB, ABCABC, AABAABAAB, etc.) and ask the child to copy the pattern, complete the pattern, fill in a missing piece of the pattern, continue the pattern, and finally, to create his own pattern.
 
 Pattern cards may be supplied to guide the child. A tray containing sets of objects should also be provided to the child. Objects may be from nature (stones, seed pods, sticks, pine cones, shells) or represent everyday objects of interest (coins, buttons, and hardware fasteners). Avoid toys or other unrealistic or distracting objects.
@@ -136,9 +136,9 @@ Pattern cards may be supplied to guide the child. A tray containing sets of obje
 
 
 
-# Supplemental Math Activities (after 1-10)
+## Supplemental Math Activities (after 1-10)
 
-## Graphing
+### Graphing
 
 {{< img class="float-left preview-md" src="/img/math/pre-math/image022.webp" alt="Subitizing Bar Graph" >}}
 
@@ -176,12 +176,12 @@ Children may also choose to create customized graphs. Choices can be drawn into 
 {{< spacer >}}
 
 
-## Parts and Wholes
+### Parts and Wholes
 
 The Montessori Fraction Skittles could also be part of this shelf as the idea of whole, one-half, one-third, and one-fourth were most likely introduced during food preparation activity in the practical life area.
 
 
-## Equivalencies (Exchange Games)
+### Equivalencies (Exchange Games)
 
 These games are played by two children. Lessons on rolling the dice to determine who goes first, and how to take turns may need to be offered to the children. 10 frame and 5 frame mats eliminate the requirement of accurate counting.
 
@@ -217,7 +217,7 @@ This game is similar to the base 10 money game above. This is not base 10, so fo
 
 
 
-## Number Path Games
+### Number Path Games
 
 {{< figure class="float-left" src="/img/math/pre-math/image039.webp" alt="Number Path" title="Two separate 1-10 number paths." >}}
 

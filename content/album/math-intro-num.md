@@ -11,11 +11,11 @@ toc: true
 {{< spacer >}}
 
 
-# Introduction to Numbers
+## Introduction to Numbers
 
 
 
-## Red & Blue Number Rods
+### Red & Blue Number Rods
 
 **Materials:**  Ten rods, graded in length, with the shortest at ten centimeters long (“one”) and with alternating painted sections of red and blue.
 
@@ -125,7 +125,7 @@ Maria Montessori, Psychoarithmetic: Arithmetic developed under the guidelines ou
 {{< spacer >}}
 
 
-## Sandpaper Numerals
+### Sandpaper Numerals
 
 {{< figure class="float-right preview-md" src="/img/math/intro-num/image007.webp" alt="Sandpaper Numerals" caption="Smaller/ narrower version of the Sandpaper Numerals" >}}
 
@@ -232,7 +232,7 @@ Maria Montessori, Psychoarithmetic: Arithmetic developed under the guidelines ou
 {{< spacer >}}
 
 
-## Number Rods and Numerals
+### Number Rods and Numerals
 
 **Materials:**
 Red & Blue Rods (1-10) and wooden numeral cards (1-10)
@@ -322,7 +322,7 @@ Xavier University Montessori TEP, revised spring 2010
 {{< spacer >}}
 
 
-## Spindle Boxes
+### Spindle Boxes
 
 **Materials:** Two boxes with compartments labeled 0-4 and 5-9, 45 spindles, container(s) for spindles. The spindles may all be in one container, or two containers could be used – one with 10 spindles for the 0-4 box and one with 35 spindles for the 5-9 box. 
 
@@ -415,7 +415,7 @@ Xavier University Montessori TEP, revised spring 2010
 {{< spacer >}}
 
 
-## Numerals and Counters
+### Numerals and Counters
 
 {{< img class="float-right" src="/img/math/intro-num/image021.webp" alt="Counting Beads on Rug" >}}
 
@@ -478,7 +478,7 @@ names of numerals
 {{< spacer >}}
 
 
-## Numeral Line 
+### Numeral Line 
 
 **Materials:**
 Number cards (0-9) and a strip of fabric long enough to accommodate the cards.  A plain, smooth table runner works well.
@@ -527,7 +527,7 @@ Number cards (0-9) and a strip of fabric long enough to accommodate the cards.  
 {{< spacer >}}
 
 
-## Cards and Counters
+### Cards and Counters
 
 “The exercise consists first of all in placing the cards, which have been shuffled, in sequence and then placing under each number card the corresponding number of objects. This exercise is a test to verify what learning has actually taken place, that is to say, whether the numbers are known in their correct sequence together with the quantities they represent. To bring a new concept within the child’s comprehension, he should be asked to place the objects two-by-two: this can only be done with even numbers, whereas with odd numbers one object is left unmatched, and in this way the children instinctively grasp the notion of odd and even numbers and the difference between them.” Maria Montessori, Psychoarithmetic: Arithmetic developed under the guidelines outlined by child psychology (p 10-11)
 
@@ -623,7 +623,7 @@ Psychoarithmetic: Arithmetic developed under the guidelines outlined by child ps
 {{< spacer >}}
 
 
-## Memory Game
+### Memory Game
 
 (TEP students will complete this lesson with sequential photos after gathering/creating listed materials.)
 

@@ -4,7 +4,7 @@ weight: 402
 toc: true
 ---
 
-# Study of Division
+## Study of Division
 
 
 {{< table_of_contents >}}
@@ -14,7 +14,7 @@ toc: true
 
 
 
-## Division with Golden Bead Material
+### Division with Golden Bead Material
 
 **Materials**
 * Golden Bead Material
@@ -107,7 +107,7 @@ Maria Montessori. Psychoarithmetic: Arithmetic developed under the guidelines ou
 {{< spacer >}}
 
 
-## Division with Stamp Game
+### Division with Stamp Game
 
 **Materials**
 * Stamp game
@@ -197,7 +197,7 @@ Maria Montessori. Psychoarithmetic: Arithmetic developed under the guidelines ou
 
 
 
-## Division Board
+### Division Board
 
 **Materials**
 * Division Board
@@ -294,7 +294,7 @@ Dividend, divisor, quotient, remainder
 
 
 
-## Division Working Charts
+### Division Working Charts
 
 **Materials**\
 Chart I – Dividends from 81 to 1 are printed across the top against a blue background. Only numbers that can be divided evenly by numbers from 2 to 9 are present. Divisors are along the left of the rows beneath that, starting with the row for 9 and on to a row for 1.

@@ -1,0 +1,8 @@
+{{ $md := .Get "md" }}
+<div class="{{ if .Get "class"}}{{ .Get "class" }}{{ else }}red-border{{ end }}">
+	{{ if $md }}
+	{{ .Inner | markdownify }}
+	{{ else }}
+	{{ .Inner }}
+	{{ end }}
+</div>

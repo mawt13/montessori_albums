@@ -6,7 +6,7 @@ toc: true
 
 {{< table_of_contents >}}
 
-# Study of Multiplication
+## Study of Multiplication
 
 [Multiplication with Golden Bead Material](#golden-bead-multiplication)\
 Multiplication is adding the same quantity over and over. An introduction to
@@ -34,7 +34,7 @@ Chart I and Chart II are used early on as control charts.
 
 {{< spacer >}}
 
-## Golden Bead Multiplication
+### Golden Bead Multiplication
 
 **Materials**
 * Golden Bead Material
@@ -147,7 +147,7 @@ University of Wisconsin, River Falls Teacher Education Program, Summer 2019 note
 {{< spacer >}}
 
 
-## Bead Bar Multiplication
+### Bead Bar Multiplication
 
 **Materials**
 * Box with at least 55 of each bead bar in the bead stair, including the 10 bars
@@ -259,7 +259,7 @@ Maria Montessori, Psychoarithmetic: Arithmetic developed under the guidelines ou
 {{< spacer >}}
 
 
-## Multiplication Board
+### Multiplication Board
 
 **NOTE:** In Psychoarithmetic, Maria Montessori writes, “Children very much like this material used to learn the multiplication tables: they fill in six or seven forms, (equation papers for multiplication tables) one after another, an exercise that occupies them for days or weeks on end.”
 
@@ -381,7 +381,7 @@ Notes from UW-River Falls summer 2019 residency
 {{< spacer >}}
 
 
-## Stamp Game - Multiplication
+### Stamp Game - Multiplication
 
 **Materials**
 * Stamp game
@@ -488,7 +488,7 @@ Maria Montessori. Psychoarithmetic: Arithmetic developed under the guidelines ou
 
 
 
-## Bead Frame – Multiplication
+### Bead Frame – Multiplication
 
 **Materials:**
 * Small bead frame
@@ -546,7 +546,7 @@ Making the equations easier or harder based on the child
 
 
 
-## Working Charts - Multiplication
+### Working Charts - Multiplication
 
 **Materials:**
 * Chart 1:  Multiplication Fact Chart displays 100 basic facts from 1x1 to 10x10
@@ -581,7 +581,7 @@ Practice identifying the product of any two number combinations from 1 to 10 by 
 {{< img class="pure-img" src="/img/math/multiplication/image032.webp" alt="Working Charts Multiplication" >}}
 
 
-### Chart I
+#### Chart I
 
 **Presentation for Chart I:**
 NOTE: Before this presentation, this chart should have been used by the child as an “answer key” or “control chart” to check single digit equation work with the multiplication board, and perhaps with the bead bar multiplication lesson, or to check the arrow sequence for the squaring chains. Remember, when the chart is used in this way, it should be placed a distance from the child. The child walks to the chart, finds the answer, and then holds the equation and answer in his/her mind during the walk back to the work area. This is one way the older children begin to experience the idea that math facts may simply be remembered. The “brain” can be seen as a tool/material. 
@@ -604,7 +604,7 @@ NOTE: Crossing off with an ERASEABLE red pencil works well. The pink paper slips
 {{< img class="pure-img" src="/img/math/multiplication/image033.webp" alt="Working Charts Multiplication" >}}
 
 
-### Chart II:
+#### Chart II:
 
 
 **Presentation for Chart II**
@@ -618,7 +618,7 @@ NOTE: Crossing off with an ERASEABLE red pencil works well. The pink paper slips
 
 
 
-### Chart III:
+#### Chart III:
 
 {{< grid-table class="col-2" >}}
 
@@ -639,7 +639,7 @@ NOTE: Crossing off with an ERASEABLE red pencil works well. The pink paper slips
 
 4. To encourage memorization, the chart and the equation paper/recording paper could be in different areas of the room. This will require the child to hold the equation and product in his/her mind while walking back to the table with the multiplication table paper and pencil.
 
-### Chart IV:
+#### Chart IV:
 
 
 {{< grid-table class="col-2" >}}
@@ -662,7 +662,7 @@ NOTE: Crossing off with an ERASEABLE red pencil works well. The pink paper slips
 4. Now, move the other finger (on the greater number) to the right in its row but stop in the column also occupied by the other finger. This (greater number) finger is now resting on the resulting product of the two factors – the answer.
 
 
-### Chart V:
+#### Chart V:
 
 {{< grid-table class="col-2" >}}
 

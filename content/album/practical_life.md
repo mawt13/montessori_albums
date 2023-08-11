@@ -28,7 +28,7 @@ stephanie.thompson@myuwrf.edu
 {{< spacer >}}
 
 
-# Practical Life Rationale
+## Practical Life Rationale
 
 The practical life area is of paramount importance in the primary Montessori classroom.  The work with the practical life materials and the attitude towards the work sets the tone for the entire classroom community.  E.M. Standing states that there could be no other occupations undertaken by children at the primary level (ages 3-5) which could be more important for the development of the three-to-five-year old’s whole self: physical, intellectual, and social-emotional/moral (Standing, 213).  Despite practical life setting the foundation for the children’s development and participation in the classroom community, many parents and even some guides misunderstand the importance of this component of a Montessori classroom. Despite the term “practical”, this component of the classroom helps a child grow and flourish developmentally and sets the foundation for growth in all developmental domains.
 
@@ -66,7 +66,7 @@ Within each lesson/presentation are points of interest (which help intrigue the 
 
 The practical life area involves lessons and materials that are of great importance for each individual child in the classroom, as well as the classroom community.  There are many ways in which the way the child learns to complete the practical life work sets the tone for their participation and learning within the Montessori classroom and in all areas of life as well.  The practical life lessons build a child’s order, concentration, coordination, independence, and self-confidence, which prepare them for success in the classroom and in all of life.  When children spend three years within a Montessori classroom, they are given continued practice in the works of practical life, which all build upon one another and create enticing and developmentally appropriate challenges for the children, who are constructing themselves through their work with the materials in the classroom.  The work of practical life in the classroom is a necessary precursor for success in other areas within a Montessori classroom, and of paramount importance.
 
-## References
+### References
 
 Bettman, J. (2005). Nurturing the Respectful Community through Practical Life. The NAMTA Journal, 40 (1) 63-80. 
 
@@ -81,7 +81,7 @@ TedxTalks.  Kassam, Zahra. (2020).  How to Expand Your Baby’s Potential with E
 {{< spacer >}}
 
 
-# Introduction to Practical Life
+## Introduction to Practical Life
 
  **UWRF Montessori TEP Director, Kateri Carver, PhD.**
 
@@ -107,29 +107,29 @@ Below is more information about sensory processing and Practical Life skills. It
 
 {{< spacer >}}
 
-## Are Montessori Schools Good for Kids With Sensory Issues?
+### Are Montessori Schools Good for Kids With Sensory Issues?
 
 By Melinda Kedro
 
 Children who are growing and developing while facing the struggles of sensory processing disorder need support from their parents and teachers to ensure a nourishing and appropriate learning environment. Montessori programs provide an ideal structure for a child living with SPD. Research different Montessori schools in your area, schedule school visits and observe various classrooms to understand what each environment would specifically offer for your child.
 
-## What Is Sensory Processing Disorder?
+### What Is Sensory Processing Disorder?
 
 Carol Kranowitz, author of The Out-of-Sync Child, defines sensory processing disorder as “inefficient neurological processing of information received through the senses, causing problems with learning, development and behavior.” Common symptoms of a child suffering from SPD include, but are not limited to, extreme sensitivity to slight sounds, severe sensitivity to light, frequent bouts of carsickness, intolerance of specific food textures and flavors, acute reactivity to clothing touching or rubbing on the body, agitation when being held or touched or constantly needing to be held or touched. SPD is a neurological problem that medication cannot fix. A family-centered approach along with occupational therapy that incorporates sensory integration techniques is a common method for treating a child with SPD.
 
-## Sensory Development
+### Sensory Development
 The development of the senses is a fundamental aspect to every child’s journey through the early years of life. Supporting a child’s sensory development improves energy levels and focus and assists the child with learning to self-regulate behaviors. Maria Montessori, the founder of the Montessori method of education, postulated that children primarily learn through absorbing sensory information from their environments. The sensory materials in a Montessori classroom support whole-brain learning, addressing the developmental needs of the whole child. These materials are especially beneficial to children with SPD because each activity isolates a specific sense. In addition, the Montessori teacher will have awareness of your child’s struggle with sensory integration and can adjust materials and lessons based on his specific sensory needs.
 
-## The Montessori Classroom
+### The Montessori Classroom
 
 Children with SPD respond positively to a predictable daily routine and sense of order within their environment. The Montessori classroom is designed to facilitate structure, organization and fluidity of movement. The classroom is a prepared environment where every activity serves a specific learning purpose, every material has a designated space on the shelf and behavioral guidelines assist children with developing functional independence. The orderly atmosphere of the Montessori environment will help a child with SPD feel more secure and comfortable. The Montessori philosophy for education also recognizes that every child is unique in their developmental needs. The teacher tailors the curriculum and methodologies to the individual needs of each child, making this a premium choice for a child with SPD.
 
-## Practical Life Activities
+### Practical Life Activities
 
 Some children with SPD struggle with proprioceptive dysfunction, which is difficulty understanding how one’s body is positioned in space without visual clues. Signs of proprioceptive dysfunction can include uncoordinated movements, clumsiness, excessive jumping and bouncing, large motor development delays, constant rough play, incessant shaking of the legs and the constant need to be in motion. The Montessori curriculum provides practical life activities that allow children to engage in “heavy work” – putting their whole body into an activity with a focused purpose. Activities such as lifting and moving furniture for classroom use, sweeping, mopping, washing tables, scrubbing the floor, hammering, gardening activities, shoveling snow in the winter – these all support the child with SPD by providing ample opportunities to develop muscle memory and gross motor coordination by channeling excessive energy into a focused task.
 
 
-## References
+### References
 
 - [North American Montessori Center: Montessori Education for Children With Sensory Processing Disorder](http://montessoritraining.blogspot.com/2010/04/montessori-education-sensory-processing.html#.UegtUVNcQeM)
 - [North American Montessori Center: Observing Sensory Processing Disorder in the Montessori Classroom](http://montessoritraining.blogspot.com/2010/05/montessori-education-sensory-processing.html#.UeguE1NcQeM)
@@ -139,7 +139,7 @@ Some children with SPD struggle with proprioceptive dysfunction, which is diffic
 - [Just Montessori: Sensorial](http://www.justmontessori.com/sensorial/)
 - [Sensory Processing Resource Center: Proprioceptive Dysfunction](http://www.sensory-processing-disorder.com/proprioceptive-dysfunction.html)
 
-## About the Author
+### About the Author
 
 With more than 10 years’ experience in early childhood education, Melinda Kedro holds a master’s degree in education, teaching certification through the Association Montessori Internationale and is a licensed childcare provider through the Colorado Department of Human Services
 
@@ -154,7 +154,7 @@ https://living.thebump.com/montessori-schools-good-kids-sensory-issues-9500.html
 
 
 
-# SPD and Montessori Practical Life (Gross Motor)
+## SPD and Montessori Practical Life (Gross Motor)
 
 1. Wall push-ups: A picture of children’s traced hands on the wall. The children press on the hands prints on wall. This provides deep proprioceptive input which acts as a deep organizing system for the body and brain.
 
@@ -177,7 +177,7 @@ https://living.thebump.com/montessori-schools-good-kids-sensory-issues-9500.html
 {{< spacer >}}
 
 
-# Grace and Courtesy Lessons
+## Grace and Courtesy Lessons
 
 ### I. Grace and Courtesy 
 

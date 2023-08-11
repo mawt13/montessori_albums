@@ -4,7 +4,7 @@ weight: 401
 toc: true
 ---
 
-# Fractions
+## Fractions
 
 {{< table_of_contents >}}
 
@@ -25,7 +25,7 @@ The following are excerpts from the “Fractions” section in Maria Montessori�
 {{< spacer >}} 
 
 
-## Fraction Skittles
+### Fraction Skittles
 
 **Materials:**
 * Four wooden skittles:
@@ -203,7 +203,7 @@ Presentation III added by UWRF Instructor, Brenda Zellmer, summer 2020
 
 
 
-## Transition from Fraction Skittles to Fraction Circles – Extension Activities
+### Transition from Fraction Skittles to Fraction Circles – Extension Activities
 
 **NOTE:** These extension activities will be added during Face to Face sessions.
 
@@ -258,7 +258,7 @@ Prepare for future fraction lessons
 
 {{< spacer >}}
 
-## Fraction Circles (Metal Inset Fraction Trays)
+### Fraction Circles (Metal Inset Fraction Trays)
 
 **Materials:** Ten equally sized round metal insets. Each inset is divided into a different number of equal parts. The number of parts ranges from one (whole) to ten (tenths) and the parts each have a knob to grasp to move the part.
 
@@ -379,7 +379,7 @@ Montessori, Maria. Psychogeometry, Montessori-Pierson Publishing Company, 1934/2
 {{< spacer >}}
 
 
-## Fraction Cut Outs Box
+### Fraction Cut Outs Box
 
 (labeled fraction pieces/made of hard plastic)\
 **NOTE:** At the primary level, this material could be used by a child who is very interested in fractions to explore equivalencies. Fraction insets and fraction skittles are on the AMS suggested materials list for primary classrooms. This material is not. It is found in lower elementary environments.

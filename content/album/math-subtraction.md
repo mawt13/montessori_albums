@@ -4,7 +4,7 @@ weight: 404
 toc: true
 ---
 
-# Study of Subtraction
+## Study of Subtraction
 
 {{< spacer >}}
 
@@ -32,7 +32,7 @@ NOTE: The larger number from which smaller number is subtracted is called the m
 {{< spacer >}}
 
 
-## Subtraction with the Golden Bead Material
+### Subtraction with the Golden Bead Material
 
 **Materials:**
 * Golden Bead Material
@@ -158,7 +158,7 @@ Maria Montessori. Psychoarithmetic: Arithmetic developed under the guidelines ou
 
 
 
-## Subtraction with Stamp Game
+### Subtraction with Stamp Game
 
 **Materials**\
 Stamp game material
@@ -242,7 +242,7 @@ Maria Montessori. Psychoarithmetic: Arithmetic developed under the guidelines ou
 
 
 
-## Subtraction Strip Board
+### Subtraction Strip Board
 
 **Material**
 * Subtraction strip board – squares arranged in a grid of 18 columns and 12 rows
@@ -354,7 +354,7 @@ Maria Montessori, Psychoarithmetic: Arithmetic developed under the guidelines ou
 {{< spacer >}}
 
 
-## Subtraction Working Charts
+### Subtraction Working Charts
 
 **Materials**
 * Chart I – Subtraction facts from 18-9= ___ to 1-1=___.
@@ -376,7 +376,7 @@ Practice math tables
 
 **Presentation**\
 
-### Presentation – Chart I
+#### Presentation – Chart I
 
 {{< img class="pure-img" src="/img/math/subtraction/image014.webp" alt="Subtraction Working Charts" >}}
 
@@ -384,7 +384,7 @@ Practice math tables
 Show the child how Chart I may be used as a control chart.
 
 
-### Presentation – Chart II
+#### Presentation – Chart II
 
 {{< img class="pure-img" src="/img/math/subtraction/image015.webp" alt="Subtraction Working Charts" >}}
 
@@ -403,7 +403,7 @@ Show the child how Chart I may be used as a control chart.
 6. Show child how to check the equation using Chart I as a control chart.
 
 
-### Presentation – Chart III
+#### Presentation – Chart III
 
 {{< img class="pure-img" src="/img/math/subtraction/image016.webp" alt="Subtraction Working Charts" >}}
 
@@ -437,7 +437,7 @@ Maria Montessori. Psychoarithmetic: Arithmetic developed under the guidelines ou
 {{< spacer >}}
 
 
-## Negative Snake Game
+### Negative Snake Game
 
 **Materials:**
 * The negative snake game materials, which consist of a box with eight sets of the colored bead bars from one to nine
