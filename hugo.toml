@@ -122,6 +122,27 @@ paginate = 10
     identifier = "culture"
     url = "/album/culture"
     weight = 6
+    [[menu.main]]
+    name = "Geography & History"
+    pre = "<i class='fa fa-globe fa-fw'></i>"
+    identifier = "culture-geo"
+    url = "/album/culture-geo"
+    parent = "culture"
+    weight = 1
+    [[menu.main]]
+    name = "Botany"
+    pre = "<i class='fa fa-globe fa-fw'></i>"
+    identifier = "culture-botany"
+    url = "/album/culture-botany"
+    parent = "culture"
+    weight = 2
+    [[menu.main]]
+    name = "Zoology"
+    pre = "<i class='fa fa-globe fa-fw'></i>"
+    identifier = "culture-zoology"
+    url = "/album/culture-zoology"
+    parent = "culture"
+    weight = 3
   [[menu.main]]
     name = "About"
     pre = "<i class='fa fa-user fa-fw'></i>"

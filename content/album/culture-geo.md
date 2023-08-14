@@ -1,6 +1,6 @@
 ---
 title: "Early Childhood: Geography & History"
-weight: 101
+weight: 103
 toc: true
 ---
 
@@ -9,13 +9,13 @@ toc: true
 {{< box class="center" >}}
   {{< img src="/img/culture/geo/image003.webp" alt="Title Geo" >}}
 
-{{< box class=" font-large" >}}2019{{< /box >}}
+{{< box class="font-lg" >}}2019{{< /box >}}
 
-{{< box class=" " >}}
+{{< box class="font-lg" >}}
 Kateri Carver, Ph.D.
 {{< /box >}}
 
-{{< box class=" line" >}}
+{{< box class="font-lg" >}}
 Geography, Physical Science and History
 {{< /box >}}
 
@@ -29,71 +29,13 @@ Geography, Physical Science and History
 
 Table of Contents
 
-Earth: Our Home
-What is a Model?
-    	 Review of Three Period Lesson
-Land and Water Globe 
-      Song: Air, Land, and Water 
-Earth’s Elements: Air, Land and Water Specimens (fire optional)
-      Air, Land & Water Mat with objects 
-      Air, Land, & Water Picture Sorting           
-See EC Geography and History Schematic for sequence options
-⇒ NOTE: can go from here to Earth in Space: Physical Sciences
-⇒ NOTE: can go from here to Earth: Its Land and Water 
-⇒ NOTE: can go from here to Mapping Earth: Continents and Cartography
+{{< box class="white-outline white-bg w-500 center-block" >}}
+  {{< box class=" " >}}Lessons in {{< sp RED redc >}} are “Key Lessons”{{< /box >}}
+  {{< box class=" " >}}Lessons in BLACK are either recommended or optional lessons{{< /box >}}
+  {{< box class=" " >}}Notes in {{< sp BLUE bluec >}} refer to the corresponding PDF Schematics{{< /box >}}
+{{< /box >}}
 
-Earth in Space: Physical Sciences
-Earth in Space & the Universe
-Our Milky Way Galaxy and Other Galaxies
-	Our Cosmic address
-Earth and Sun: Orbit & Tilt (can connect with Botany/Seasons & History/time - Birthday celebration)
-Earth and Sun: Rotation
-Earth and Sun: Revolution 
-Earth’s Nomenclature and Climate Zones
-Earth: Three states of matter: A Special planet 
-Earth as Magnet: Magnetism 
-Earth : A Special compound: Water: sink/float lesson to write up
-⇒ NOTE: Can go to History: time/revolution-rotation/seasons/days etc…
-⇒ NOTE: Can go to Botany: sun and plant growth/seasons/ 
-Earth: Its Land and Water
-Land and Water forms: molds or made material
-Land and water forms: cards  
-      Land and water forms mat with objects 
-Mapping Earth: Continents & Cartography 
-Continent Globe  
-            Continent Song
-      Oceans (Intro)
-Direction Awareness 
-      Map of Body
-Mapping of the Hand
-Mapping of an environment (a shelf, classroom, miniature environment, playground)
-      Mapping Works 
-      Resources: books on mapping and cartography
-Transition from Globe to Map (Sphere to Hemispheres) 
-Nomenclature for Hemispheres
-      Additional nomenclature 
-Map of World Parts
 
-Exploring Earth:  Individual Continents 
-Puzzle Map of North America 
-Combined Controls, Labeled & Unlabeled
-Artifact Box [ box/ bag / etc.] for North America
-      Introduction to Artifacts
-      Matching Artifacts to Countries
-Continent Folder for North America
-      Sorting photos by countries
-The Flag ( US) 
-Flags of North America
-      Flags of the Countries of the USA (miniature flags)
-Puzzle Map of USA
-
-History: Time & Earth’s Changes
-Solar System: review or first presentation
-Time: Introduction 
-Days of the Week & calendar 
-Seasons & Months of the year
-Birthday Celebration ( collective write up) 
-      Personal Timelines
 
 
 {{< spacer >}}
@@ -101,7 +43,7 @@ Birthday Celebration ( collective write up)
 
 ## Earth: Our Home
 
-### WHAT IS A MODEL?
+### WHAT IS A MODEL?{.redc}
 
 **Materials:**
 - Objects that are reproductions of real things. Examples include: a car, an elephant, a flower, etc. The object should have design detail and attributes (weight, texture, color) so as to initiate a conversation about its status as a “model.”
@@ -167,8 +109,8 @@ Birthday Celebration ( collective write up)
 - Place additional models in the basket or in a mystery bag.
 - Ask the child to look around the room for something that is a model.	
 
-**Vocabulary:**
-Model, representation, three-dimension(al), miniature, names of the parts of the object - elephant/doll  etc. 
+**Vocabulary:**\
+Model, representation, three-dimension(al), miniature, names of the parts of the object - elephant/doll  etc.
 
 **Source:** Kateri Carver, PhD. UWRF Montessori TEP 2019\
 **Source:** Brenda Petta, M.S. Ed. UWRF Montessori TEP 2019
@@ -179,7 +121,7 @@ Model, representation, three-dimension(al), miniature, names of the parts of the
 
 
 
-### LAND AND WATER GLOBE (ALSO KNOWN AS GLOBE 1 AND/OR SANDPAPER GLOBE)
+### LAND AND WATER GLOBE (ALSO KNOWN AS GLOBE 1 AND/OR SANDPAPER GLOBE){.redc}
 
 **Materials:**
 - Globe which has land represented with a sandy (rough), light brown surface, and water represented by a smooth, blue surface.  The base holds the globe at a 23.5-degree angle to demonstrate the Earth’s axial tilt, or simply ‘tilt’. See Glossary of terms for more information on axial tilt 
@@ -305,7 +247,7 @@ Air, land and water.
  {{< spacer >}}
 
 
-### EARTH’S ELEMENTS: LAND, WATER & AIR SPECIMENS (FIRE optional)
+### EARTH’S ELEMENTS: LAND, WATER & AIR SPECIMENS (FIRE optional){.redc}
 
 **Materials:**
 * Land and Water globe
@@ -548,7 +490,7 @@ Land, water, air, kite, wind, atmosphere, clouds, shore and any other noun that 
 
 ## Earth In Space: Physical Sciences
 
-### EARTH IN SPACE AND THE UNIVERSE
+### EARTH IN SPACE AND THE UNIVERSE{.redc}
 
 **Prerequisites:**
 - Mapping lessons (optional)
@@ -656,7 +598,7 @@ Astronaut, Apollo Program
 {{< spacer >}}
 
 
-### OUR MILKY WAY GALAXY AND OTHER GALAXIES
+### OUR MILKY WAY GALAXY AND OTHER GALAXIES{.redc}
 
 **Materials:**
 - Picture of Earth in space (small)
@@ -858,7 +800,7 @@ Universe, Milky Way galaxy, Solar system, Earth, North America, United States, S
 {{< spacer >}}
 
 
-### EARTH AND SUN: ORBIT & TILT (can connect with Botany/ Seasons & History/ Time - Birthday celebration)
+### EARTH AND SUN: ORBIT & TILT (can connect with Botany/ Seasons & History/ Time - Birthday celebration){.redc}
 
 {{< figure class="white-outline float-right preview-300" src="/img/culture/geo/image029.webp" caption="Earth spins counterclockwise on its axis and counterclockwise around the sun." >}}
 
@@ -943,7 +885,7 @@ revolution, year, axis, tilt, season, ellipse, orbit, winter, spring, summer, fa
 {{< spacer >}}
 
 
-### PARTS OF THE EARTH: NOMENCLATURE
+### PARTS OF THE EARTH: NOMENCLATURE{.redc}
 
 {{< figure class="white-outline float-right preview-300" src="/img/culture/geo/image033.webp" caption="Learning Resources Geometric Solids: This set could be used for many activities in Culture as well as other areas of the classroom." >}}
 
@@ -1039,7 +981,7 @@ Temperate: https://study.com/academy/lesson/temperate-climate-zone-lesson-for-ki
 {{< spacer >}}
 
 
-### EARTH: THREE STATES OF MATTER: A SPECIAL PLANET
+### EARTH: THREE STATES OF MATTER: A SPECIAL PLANET{.redc}
 
 **Prerequisites:**
 - Land/air/water mat lesson
@@ -1187,7 +1129,7 @@ https://www.thoughtco.com/types-of-solids-liquids-and-gases-608354
 {{< spacer >}}
 
 
-### EARTH: A SPECIAL MAGNET
+### EARTH: A SPECIAL MAGNET{.redc}
 
 #### MAGNETISM
 
@@ -1251,7 +1193,7 @@ Magnet, magnetic field, non-magnetic, magnetic property/ies, iron, core  of the 
 {{< spacer >}}
 
 
-#### EARTH: A SPECIAL COMPOUND : WATER
+#### EARTH: A SPECIAL COMPOUND : WATER{.redc}
 
 Sink & Float\
 Collective lesson write-up: SINK/ FLOAT LESSON
@@ -1262,7 +1204,7 @@ Collective lesson write-up: SINK/ FLOAT LESSON
 
 ## Earth : Its Land and Water
 
-### LAND AND WATER FORMS
+### LAND AND WATER FORMS{.redc}
 
 {{< img class="white-outline float-right preview-300" src="/img/culture/geo/image038.webp" alt="Glass Trays" >}}
 
@@ -1373,7 +1315,7 @@ Island/ lake; isthmus/ strait; cape/bay; peninsula/gulf; archipelago/chain of la
 {{< spacer >}}
 
 
-### LAND AND WATER FORMS MAT
+### LAND AND WATER FORMS MAT{.redc}
 
 {{< figure class="white-outline float-right preview-300" src="/img/culture/geo/image042.webp" caption="https://wasecabiomes.org/products/landform-mat" >}}
 
@@ -1441,7 +1383,7 @@ Island/ lake; isthmus/ strait; cape/bay; peninsula/gulf; archipelago/chain of la
 
 ## Mapping Earth: Continents & Cartography
 
-### CONTINENT GLOBE (also known as the Globe of World Parts)
+### CONTINENT GLOBE (also known as the Globe of World Parts){.redc}
 
 **Materials:**
 - Montessori Continent globe
@@ -1531,7 +1473,7 @@ North America, South America, Europe, Asia, Africa, Oceania, Antarctica, Pacific
 {{< spacer >}}
 
 
-### Direction Awareness: CARDINAL POINTS (Introduction)
+### Direction Awareness: CARDINAL POINTS (Introduction){.redc}
 
 **Materials:**
 * Continent globe
@@ -1689,7 +1631,7 @@ Map, body map; three-dimensional (takes up space); two-dimensional (flat); newsp
 
 
 
-### MAP OF THE HAND
+### MAP OF THE HAND{.redc}
 
 **Materials:**
 - Yarn
@@ -1753,7 +1695,7 @@ Right, left
 {{< spacer >}}
 
 
-### MAPPING THE ENVIRONMENT
+### MAPPING THE ENVIRONMENT{.redc}
 
 **Materials:**
 - Paper and pencil
@@ -1815,7 +1757,7 @@ Right/ left, above, below, next to, 2 dimensional shapes (square, rectangle, cir
 {{< spacer >}}
 
 
-### TRANSITION FROM GLOBE (SPHERE) TO MAP HEMISPHERES (CIRCLES)
+### TRANSITION FROM GLOBE (SPHERE) TO MAP HEMISPHERES (CIRCLES){.redc}
 
 **Prerequisites:**
 - Lesson on a sphere (geometric solids)
@@ -1904,7 +1846,7 @@ It is helpful to have a geometric solid sphere cut in half (often available at s
 {{< spacer >}}
 
 
-### MAP OF WORLD PARTS
+### MAP OF WORLD PARTS{.redc}
 
 **Materials:**
 - Map of World Parts ( also known as Continent Map) 
@@ -2068,7 +2010,7 @@ Bringing the lessons in Culture to the other areas of the classroom enlivens and
 
 ## Exploring Earth: Individual Continents
 
-### CONTINENT FOLDER/BINDER AND ARTIFACT BOX
+### CONTINENT FOLDER/BINDER AND ARTIFACT BOX{.redc}
 
 **Materials:**
 - Multiple sturdy artifacts from the North American continent
@@ -2135,7 +2077,7 @@ This will vary depending on the contents of the continent Artifact box.
 {{< spacer >}}
 
 
-### CONTINENT FOLDER FOR NORTH AMERICA
+### CONTINENT FOLDER FOR NORTH AMERICA{.redc}
 
 **Materials:**
 - Three ring binder or other sturdy folder for pages of pictures or individual mounted pictures from N.A. of: land and water forms, animals, plants and trees, peoples, flags, foods, dress, natural and man-made monuments; a map with legend of all the country names on the continent, list of capitals, maps of natural resources etc. 
@@ -2333,7 +2275,7 @@ This will vary depending on the contents of the continent folder.
 {{< spacer >}}
 
 
-### THE FLAG
+### THE FLAG{.redc}
 
 **Materials:**
 - American flag (Regular size for household flagpole, if possible)
@@ -2410,7 +2352,7 @@ This will vary depending on the contents of the continent folder.
 {{< spacer >}}
 
 
-### COUNTRY FLAGS (North America for this lesson)
+### COUNTRY FLAGS (North America for this lesson){.redc}
 
 **Materials:**
 * Miniature flag of the United States on a stand
@@ -2554,7 +2496,7 @@ Continent Studies are very open ended, and up to the teacher to implement as s/h
 {{< spacer >}}
 
 
-### PUZZLE MAP OF NORTH AMERICA
+### PUZZLE MAP OF NORTH AMERICA{.redc}
 
 **Materials:**
 - Montessori puzzle map of North America
@@ -2648,7 +2590,7 @@ Canada, United States, Mexico, Guatemala, Belize, Honduras, Nicaragua, El Salvad
 {{< spacer >}}
 
 
-### PUZZLE MAP OF THE UNITED STATES OF AMERICA
+### PUZZLE MAP OF THE UNITED STATES OF AMERICA{.redc}
 
 **Materials:**
 * Puzzle map of North America
@@ -2780,7 +2722,7 @@ Lessons on day and night have also likely been introduced with early lesson on {
 {{< spacer >}}
 
 
-### TIME: INTRODUCTORY LESSON
+### TIME: INTRODUCTORY LESSON{.redc}
 
 **Prerequisites:**
 * Earth in space
@@ -2883,7 +2825,7 @@ Lessons on day and night have also likely been introduced with early lesson on {
 {{< spacer >}}
 
 
-### DAYS OF THE WEEK & CALENDAR
+### DAYS OF THE WEEK & CALENDAR{.redc}
 
 **Materials:**
 * A wall calendar
@@ -2958,7 +2900,7 @@ List some here
 {{< spacer >}}
 
 
-### MONTHS & SEASONS OF THE YEAR
+### MONTHS & SEASONS OF THE YEAR{.redc}
 
 **Materials:**
 Either A. :

@@ -25,6 +25,10 @@ table th, table td {
 	color: red;
 	font-weight: bold;
 }
+.redc a {
+	color: red;
+	text-decoration: underline;
+}
 
 .greenc {
 	color: green;
@@ -235,6 +239,12 @@ img.white-bg {
 .font-sm {
 	font-size: smaller;
 }
+.font-lg {
+	font-size:larger;
+}
+.font-bold {
+	font-weight: bold;
+}
 .vowel-symbol {
   font-size: 3rem;
 	padding:1rem;
@@ -317,6 +327,7 @@ img[alt*="imgId-hands"] {
 	display:grid;
 	grid-template-columns: 1fr 1fr;
 	gap: 1em;
+	margin: 1em;
 }
 
 .col-3 {

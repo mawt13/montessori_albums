@@ -1,6 +1,6 @@
 ---
 title: "Culture"
-weight: 100
+weight: 104
 ---
 
 1. [Geography And History Album](/album/culture-geo "Part I.GeographyAndHistoryAlbum.6.2021.docx")
