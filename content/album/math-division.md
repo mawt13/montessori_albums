@@ -97,9 +97,9 @@ Maria Montessori. Psychoarithmetic: Arithmetic developed under the guidelines ou
 
 {{< grid-table class="white-bg" >}}
 
-{{< img class="" src="/img/math/division/image001.webp" alt="Golden Bead Division" >}}
+{{< img class="pure-img" src="/img/math/division/image001.webp" alt="Golden Bead Division" >}}
 
-{{< img class="" src="/img/math/division/image003.webp" alt="Golden Bead Division" >}}
+{{< img class="pure-img" src="/img/math/division/image003.webp" alt="Golden Bead Division" >}}
 
 {{< /grid-table >}}
 
@@ -179,16 +179,15 @@ Maria Montessori. Psychoarithmetic: Arithmetic developed under the guidelines ou
 
 {{< grid-table class="white-bg" >}}
 
-{{< img class="" src="/img/math/division/image005.webp" alt="Division With Stamp Board" >}}
+{{< img class="pure-img" src="/img/math/division/image005.webp" alt="Division With Stamp Board" >}}
 
-{{< img class="" src="/img/math/division/image007.webp" alt="Division With Stamp Board" >}}
+{{< img class="pure-img" src="/img/math/division/image007.webp" alt="Division With Stamp Board" >}}
 
-{{< img class="" src="/img/math/division/image009.webp" alt="Division With Stamp Board" >}}
+{{< img class="pure-img" src="/img/math/division/image009.webp" alt="Division With Stamp Board" >}}
 
-{{< img class="" src="/img/math/division/image011.webp" alt="Division With Stamp Board" >}}
+{{< img class="pure-img" src="/img/math/division/image011.webp" alt="Division With Stamp Board" >}}
 
-{{< img class="" src="/img/math/division/image013.webp" alt="Division With Stamp Board" >}}
-
+{{< img class="pure-img" src="/img/math/division/image013.webp" alt="Division With Stamp Board" >}}
 
 {{< /grid-table >}}
 
@@ -283,9 +282,9 @@ Dividend, divisor, quotient, remainder
 
 {{< grid-table class="white-bg" >}}
 
-{{< img class="" src="/img/math/division/image015.webp" alt="Division Board" >}}
+{{< img class="pure-img" src="/img/math/division/image015.webp" alt="Division Board" >}}
 
-{{< img class="" src="/img/math/division/image017.webp" alt="Division Board" >}}
+{{< img class="pure-img" src="/img/math/division/image017.webp" alt="Division Board" >}}
 
 {{< /grid-table >}}
 

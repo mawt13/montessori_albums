@@ -1001,7 +1001,7 @@ Add photos of this work
 8. Continue until all the pieces are on the rug. Ask a child to play the role of the teacher and name a piece to be replaced in the puzzle frame. 
 9. As with the tree puzzle, one engaging work is to pin-punch a puzzle out of paper. This can be done with several different shades of green and turn out a beautiful Botanical piece of artwork. Mount the leaf parts on a blue or other stiff backing. The child can label the leaf. 
 
-{{< img class="white-outline float-right" src="/img/culture/botany/image027.webp" alt="Types of Leaves" >}}
+{{< img class="white-outline float-right pure-img" src="/img/culture/botany/image027.webp" alt="Types of Leaves" >}}
 
 **Direct Aims:**
 - Teach the parts of the leaf

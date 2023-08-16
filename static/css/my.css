@@ -1,5 +1,6 @@
 :root {
   --sidebar-width: 20em;
+	--highlight-color:#ff7473;
 }
 
 html {
@@ -9,6 +10,40 @@ html {
 body {
 	/* background-color: black; */
 }
+
+/* arrow */
+.arrow {
+	position: relative;
+  bottom: 0;
+  left: 450px;
+  width: calc(50% - 200px);
+  height: 40%;
+  /* uncomment to see the arrow's rectangle bg*/
+/*   background: white;  */
+}
+
+.arrow__body {
+  width: 100%;
+  height: 95%;
+  margin-left: 11px;
+  border-width: 5px 0 0 5px;
+  border-style: dashed;
+  border-color: var(--highlight-color);
+  border-top-left-radius: 100%;
+}
+
+.arrow__body::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  border-width: 20px 15px 0;
+  border-style: solid;
+  border-color: var(--highlight-color) transparent transparent;
+}
+
+
+/* ***** */
 
 table th, table td {
   padding-right: 1em;
@@ -100,6 +135,16 @@ div.red-border--img-grid {
 
 .spacer-div {
 	height: 10em;
+	position: relative;
+}
+
+.spacer-div:after {
+	content: '***';
+	font-size:14pt;
+	color:#777;
+	position: absolute;
+	top:50%;
+	left:48%;
 }
 
 .clear-float {
@@ -147,20 +192,21 @@ figure.pure-img {
 	max-width: fit-content;
 }
 
-.float-right {
-	float:right;
-}
+.float-right {float:right;}
 
 .w-75 {width:75%;}
+.w-50 {width:50%;}
 .w-100 {width:100%;}
 .w-250 {width:250px;}
 .w-300 {width:300px;}
 .w-400 {width:400px;}
 .w-500 {width:500px;}
 
-div.p-2 {
-	padding:2em;
-}
+div.p-1 {padding: 1em;}
+div.p-2 {padding:2em;}
+
+.my-1 {margin-top:1em;margin-bottom:1em;}
+.py-1 {padding-top:1em;padding-bottom:1em;}
 
 figcaption {
 	text-align: center;
@@ -185,6 +231,14 @@ div#brandDiv {
 	display:grid;
 	grid-template-columns: 6em 1fr;
 	grid-gap:1rem;
+	padding: 8px;
+}
+
+div#brandDiv a.brand {
+	text-transform: uppercase;
+	white-space: break-spaces;
+line-height: 1em;
+padding:0;
 }
 
 #toc-sidenav {}
@@ -264,7 +318,7 @@ img.white-bg {
 }
 
 /* Style images with selectors of title */
-img[title*="imgClass--float-right"], img.float-right, div.float-right {
+img.float-right, div.float-right {
 	float:right;
 	margin:2em;
 }
@@ -274,14 +328,9 @@ img.float-left, figure.float-left, div.float-left {
 	margin:2em;
 }
 
-img[title*="imgClass--preview"], img.preview {
-	height:8.5em;
-}
-
 img.preview-md, figure.preview-md img {
 	height:12em;
 	margin: .5em;
-
 }
 
 img.preview-lg, figure.preview-lg img {
@@ -292,20 +341,6 @@ img.preview-lg, figure.preview-lg img {
 img.preview-300, figure.preview-300, figure.preview-300 img {
 	width:300px;
 }
-
-img[title*="imgClass--half-size"] {
-	width:50%;
-}
-
-img[alt*="imgId-hands"] {
-	width:25%;
-}
-
-/* .table-image--div {
-	margin-right:.5em;
-	display: grid;
-	grid-template-rows: 1em 1fr 1fr;
-} */
 
 .table-image--title {
 	color: firebrick;
@@ -328,12 +363,14 @@ img[alt*="imgId-hands"] {
 	grid-template-columns: 1fr 1fr;
 	gap: 1em;
 	margin: 1em;
+	place-items: center;
 }
 
 .col-3 {
 	display:grid;
 	grid-template-columns: repeat(3, 1fr);
 	gap: 1rem;
+	place-items: center;
 }
 
 .col-4 {
@@ -367,7 +404,11 @@ div.bg-border div {
 	outline: 1px solid black;
 }
 
+/* Mobile View */
 @media (max-width: 48em) {
+	figure {
+		margin:0;padding:0;
+	}
 	img[title*="imgClass--float-right"] {
 		padding:0;
 		max-width:100%;
@@ -376,7 +417,10 @@ div.bg-border div {
 	figure.float-right {
 		float:none;
 		padding:1em;
+		margin:0 auto;
 	}
+	img.float-right, div.float-right {float:none;margin:0 auto;}
+	img.float-left, figure.float-left, div.float-left {float:none;margin:0;}
 	.col-2 {
 		grid-template-columns: 1fr;
 	}
@@ -386,6 +430,29 @@ div.bg-border div {
 	.col-4 {
 		grid-template-columns: 1fr;
 	}
+	#layout.active {
+		left: var(--sidebar-width);
+	}
+.preview {margin:0 auto;}
+	.w-300, .w-400, .w-500 {max-width:100%;}
+	img.preview-300, figure.preview-300, figure.preview-300 img {max-width:100%;}
+	img.preview-md, figure.preview-md img {
+		max-width:100%;
+		height:auto;
+		margin: 0;
+	}
+	img.preview-lg, figure.preview-lg img {
+		height:auto;
+		max-width:100%;
+		margin: 0;
+	}
+
+	div.p-2 {padding:0;}
+
+	img.blue-outline, figure.blue-outline, div.blue-outline {
+		padding:0;
+	}
+
 }
 
 
@@ -408,9 +475,6 @@ div.bg-border div {
 	width: var(--sidebar-width);
 }
 
-#menu:last-child {
-}
-
 @media (min-width: 48em) {
 	#menu {
 		left: var(--sidebar-width);
@@ -429,10 +493,5 @@ div.bg-border div {
 	.content {
 		padding-left: 4em;
 	}
-}
 
-@media (max-width: 48em) {
-	#layout.active {
-			left: var(--sidebar-width);
-	}
 }

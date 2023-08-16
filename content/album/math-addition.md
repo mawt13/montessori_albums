@@ -127,7 +127,7 @@ preparation for abstract addition
 
 **Age:** 4-5 years old
 
-{{< img class="float-right" src="/img/math/addition/image001.webp" alt="Red and Blue Rods" >}}
+{{< img class="float-right pure-img" src="/img/math/addition/image001.webp" alt="Red and Blue Rods" >}}
 
 **Presentation:**
 1.  Grade the rods as in the initial presentation of this material with 1 at bottom of the work rug and 10 at top. Placement of rods should leave an open area at the bottom of the rug for the lesson. 
@@ -227,7 +227,7 @@ Preparation for flexibility in thinking – vertical addition
 1. Follow the same steps as Presentation I but extend the lesson to write down the “number story” and include the symbols “+” and “=” in the story.
 2. Use paper and pencil to write down the equation as you tell the number story. “Three, combined with two, is the same as five. Three plus two equals five.”
 
-{{< img class="" src="/img/math/addition/image002.webp" alt="Bead Bars" >}}
+{{< img class="pure-img" src="/img/math/addition/image002.webp" alt="Bead Bars" >}}
 
 **Points of Interest:**
 Colorful bead bars
@@ -250,13 +250,13 @@ Maria Montessori. Psychoarithmetic: Arithmetic Developed under the Guidelines Ou
 {{< spacer >}}
 
 
-{{< img class="" src="/img/math/addition/image003.webp" alt="Bead Bars" >}}
+{{< img class="pure-img" src="/img/math/addition/image003.webp" alt="Bead Bars" >}}
 
 {{< grid-table class="col-2" >}}
 
-{{< figure class="" src="/img/math/addition/image004.webp" alt="Bead Bars" caption="www.momtessorilife.com" >}}
+{{< figure class="pure-img" src="/img/math/addition/image004.webp" alt="Bead Bars" caption="www.momtessorilife.com" >}}
 
-{{< figure class="" src="/img/math/addition/image005.webp" alt="Bead Bars" caption="www.livingmontessorinow.com">}}
+{{< figure class="pure-img" src="/img/math/addition/image005.webp" alt="Bead Bars" caption="www.livingmontessorinow.com">}}
 
 {{< /grid-table >}}
 
@@ -354,11 +354,11 @@ Maria Montessori. Psychoarithmetic: Arithmetic developed under the guidelines ou
 
 {{< grid-table class="white-bg" >}}
 
-{{< img class="" src="/img/math/addition/image006.webp" alt="Addition Strip Board" >}}
+{{< img class="pure-img" src="/img/math/addition/image006.webp" alt="Addition Strip Board" >}}
 
-{{< img class="" src="/img/math/addition/image007.webp" alt="Addition Strip Board" >}}
+{{< img class="pure-img" src="/img/math/addition/image007.webp" alt="Addition Strip Board" >}}
 
-{{< img class="" src="/img/math/addition/image008.webp" alt="Addition Strip Board" >}}
+{{< img class="pure-img" src="/img/math/addition/image008.webp" alt="Addition Strip Board" >}}
 
 {{< /grid-table >}}
 
@@ -454,9 +454,9 @@ Maria Montessori, Psychoarithmetic: Arithmetic developed under the guidelines ou
 
 {{< grid-table class="white-bg" >}}
 
-{{< img class="" src="/img/math/addition/image009.webp" alt="Golden Bead static Addition" >}}
+{{< img class="pure-img" src="/img/math/addition/image009.webp" alt="Golden Bead static Addition" >}}
 
-{{< img class="" src="/img/math/addition/image010.webp" alt="Golden Bead static Addition" >}}
+{{< img class="pure-img" src="/img/math/addition/image010.webp" alt="Golden Bead static Addition" >}}
 
 {{< /grid-table >}}
 
@@ -538,11 +538,11 @@ Maria Montessori. Psychoarithmetic: Arithmetic developed under the guidelines ou
 
 {{< grid-table class="white-bg" >}}
 
-{{< img class="" src="/img/math/addition/image011.webp" alt="Golden Bead Dynamic Addition" >}}
+{{< img class="pure-img" src="/img/math/addition/image011.webp" alt="Golden Bead Dynamic Addition" >}}
 
-{{< img class="" src="/img/math/addition/image012.webp" alt="Golden Bead Dynamic Addition" >}}
+{{< img class="pure-img" src="/img/math/addition/image012.webp" alt="Golden Bead Dynamic Addition" >}}
 
-{{< img class="" src="/img/math/addition/image013.webp" alt="Golden Bead Dynamic Addition" >}}
+{{< img class="pure-img" src="/img/math/addition/image013.webp" alt="Golden Bead Dynamic Addition" >}}
 
 {{< /grid-table >}}
 
@@ -645,13 +645,13 @@ Maria Montessori, Psychoarithmetic: Arithmetic developed under the guidelines ou
 
 {{< grid-table class="white-bg" >}}
 
-{{< img class="" src="/img/math/addition/image014.webp" alt="Stamp Game Static Addition" >}}
+{{< img class="pure-img" src="/img/math/addition/image014.webp" alt="Stamp Game Static Addition" >}}
 
-{{< img class="" src="/img/math/addition/image015.webp" alt="Stamp Game Static Addition" >}}
+{{< img class="pure-img" src="/img/math/addition/image015.webp" alt="Stamp Game Static Addition" >}}
 
-{{< img class="" src="/img/math/addition/image016.webp" alt="Stamp Game Static Addition" >}}
+{{< img class="pure-img" src="/img/math/addition/image016.webp" alt="Stamp Game Static Addition" >}}
 
-{{< img class="" src="/img/math/addition/image017.webp" alt="Stamp Game Static Addition" >}}
+{{< img class="pure-img" src="/img/math/addition/image017.webp" alt="Stamp Game Static Addition" >}}
 
 {{< /grid-table >}}
 
@@ -749,19 +749,19 @@ Maria Montessori. Psychoarithmetic: Arithmetic developed under the guidelines ou
 
 {{< grid-table class="white-bg" >}}
 
-{{< img class="" src="/img/math/addition/image018.webp" alt="Stamp Game Dynamic Addition" >}}
+{{< img class="pure-img" src="/img/math/addition/image018.webp" alt="Stamp Game Dynamic Addition" >}}
 
 Two-Handed Exchange
 
-{{< img class="" src="/img/math/addition/image019.webp" alt="Stamp Game Dynamic Addition" >}}
+{{< img class="pure-img" src="/img/math/addition/image019.webp" alt="Stamp Game Dynamic Addition" >}}
 
-{{< img class="" src="/img/math/addition/image020.webp" alt="Stamp Game Dynamic Addition" >}}
+{{< img class="pure-img" src="/img/math/addition/image020.webp" alt="Stamp Game Dynamic Addition" >}}
 
-{{< img class="" src="/img/math/addition/image021.webp" alt="Stamp Game Dynamic Addition" >}}
+{{< img class="pure-img" src="/img/math/addition/image021.webp" alt="Stamp Game Dynamic Addition" >}}
 
-{{< img class="" src="/img/math/addition/image022.webp" alt="Stamp Game Dynamic Addition" >}}
+{{< img class="pure-img" src="/img/math/addition/image022.webp" alt="Stamp Game Dynamic Addition" >}}
 
-{{< img class="" src="/img/math/addition/image023.webp" alt="Stamp Game Dynamic Addition" >}}
+{{< img class="pure-img" src="/img/math/addition/image023.webp" alt="Stamp Game Dynamic Addition" >}}
 
 
 {{< /grid-table >}}
@@ -772,7 +772,7 @@ Two-Handed Exchange
 
 ### Bead Frame - Addition
 
-{{< img class="float-right" src="/img/math/addition/image024.webp" alt="Bead Frame" >}}
+{{< img class="float-right pure-img" src="/img/math/addition/image024.webp" alt="Bead Frame" >}}
 
 **Materials:**
 * Small bead frame
@@ -858,14 +858,13 @@ Maria Montessori. Psychoarithmetic: Arithmetic developed under the guidelines ou
 
 {{< grid-table class="white-bg" >}}
 
-{{< img class="" src="/img/math/addition/image025.webp" alt="Bead Frame Addition" >}}
+{{< img class="pure-img" src="/img/math/addition/image025.webp" alt="Bead Frame Addition" >}}
 
-{{< img class="" src="/img/math/addition/image026.webp" alt="Bead Frame Addition" >}}
+{{< img class="pure-img" src="/img/math/addition/image026.webp" alt="Bead Frame Addition" >}}
 
-{{< img class="" src="/img/math/addition/image027.webp" alt="Bead Frame Addition" >}}
+{{< img class="pure-img" src="/img/math/addition/image027.webp" alt="Bead Frame Addition" >}}
 
-{{< img class="" src="/img/math/addition/image028.webp" alt="Bead Frame Addition" >}}
-
+{{< img class="pure-img" src="/img/math/addition/image028.webp" alt="Bead Frame Addition" >}}
 
 {{< /grid-table >}}
 
@@ -893,10 +892,9 @@ Maria Montessori. Psychoarithmetic: Arithmetic developed under the guidelines ou
 
 {{< grid-table class="col-2" >}}
 
-{{< img class="" src="/img/math/addition/image029.webp" alt="Working Charts Addition" >}}
+{{< img class="pure-img" src="/img/math/addition/image029.webp" alt="Working Charts Addition" >}}
 
-{{< img class="" src="/img/math/addition/image030.webp" alt="Working Charts Addition" >}}
-
+{{< img class="pure-img" src="/img/math/addition/image030.webp" alt="Working Charts Addition" >}}
 
 {{< /grid-table >}}
 

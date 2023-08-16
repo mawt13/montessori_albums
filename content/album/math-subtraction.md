@@ -14,10 +14,10 @@ toc: true
 
 {{< spacer >}}
 
-Subtraction with Golden Bead Material
-Subtraction with Stamp Game
-Subtraction Strip Board
-Subtraction Working Charts
+[Subtraction with Golden Bead Material](#subtraction-with-the-golden-bead-material)\
+[Subtraction with Stamp Game](#subtraction-with-stamp-game)\
+[Subtraction Strip Board](#subtraction-strip-board)\
+[Subtraction Working Charts](#subtraction-working-charts)
 
 > “The idea that needs to be emphasized – and it is a characteristic of subtraction – is the existence of only one real quantity.” 
 
@@ -143,13 +143,13 @@ Maria Montessori. Psychoarithmetic: Arithmetic developed under the guidelines ou
 
 {{< grid-table class="white-bg" >}}
 
-{{< img class="" src="/img/math/subtraction/image001.webp" alt="Golden Bead Subtraction" >}}
+{{< img class="pure-img" src="/img/math/subtraction/image001.webp" alt="Golden Bead Subtraction" >}}
 
-{{< img class="" src="/img/math/subtraction/image003.webp" alt="Golden Bead Subtraction" >}}
+{{< img class="pure-img" src="/img/math/subtraction/image003.webp" alt="Golden Bead Subtraction" >}}
 
-{{< img class="" src="/img/math/subtraction/image005.webp" alt="Golden Bead Subtraction" >}}
+{{< img class="pure-img" src="/img/math/subtraction/image005.webp" alt="Golden Bead Subtraction" >}}
 
-{{< img class="" src="/img/math/subtraction/image007.webp" alt="Golden Bead Subtraction" >}}
+{{< img class="pure-img" src="/img/math/subtraction/image007.webp" alt="Golden Bead Subtraction" >}}
 
 {{< /grid-table >}}
 
@@ -276,7 +276,7 @@ Maria Montessori. Psychoarithmetic: Arithmetic developed under the guidelines ou
 
 3. Invite the child to place the longest natural strip across the top of the board, covering all numerals greater than 10.
 
-{{< img class="float-right" src="/img/math/subtraction/image009.webp" alt="Subtraction Strip Board" >}}
+{{< img class="float-right pure-img" src="/img/math/subtraction/image009.webp" alt="Subtraction Strip Board" >}}
 
 4. Say, “I wonder what would be left if started with 10 (point to the 10) and then took three away?” (Retrieve the red 3 strip and hold it up so the child can see it.)
 
@@ -297,7 +297,7 @@ Place the red 3 strip to the left of the natural strip, end to end, so that the 
 
 3. Show the child how to use Subtraction Chart 1 as a control to check answers. This chart should be placed across the room from the child to encourage holding the equation and corresponding answer “in the mind” while walking between the chart and equation paper. This begins the act of memorization and allows the child to experience this process.
 
-{{< img class="float-right" src="/img/math/subtraction/image011.webp" alt="Subtraction Strip Board" >}}
+{{< img class="float-right pure-img" src="/img/math/subtraction/image011.webp" alt="Subtraction Strip Board" >}}
 
 **Presentation III is a variation**\
 (Uses set of 17 natural wood blanks and both the blue strips and red strips)
@@ -308,7 +308,7 @@ The set-up of the blue and red strips may vary according to classroom practice (
 
 2. For the problem shown, 15 - 8 = , the pointer finger slides over to the minuend number (15) at the top of the board. Then push the blank above the 15 up a little and retrieve it to cover the numbers starting from the right (16,17,18) because these numbers don’t factor into the equation. Now, the board is ready with the minuend amount displayed for this particular equation.
 
-{{< img class="float-right" src="/img/math/subtraction/image012.webp" alt="Subtraction Strip Board" >}}
+{{< img class="float-right pure-img" src="/img/math/subtraction/image012.webp" alt="Subtraction Strip Board" >}}
 
 3. Use the blue strips for the subtrahend. Place it exactly to the left of the blank. 
 
@@ -321,7 +321,7 @@ Point to the first number visible next to the blue strip – that is the differe
 
 Point the the appropriate spot on the board as you say, “This shows us what is left, 1,2,3,4,5,6,7. If you have 15 and take 8 away, then you have 7 left.”
 
-{{< img class="float-right" src="/img/math/subtraction/image013.webp" alt="Subtraction Strip Board" >}}
+{{< img class="float-right pure-img" src="/img/math/subtraction/image013.webp" alt="Subtraction Strip Board" >}}
 
 
 **Points of Interest**

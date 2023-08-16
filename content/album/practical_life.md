@@ -5,8 +5,7 @@ weight: 600
 toc: true
 ---
 
-{{< fluid_imgs "ff|/img/practical_life/image003.webp|Child Pouring Liquid" >}}
-*montessoritampa.com*
+{{< figure class="pure-img" src="/img/practical_life/image003.webp" alt="Child Pouring Liquid" caption="http://montessoritampa.com" >}}
 
 {{< center-quote >}}
 Submitted to:
@@ -89,7 +88,7 @@ The Practical Life rationale serves as a theoretical and methodological foundati
 
 Before we begin speaking of the hidden global value of Practical Life, we state what it is not: Practical Life is not cute and frivolous! The impressions that might arise from an internet search about Practical Life which brings us dainty images or, Facebook Montessori groups that present  sweet finds from the thrift store, stand in sharp contrast to this curriculum area. Practical Life.  is a serious, important academic and social-emotional area of the classroom. While many early childhood teachers find great pleasure in finding just the right glass pitcher or organizational piece for their classrooms, we need to make sure we keep our eye on the direct aims of the lessons. The Practical Life area should reflect the children’s culture, the skills they need to be independent in their local environment and the Grace and Courtesy lessons that they need to practice to function in their classroom community and in their local community with dignity and respect for themselves and others.  For example, perhaps the child needs to learn how to screw the small plastic top on paper carton of milk. We can then, make a work that presents opportunities to support this fine motor skill using familiar, local materials.
 
-![Milk Cartons imgId-milk](/img/practical_life/image005.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image005.webp" alt="Milk Cartons" >}}
 
 Given contemporary discoveries in motor and brain development, we now know the profound, whole body, and lifelong benefits of Practical Life. At a glance, Practical Life may appear to be superficial and even whimsical because it incorporates aesthetic and functional principles such as color coordinated materials, visually appealing unique containers and finally, endearing child size versions of adult tools. Yet, all materials have direct and indirect purposes in the classroom; they should hold purpose beyond the immediately obvious. Practical Life meet the needs of physical, spiritual, motor and psycho-social development.
 
@@ -100,8 +99,7 @@ Practical Life, especially what I refer to as “large Practical Life” is lite
 The examples above of large therapeutic Practical Life works that incorporate gross motor skills and the processing of sensory information are not just as important as Fine Motor skills- too often the singular focus of Practical Life- they are more important by virtue of the fact that they precede fine motor development and address the integration of all eight senses, including the proprioceptive, vestibular and the sense of self.  
 Your work is to make sure that you design, make available and integrate into your classroom the wide range of Practical Life works that respond to the integration of all the senses, the motor system and physical coordination. It is no wonder that the indirect aims of every Practical lesson are order, coordination, concentration and independence and self-esteem. 
 
-
-{{< center-quote >}} `*************************` {{< /center-quote >}}
+{{< spacer >}}
 
 Below is more information about sensory processing and Practical Life skills. It includes an article and a list from an OT of Practical life skills that support the full development of children. 
 
@@ -145,8 +143,6 @@ With more than 10 years’ experience in early childhood education, Melinda Kedr
 
 https://living.thebump.com/montessori-schools-good-kids-sensory-issues-9500.html
 
-{{< center-quote >}} `*************************` {{< /center-quote >}}
-
 
 {{< spacer >}}
 
@@ -158,9 +154,7 @@ https://living.thebump.com/montessori-schools-good-kids-sensory-issues-9500.html
 
 1. Wall push-ups: A picture of children’s traced hands on the wall. The children press on the hands prints on wall. This provides deep proprioceptive input which acts as a deep organizing system for the body and brain.
 
-{{< center-quote >}}
-![Hands imgId-hands](/img/practical_life/image007.png)
-{{< /center-quote >}}
+{{< img class="pure-img w-300 center-block" src="/img/practical_life/image007.png" alt="Hands" >}}
 
 2. Carrying heavy items,  “heavy work”: The child may walk on the line carrying heavy objects or across/ around the room.
 	a.  A child sized backpack loaded with stones or bean bags (this way the child can load and recognize the weight needed).
@@ -193,7 +187,7 @@ That movement is vital to the development of a child has been proven time and ti
 
 ##### BALANCING
 
-![Balancing Kid imgId-](/img/practical_life/image009.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image009.webp" alt="Balancing Kid" >}}
 
 **Materials:**
 Low balance beam, painter’s tape, or Velcro to make marks on the floor in a line. This can be one solid line or marks about 12 in apart. River stones may also be used.
@@ -220,7 +214,7 @@ Order, coordination, concentration, independence and self-confidence. Preparatio
 5. Show the child how to slowly step off the beam or river stones. 
 6. Thank the child.
 
-{{< figure src="/img/practical_life/image011.webp" title="River stones will work as well." class="float-right" >}}
+{{< figure src="/img/practical_life/image011.webp" title="River stones will work as well." class="float-right pure-img" >}}
 
 
 **Points of Interest:**
@@ -250,7 +244,7 @@ Stand, step, balance, beam
 
 ##### HOW TO CARRY A TRAY/ BASKET/BOX
 
-![Woman with a Balanced Tray](/img/practical_life/image013.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image013.webp" alt="Woman with a Balanced Tray" >}}
 
 **Materials:**
 - An empty tray
@@ -350,7 +344,8 @@ middle, elbows, waist, tight, shelf, tray
 
 ##### HOW TO CARRY A CHAIR
 
-![Child Carrying A Chair](/img/practical_life/image015.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image015.webp" alt="Child Carrying A Chair" >}}
+
 
 **Materials:** 
 Child sized chair
@@ -402,7 +397,7 @@ Seat, back, rung, lift
 
 ##### HOW TO CARRY A TABLE
 
-{{< figure src="/img/practical_life/image016.webp" caption="https://www.wonderfulmontessori.com/carrying-a-table" class="float-right" >}}
+{{< figure src="/img/practical_life/image016.webp" caption="https://www.wonderfulmontessori.com/carrying-a-table" class="float-right pure-img" >}}
 
 
 **Materials:**
@@ -464,9 +459,8 @@ Edge, lift
 
 ##### HOW TO CARRY AND ROLL A RUG
 
-![Woman Rolling a Rug imgId-roll-rug](/img/practical_life/image017.webp "imgClass--float-right")
-![Child Holding a Rug](/img/practical_life/image019.webp "imgClass--float-right")
-
+{{< img class="float-right pure-img white-outline" src="/img/practical_life/image017.webp" alt="Woman Rolling a Rug" >}}
+{{< img class="float-right pure-img white-outline" src="/img/practical_life/image019.webp" alt="Child Holding a Rug" >}}
 
 **Materials:**
 One medium sized work rug
@@ -540,7 +534,8 @@ Edge, roll, unroll
 
 ##### HOW TO PUT ON, TAKE OFF AND PUT AWAY AN APRON
 
-![Child Putting on a Apron](/img/practical_life/image020.webp "imgClass--float-right")
+{{< img class="float-right pure-img white-outline" src="/img/practical_life/image020.webp" alt="Child Putting on a Apron" >}}
+
 
 **Materials:**
 Child-sized apron 
@@ -608,7 +603,8 @@ apron, protect, Velcro, clean, wipe, hang
 
 ##### HANDLING POTENTIALLY DANGEROUS OBJECTS
 
-![Safely Carring a Sharp Object](/img/practical_life/image021.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image021.webp" alt="Safely Carring a Sharp Object" >}}
+
 
 **Materials:**
 - Scissors
@@ -664,7 +660,8 @@ Scissors, stapler, sharp, dangerous, point
 
 ##### HOW TO SIT IN A CHAIR
 
-![Child Sitting in Chair](/img/practical_life/image022.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image022.webp" alt="Child Sitting in Chair" >}}
+
 
 **Materials:**
 Child-sized chair 
@@ -732,7 +729,8 @@ Scoot, distance, posture
 
 ##### HOW TO WALK ON THE LINE (IN LINE & AROUND THE ROOM)
 
-![Child Walking](/img/practical_life/image023.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image023.webp" alt="Child Walking" >}}
+
 
 **Materials:** 
 - The line
@@ -842,7 +840,8 @@ Rug, heel-to-toe, ovoid
 
 ##### HOW TO SIT ON THE LINE (AT GATHERING TIME)
 
-![Children Sitting on Line](/img/practical_life/image024.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image024.webp" alt="Children Sitting on Line" >}}
+
 
 **Materials:**
 None
@@ -885,7 +884,9 @@ Order, coordination, concentration, independence, and self-confidence.
 - Choice of where to place hands
 - Invitation to help and respect each other
 
-![Children Sitting on Line](/img/practical_life/image025.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image025.webp" alt="Child W-Sitting" >}}
+
+
 
 **Control of Error:**
 - Teacher 
@@ -909,7 +910,8 @@ Rules of Gathering time, W sitting; lap, knees, dismiss etc.
 
 ##### HOW TO OPEN AND CLOSE A DOOR
 
-![Children Sitting on Line](/img/practical_life/image026.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image026.webp" alt="Child Opening Door" >}}
+
 
 **Materials:**
 Door with standard handle
@@ -977,7 +979,8 @@ Holding the door, heavy, panic bar, doorknob, door handle, door stop
 
 ##### HOW TO MAKE SILENCE
 
-![Silence Letter](/img/practical_life/image027.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image027.webp" alt="Silence Letter" >}}
+
 
 **Materials:**
 Bell/ singing bowl, chime or other device to gently get children’s attention auditorily;
@@ -1053,7 +1056,8 @@ whisper, silence game, quiet, calm etc.
 
 ##### FREEZE ON CUE
 
-![Bells](/img/practical_life/image029.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image029.webp" alt="Bells" >}}
+
 
 **Materials:**
 Bell, singing bowl, or chime
@@ -1124,7 +1128,8 @@ Chime, freeze
 
 ##### RESPECTING PERSONAL WORKSPACE
 
-![Woman Invading Workspace](/img/practical_life/image030.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image030.webp" alt="Woman Invading Workspace" >}}
+
 
 **Materials:**
 - Work rugs
@@ -1185,7 +1190,8 @@ respect, work rug, workspace
 
 ##### HOW TO CARE FOR BOOKS
 
-![Child Reading Book](/img/practical_life/image032.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image032.webp" alt="Child Reading Book" >}}
+
 
 **Materials:**
 - One hard cover book
@@ -1261,7 +1267,8 @@ Cover page, spine, corner, page, centerfold page, staple etc.
 
 ##### HOW TO WATCH
 
-![Child Watching Another Child](/img/practical_life/image033.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image033.webp" alt="Child Watching Another Child" >}}
+
 
 **Materials:**
 - A work selected from the shelf
@@ -1310,7 +1317,8 @@ Watching
 
 ##### HOW TO INTERRUPT/ ASK FOR ASSISTANCE
 
-![Adults Holding Hands on Shoulder](/img/practical_life/image034.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image034.webp" alt="Adults Holding Hands on Shoulder" >}}
+
 
 
 **Materials:**
@@ -1368,7 +1376,8 @@ Shoulder, waist, patience, interrupt, wait
 
 ##### HOW TO SHAKE HANDS: 
 
-![Children Shanking Hands](/img/practical_life/image035.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image035.webp" alt="Children Shanking Hands" >}}
+
 
 **Materials:**
 Two people (child and adult; adult and adult; child and child);
@@ -1414,7 +1423,8 @@ Handshake, bow, nod
 
 ##### VOLUNTEERING /TAKING TURNS
 
-![Children Raising Hands](/img/practical_life/image036.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image036.webp" alt="Children Raising Hands" >}}
+
 
 **Materials:**
 Children and/or adult
@@ -1461,7 +1471,8 @@ Volunteer, yield, raise hand, talking piece, etc.
 
 ##### USING QUIET VOICES/ POLITE TONE
 
-![Child Shoosing](/img/practical_life/image037.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image037.webp" alt="Child Shoosing" >}}
+
 
 **Materials:**
 Adult or older child
@@ -1520,7 +1531,8 @@ Polite, respectful, soft, whispering voice
 
 ##### GREETING VISITORS 
 
-![Child Greeting Adult](/img/practical_life/image038.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image038.webp" alt="Child Greeting Adult" >}}
+
 
 **Materials:**
 Adult visitor or assistant to play this role
@@ -1575,7 +1587,8 @@ Visitor, observer, observation chair, etc.
 
 ##### BEG PARDON/EXCUSE/APOLOGIZE 
 
-![Children being Sorry](/img/practical_life/image039.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image039.webp" alt="Children being Sorry" >}}
+
 
 **Materials:**
 Children and adults
@@ -1636,7 +1649,8 @@ Beg pardon, I am sorry, forgiveness, etc.
 
 ##### SOLVING PROBLEMS AT THE PEACE TABLE/AREA
 
-![Children at Peace Table](/img/practical_life/image040.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image040.webp" alt="Children at Peace Table" >}}
+
 
 **Materials:**
 - Peace table/area
@@ -1690,7 +1704,8 @@ Conflict, peace, listen, speak, and feeling words (sad, angry, hurt, frustrated 
 
 ##### PLEASE / THANK YOU
 
-![Child Adult Smiling at each other](/img/practical_life/image041.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image041.webp" alt="Child Adult Smiling at each other" >}}
+
 
 **Materials:**
 Children and adults
@@ -1735,8 +1750,8 @@ Please, thank you, etc.
 
 ##### INVITE/ SAYING NO THANK YOU TO A CLASSMATES’ INVITATION
 
-![Child saying No Thank you](/img/practical_life/image043.webp "imgClass--float-right")
-![Child Holding a Tray out for another child](/img/practical_life/image042.webp "imgClass--float-right")
+{{< img class="float-right pure-img py-1" src="/img/practical_life/image043.webp" alt="Child saying No Thank you" >}}
+{{< img class="float-right pure-img py-1" src="/img/practical_life/image042.webp" alt="Child Holding a Tray out for another child" >}}
 
 **Materials:**
 Children and/or adults 
@@ -1796,7 +1811,8 @@ Have older children give the lesson
 
 ##### SERVING/HELPING OTHERS
 
-![Child setting the table](/img/practical_life/image044.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image044.webp" alt="Child setting the table" >}}
+
 
 **Materials:**
 Classroom materials/ furniture such as chair, snack set up, a watering plant work etc. 
@@ -1847,7 +1863,8 @@ Random act of kindness, help, support, independence, Would you like this? Would 
 
 ##### INDICATING THAT YOU DO NOT UNDERSTAND
 
-![Child Indicating Not Understanding](/img/practical_life/image045.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image045.webp" alt="Child Indicating Not Understanding" >}}
+
 
 **Materials:**
 Children and/or adults
@@ -1892,7 +1909,8 @@ I cannot hear you, I cannot understand, I am still getting to know you, I want t
 
 ##### HOW TO HAVE A CONVERSATION 
 
-![Children Sitting in a Circle](/img/practical_life/image046.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image046.webp" alt="Children Sitting in a Circle" >}}
+
 
 **Materials:**
 Optional: talking piece such as a rock, a small shell or another natural object;
@@ -1964,9 +1982,6 @@ The contribution of authors Glen Aylward and Lynn Jeffries in the same pediatric
 
 Paying close attention, observing and documenting gross motor development (as well as the sensorimotor development) can profoundly inform our teaching and understanding of the child. Best case, we can document a delay and help with a professional intervention plan and thereby likely stave off future, more server complications in various other domains of development as mentioned above; worse case we can implement basic gross motor activities that through fun, individual or groups lessons can practice a skill. All mastery of gross (and fine) motor development can ONLY come from the individual practicing with their own body. Individual practice is the only path to mastery; adults can support emotionally and verbally and most importantly provide the Prepared Environment and the opportunity to practice but that is the limit of their contribution toward mastery.
 
-{{< center-quote >}}
-`*************************`
-{{< /center-quote >}}
 
 {{< spacer >}}
 
@@ -2044,74 +2059,74 @@ Becoming familiar with these terms will help with informal screenings, assessmen
 #### MAKING MOVEMENTS ENGAGING AND IMAGINATIVE
 
 
-Walk like:
-father bear
-Wearing new shoes
-Like a crab
-Like you want to lose you shadow
-Going through cement
-Kicking leaves
-A feather
+Walk like:\
+father bear\
+Wearing new shoes\
+Like a crab\
+Like you want to lose you shadow\
+Going through cement\
+Kicking leaves\
+A feather\
 A marshmallow
 
-Run like:
-A butterfly
-Blowing snow
-A hot day
-Chased by a bee
-The wind is behind you
+Run like:\
+A butterfly\
+Blowing snow\
+A hot day\
+Chased by a bee\
+The wind is behind you\
 You are on a crowded city street
 
-Leap like:
-You are going from one cloud to another
-You a catching a baseball
-Catching a butterfly
-A princess
-A detective 
-A cat
-You a crossing a stream
-A squirrel from limb to limb
-Like a ballet dancer
-Escaping a fire 
+Leap like:\
+You are going from one cloud to another\
+You a catching a baseball\
+Catching a butterfly\
+A princess\
+A detective \
+A cat\
+You a crossing a stream\
+A squirrel from limb to limb\
+Like a ballet dancer\
+Escaping a fire \
 A lion attacking its prey 
 
-Hop like:
-Missing the cracks on the sidewalk
-A native American looking for buffalo tracks
-A flamingo
+Hop like:\
+Missing the cracks on the sidewalk\
+A native American looking for buffalo tracks\
+A flamingo\
 A pogo stick
 
-A rabbit
-A ball bouncing
-You are going up stairs
-Trying to get water out of your ear
+A rabbit\
+A ball bouncing\
+You are going up stairs\
+Trying to get water out of your ear\
 Tinkerbell
 
-Jump like:
-A yo-yo
-You won
-You are on bed
-A funny clown
-You are picking an apple
+Jump like:\
+A yo-yo\
+You won\
+You are on bed\
+A funny clown\
+You are picking an apple\
 Like popcorn cooking
 
-Skip like:
-You are feeling rejected
-Landing on a coin
-Going to a birthday party
-School is out early 
-Jumping rope
+Skip like:\
+You are feeling rejected\
+Landing on a coin\
+Going to a birthday party\
+School is out early \
+Jumping rope\
 You are laughing 
 
-Gallop like:
-You are a wild horse
-You are on the open beach
-You are an oak tree in the wind
-You are an angel 
-You are a bull 
-You are a thunderstorm
-You are a rag doll
-The moon
+Gallop like:\
+You are a wild horse\
+You are on the open beach\
+You are an oak tree in the wind\
+You are an angel \
+You are a bull \
+You are a thunderstorm\
+You are a rag doll\
+The moon\
 On hot sand
 
 Credit to Pat Pope CMTE/ NC (2000) Early Childhood Montessori and Elementary trainer
@@ -2147,7 +2162,8 @@ These sensory systems also gather information from receptors that respond to str
 
 ##### TUB/BIN/PLANTER OF LOOSE ITEMS
 
-![Hand In Rice](/img/practical_life/image049.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image049.webp" alt="Hand In Rice" >}}
+
 
 
 **Materials:**
@@ -2205,7 +2221,8 @@ Name of loose material, tub, basin, planter, swish, pour, grasp, etc.
 
 ##### GRASPING
 
-![Bowl of Beads](/img/practical_life/image050.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image050.webp" alt="Bowl of Beads" >}}
+
 
 **Materials:**
 - Loose quantity – large material such as large river rock
@@ -2257,7 +2274,8 @@ Grasp, grasping, transfer
 
 ##### FINGER TRANSFER
 
-![Finger Pinching Bead](/img/practical_life/image051.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image051.webp" alt="Finger Pinching Bead" >}}
+
 
 **Materials:**
 Loose objects that can be easily picked up with a three-finger grasp. For example, whole pecans, acorns etc. 
@@ -2308,7 +2326,8 @@ Three-finger grasp
 
 ##### SORTING
 
-![Sorting Tray](/img/practical_life/image052.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image052.webp" alt="Sorting Tray" >}}
+
 
 **Materials:**
 A divided tray or dish with 3-5 compartments (may have a center space but not required)
@@ -2368,8 +2387,8 @@ Sort, match, different, same, smaller, larger, color words
 
 ##### CLOTHES PINS/ CLIPS
 
-![Clothspins in Basket](/img/practical_life/image054.webp "imgClass--float-right")
-![Clothspins on Basket](/img/practical_life/image053.webp "imgClass--float-right")
+{{< img class="float-right pure-img py-1" src="/img/practical_life/image054.webp" alt="Clothspins in Basket" >}}
+{{< img class="float-right pure-img py-1" src="/img/practical_life/image053.webp" alt="Clothspins in Basket" >}}
 
 **Materials:**
 - Clips or squeeze clothes pins 
@@ -2423,7 +2442,7 @@ Clip, clothespin, squeeze, press, release, index finger, edge, wire spring
 
 ##### TONGS
 
-{{< figure src="/img/practical_life/image055.webp" alt="Child using Tongs" caption="(www.thechildrenshousebahrain.com)" class="float-right" >}}
+{{< figure src="/img/practical_life/image055.webp" alt="Child using Tongs" caption="(www.thechildrenshousebahrain.com)" class="float-right pure-img" >}}
 
 **Materials:**
 - Two matching containers or bowls for transferring objects
@@ -2480,7 +2499,7 @@ Tongs, tonging, to tong, spread out, pinch closed
 
 ##### TWEEZERS
 
-{{< figure src="/img/practical_life/image056.webp" alt="Tweezers in a Bowl" caption="(www.theglobalmontessorinetwork.com)" class="float-right" >}}
+{{< figure src="/img/practical_life/image056.webp" alt="Tweezers in a Bowl" caption="(www.theglobalmontessorinetwork.com)" class="float-right pure-img" >}}
 
 **Materials:**
 - Tweezers
@@ -2533,7 +2552,8 @@ tweeze; tweezers. tweezing
 
 ##### CUTTING
 
-![Person Cutting Paper](/img/practical_life/image057.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image057.webp" alt="Person Cutting Paper" >}}
+
 
 **Materials:**
 - Left and right-handed scissors
@@ -2604,8 +2624,9 @@ Scissors, a pair of scissors (note on singular: “scissor” is the verb form o
 
 ##### HOLE PUNCH
 
-![Person Punching Hole in Paper](/img/practical_life/image059.webp "imgClass--float-right")
-![Fine Motor Skills](/img/practical_life/image058.webp "imgClass--float-right")
+{{< img class="float-right pure-img py-1" src="/img/practical_life/image059.webp" alt="Person Punching Hole in Paper" >}}
+{{< img class="float-right pure-img py-1" src="/img/practical_life/image058.webp" alt="Fine Motor Skills" >}}
+
 
 **Materials:**
 - Single hole punch
@@ -2658,7 +2679,8 @@ Single hole punch, double hole punch
 
 ##### CONTAINERS WITH NO HANDLES
 
-![Four Containers](/img/practical_life/image060.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image060.webp" alt="Four Containers" >}}
+
 
 **Materials:**
 - Cups or receptacles with no handles      
@@ -2707,10 +2729,11 @@ Pour, tilt
 
 ##### BOTH CONTAINERS WITH HANDLES
 
-![Child Poring from Container](/img/practical_life/image061.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image061.webp" alt="Child Poring from Container" >}}
+
 
 **Materials:**
-- Two cups or receptacles with handles           
+- Two cups or receptacles with handles
 - Large loose dry material
 
 **Prerequisites:**
@@ -2757,10 +2780,11 @@ Pour, tilt
 
 ##### ONE CONTAINER INTO TWO OR MORE
 
-![Four Containers](/img/practical_life/image060.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image060.webp" alt="Four Containers" >}}
+
 
 **Materials:**
-- One pitcher with spout to pour easily                             
+- One pitcher with spout to pour easily
 - Cups or receptacles (with or without handles) 
 - Large loose dry material
 
@@ -2812,7 +2836,8 @@ Pour
 
 ##### SPOONING
 
-![Child Transfering Contents from one container to another](/img/practical_life/image062.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image062.webp" alt="Child Transfering Contents from one container to another" >}}
+
 
 **Materials:**
 - Two matching bowls or dishes
@@ -2870,7 +2895,8 @@ Spoon, bowl, container, spooning
 
 ##### LADLING
 
-![Spoon in Bowl](/img/practical_life/image063.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image063.webp" alt="Spoon in Bowl" >}}
+
 
 **Materials:**
 - Two matching bowls or dishes
@@ -2930,7 +2956,8 @@ Ladle, bowl, container, ladling
 
 ##### LIDS AND CONTAINERS
 
-![Putting a Lid on](/img/practical_life/image064.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image064.webp" alt="Putting a Lid on" >}}
+
 
 **Materials:**
 Variety of containers, boxes, jars, bottles, etc. with various types of lids
@@ -2983,7 +3010,8 @@ clasp, lid, container,
 {{< spacer >}}
 
 
-![Tray of supplies](/img/practical_life/image066.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image066.webp" alt="Tray of supplies" >}}
+
 
 ##### OTHER TWISTING/TURNING/SCOOPING/SPOONING
 
@@ -2999,7 +3027,8 @@ Tops of things (markers; pens; etc.)
 
 Fixtures that go together
 
-![Keys and Locks](/img/practical_life/image068.webp)
+{{< img class="pure-img" src="/img/practical_life/image068.webp" alt="Keys and Locks" >}}
+
 
 
 {{< spacer >}}
@@ -3009,7 +3038,8 @@ Fixtures that go together
 
 ##### SPONGE LESSON (AKA ONE DROP LESSON)
 
-![Tray of supplies](/img/practical_life/image070.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image070.webp" alt="Tray of supplies" >}}
+
 
 **Materials:**
 - Regular size dish sponge (no abrasive side) cut in ½, 1/3 or ¼ ; make sure the sponge is already wet
@@ -3074,7 +3104,8 @@ Sponge, listen, squeeze,
 
 ##### LARGE SPONGE LESSON
 
-![Sponge on tray](/img/practical_life/image072.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image072.webp" alt="Sponge on tray" >}}
+
 
 **Materials:**
 - One large natural sponge
@@ -3168,7 +3199,8 @@ Sponge, natural sponge, squeeze, release, wait, get some water, empty
 
 #### F. WET POURING/ TWISTING/ TURNING
 
-![Child Pouring](/img/practical_life/image073.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image073.webp" alt="Child Pouring" >}}
+
 
 ##### BASTING
 
@@ -3228,7 +3260,8 @@ Baster, basting, to baste
 
 ##### DROPPER
 
-![Child with Dropper](/img/practical_life/image074.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image074.webp" alt="Child with Dropper" >}}
+
 
 **Materials:**
 - Eye dropper and bottle
@@ -3292,7 +3325,8 @@ One drop, dropper, eye dropper
 
 ##### PITCHER INTO ONE GLASS
 
-![Child pouring into Glass](/img/practical_life/image075.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image075.webp" alt="Child pouring into Glass" >}}
+
 
 **Materials:**
 - Glass pitcher
@@ -3342,7 +3376,8 @@ pour, spill
 
 ##### PITCHERS/CUPS WITH HANDLES
 
-![Child pouring into Glass with Handles](/img/practical_life/image073.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image073.webp" alt="Child pouring into Glass with Handles" >}}
+
 
 **Materials:**
 - Glass pitchers with handles
@@ -3391,7 +3426,8 @@ Connect this work with serving the water or milk at lunch
 
 ##### POURING WITH A FUNNEL
 
-![Child pouring with funnel](/img/practical_life/image076.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image076.webp" alt="Child pouring with funnel" >}}
+
 
 **Materials:**
 - Funnel
@@ -3447,8 +3483,8 @@ Funnel, narrow, pour
 
 ##### HOT / COLD DRINKS
 
-![Tray of pouring supplies](/img/practical_life/image078.webp "imgClass--float-right")
-![Child pouring from pitcher](/img/practical_life/image077.webp "imgClass--float-right")
+{{< img class="float-right pure-img py-1" src="/img/practical_life/image078.webp" alt="Tray of pouring supplies" >}}
+{{< img class="float-right pure-img py-1" src="/img/practical_life/image077.webp" alt="Child pouring from pitcher" >}}
 
 **Materials:**
 - Electric tea pot or insulated pitcher  
@@ -3509,7 +3545,8 @@ Funnel, narrow, pour
 
 ##### SUDS WHIPPING Or “Bubble Making”
 
-![Child whipping with wisk](/img/practical_life/image079.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image079.webp" alt="Child whipping with wisk" >}}
+
 
 **Materials:**
 - Whipper
@@ -3596,9 +3633,9 @@ Whip; whipper, whipping, bubbles,
 
 ##### FOLDING NAPKINS / CLOTHS/ TOWELS
 
-![Child Folding a Cloth](/img/practical_life/image080.webp)
-![Child Folding a cloth](/img/practical_life/image081.webp)
-![Child Folding a cloth](/img/practical_life/image082.webp)
+{{< img class="float-right pure-img py-1" src="/img/practical_life/image080.webp" alt="Child Folding a Cloth" >}}
+{{< img class="float-right pure-img py-1" src="/img/practical_life/image081.webp" alt="Child Folding a Cloth" >}}
+{{< img class="float-right pure-img py-1" src="/img/practical_life/image082.webp" alt="Child Folding a Cloth" >}}
 
 **Materials:**
 - Fabric napkins
@@ -3652,8 +3689,9 @@ Fold, corner, smooth, tracing
 
 ##### FOLDING / WRAPPING
 
-{{< figure src="/img/practical_life/image084.webp" caption="(Furoshiki cloths)" alt="Furoshiki cloths" class="float-right" >}}
-![Child wrapping gift](/img/practical_life/image083.webp "imgClass--float-right")
+{{< figure src="/img/practical_life/image084.webp" caption="(Furoshiki cloths)" alt="Furoshiki cloths" class="float-right pure-img" >}}
+{{< img class="float-right pure-img" src="/img/practical_life/image083.webp" alt="Child wrapping gift" >}}
+
 
 **Materials:**
 - Paper bags or cloth cut into rectangle shapes; possibly mark lines on paper to be reused
@@ -3710,7 +3748,8 @@ Gift, surprise, present, wrap, scotch tape,
 
 ##### PACKING A SUITCASE
 
-![Child Packing Suitcase](/img/practical_life/image085.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image085.webp" alt="Child Packing Suitcase" >}}
+
 
 **Materials:**
 * Small children’s suitcase
@@ -3764,7 +3803,8 @@ Packing, folding, suitcase
 
 ##### PAPER CLIP
 
-![Child Working with Paper Clips](/img/practical_life/image086.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image086.webp" alt="Child Working with Paper Clips" >}}
+
 
 **Materials:**
 * Large paperclip
@@ -3816,7 +3856,8 @@ Paperclip, fasten
 
 ##### FASTENING RUBBER BANDS
 
-![CBowl of Rubber Bands](/img/practical_life/image087.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image087.webp" alt="CBowl of Rubber Bands" >}}
+
 
 **Materials:**
 * Rubber bands
@@ -3874,7 +3915,8 @@ Rubber band; peg; stretch
 
 ##### BLOWING ONE’S NOSE
 
-![Child Blowing Nose](/img/practical_life/image088.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image088.webp" alt="Child Blowing Nose" >}}
+
 
 
 **Materials:**
@@ -3937,7 +3979,8 @@ Tissue, Kleenex, handkerchief, mucus, hygiene, hygienic
 
 ##### WIPING (BATHROOM)
 
-![Adult Demonstration with Ballons](/img/practical_life/image089.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image089.webp" alt="Adult Demonstration with Ballons" >}}
+
 
 **Materials:**
 Toilet paper
@@ -3994,7 +4037,8 @@ Urine, bowel movement, wipe, wet wipe, tissue, toilet paper, names of the privat
 
 ##### WASHING HANDS FOR HYGIENIC REASONS
 
-![Child Washer Her Hands](/img/practical_life/image090.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image090.webp" alt="Child Washer Her Hands" >}}
+
 
 **Materials:**
 * Hand-washing sink with warm water control 
@@ -4052,8 +4096,8 @@ Water, faucet, bar soap, lather, dry, clean.
 
 ##### WOUNDS / CUTS / BRUISES
 
-![First Aid Kit](/img/practical_life/image092.webp "imgClass--float-right")
-![Adult Applying Band-aid to Child](/img/practical_life/image091.webp "imgClass--float-right")
+{{< img class="float-right pure-img py-1" src="/img/practical_life/image092.webp" alt="First Aid Kit" >}}
+{{< img class="float-right pure-img py-1" src="/img/practical_life/image091.webp" alt="Adult Applying Band-aid to Child" >}}
 
 **Materials:**
 * Access to soap and water
@@ -4115,7 +4159,8 @@ Cut, wound, swelling, disinfectant,
 
 ##### THERMOMETER
 
-![Adult Applying Thermometer to Forehead](/img/practical_life/image093.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image093.webp" alt="Adult Applying Thermometer to Forehead" >}}
+
 
 **Materials:**
 * Oral thermometer or
@@ -4164,8 +4209,9 @@ Temperature, run a fever, normal body temperature, symptoms, sickness
 
 ##### CHARTING HEIGHT
 
-![Group of Children Measuring Height](/img/practical_life/image095.webp "imgClass--float-right")
-![Children Measuring Height](/img/practical_life/image094.webp "imgClass--float-right")
+{{< img class="float-right pure-img py-1" src="/img/practical_life/image095.webp" alt="Group of Children Measuring Height" >}}
+{{< img class="float-right pure-img py-1" src="/img/practical_life/image094.webp" alt="Children Measuring Height" >}}
+
 
 **Materials:**
 * Tape measure (contractor type that has a stop to hold tape in place)
@@ -4239,8 +4285,8 @@ Feet, inches, height, vertical, horizontal, measure, chart, change
 
 ##### FIRE DRILL
 
-![Fire Drill With Children](/img/practical_life/image097.webp "imgClass--float-right")
-![Fire Drill](/img/practical_life/image096.webp "imgClass--float-right")
+{{< img class="float-right pure-img py-1" src="/img/practical_life/image097.webp" alt="Fire Drill With Children" >}}
+{{< img class="float-right pure-img py-1" src="/img/practical_life/image096.webp" alt="Fire Drill" >}}
 
 **Materials:**
 * Books about fire fighter’s work 
@@ -4301,7 +4347,8 @@ Fire, firefighter, danger, smoke, fire extinguisher, exit, safety
 
 ##### BEING LOST
 
-![Child Holding Up Help Sign](/img/practical_life/image098.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image098.webp" alt="Child Holding Up Help Sign" >}}
+
 
 **Materials:**
 none
@@ -4356,8 +4403,8 @@ Lost, stranger, help,
 
 ##### BEING APPROACHED BY A STRANGER
 
-![How do dinosaurs stay safe book](/img/practical_life/image100.webp "imgClass--float-right")
-![Safety Book](/img/practical_life/image099.webp "imgClass--float-right")
+{{< img class="float-right pure-img py-1" src="/img/practical_life/image100.webp" alt="How do dinosaurs stay safe book" >}}
+{{< img class="float-right pure-img py-1" src="/img/practical_life/image099.webp" alt="Safety Book" >}}
 
 **Materials:**
 Any of the following books:
@@ -4421,7 +4468,8 @@ Stranger danger, Power No, personal safety
 
 ##### LARGE AND SMALL BUTTON FRAMES
 
-![Dressing Frame](/img/practical_life/image101.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image101.webp" alt="Dressing Frame" >}}
+
 
 **Materials:**
 * Large button frame
@@ -4500,7 +4548,8 @@ Button, buttonhole, dressing frame, large button frame, tug
 
 ##### SNAP FRAME
 
-![Dressing Frame Snaps](/img/practical_life/image102.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image102.webp" alt="Dressing Frame Snaps" >}}
+
 
 **Materials:**
 Snap frame
@@ -4566,7 +4615,8 @@ snap, snapping, dressing frame
 
 ##### HOOK AND EYE
 
-![Dressing Frame Hook and Eye](/img/practical_life/image103.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image103.webp" alt="Dressing Frame Hook and Eye" >}}
+
 
 **Materials:**
 Hook and eye frame
@@ -4633,7 +4683,8 @@ Hook, eye, dressing frame, tug
 
 ##### BUCKLE
 
-![Child Working with Buckles](/img/practical_life/image104.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image104.webp" alt="Child Working with Buckles" >}}
+
 
 **Materials:**
 Buckle frame
@@ -4703,7 +4754,8 @@ Buckle, prong, strap, buckle frame
 
 ##### ZIPPER
 
-![Child Working with Zipper](/img/practical_life/image105.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image105.webp" alt="Child Working with Zipper" >}}
+
 
 **Materials:**
 Zipper dressing frame
@@ -4735,7 +4787,8 @@ Order, coordination, concentration, independence, and self-confidence.
 11. Open the dressing frame completely, draping the sides over the edges of the frame.
 12. Pause. Smile!
 
-![Zipper Diagram](/img/practical_life/image106.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image106.webp" alt="Zipper Diagram" >}}
+
 
 **Zipping:**
 13. Slowly bring in each flap of the dressing frame.
@@ -4771,7 +4824,8 @@ Parts of the zipper: pull tab; teeth; bottom stop, tape
 
 ##### BOW TYING
 
-![Child Working with Bow](/img/practical_life/image107.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image107.webp" alt="Child Working with Bow" >}}
+
 
 **Materials:**
 Bow tying frame
@@ -4820,7 +4874,8 @@ Order, coordination, concentration, independence, and self-confidence.
 24. Return the frame.
 25. Thank the child.
 
-![Bow Ties on Frame](/img/practical_life/image108.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image108.webp" alt="Bow Ties on Frame" >}}
+
 
 **Points of Interest:**
 The different configurations of the laces
@@ -4845,7 +4900,8 @@ Lace, tie, bow
 
 ##### LACING
 
-![Child Working with Lacing](/img/practical_life/image109.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image109.webp" alt="Child Working with Lacing" >}}
+
 
 **Materials:**
 Lacing frame
@@ -4920,7 +4976,8 @@ Other dressing frames include safety pin frame, Velcro frame and overall buckle 
 
 ##### NAIL WASHING, CLIPPING, AND LOTION 
 
-![Child Washing Hands](/img/practical_life/image110.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image110.webp" alt="Child Washing Hands" >}}
+
 
 **Materials:**
 * Child size nail brush
@@ -5004,7 +5061,8 @@ Nail clipper, hand lotion, nail brush
 
 ##### CLEANING THE FACE 
 
-![Child Washing Face](/img/practical_life/image111.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image111.webp" alt="Child Washing Face" >}}
+
 
 **Materials:**
 * Mirror on a wall or on a sturdy stand that is adjustable/ tilts
@@ -5059,7 +5117,8 @@ Mirror, wipe, cotton pad, atomizer
 
 ##### HAIR COMBING
 
-![Child Combing Hair](/img/practical_life/image112.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image112.webp" alt="Child Combing Hair" >}}
+
 
 **Materials:**
 * Several wide toothed combs
@@ -5116,7 +5175,8 @@ Comb, vinegar, water, disinfectant
 
 ##### TOOTH BRUSHING
 
-![Child Brushing Teath](/img/practical_life/image113.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image113.webp" alt="Child Brushing Teeth" >}}
+
 
 **Materials:**
 * Child’s individual toothbrush
@@ -5170,7 +5230,8 @@ Toothpaste, toothbrush, dental care
 
 ##### SEWING: Introduction to tools for sewing and basic movements
 
-![Sewing Supplies](/img/practical_life/image114.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image114.webp" alt="Sewing Supplies" >}}
+
 
 **Materials:**
 * Needle
@@ -5237,7 +5298,8 @@ Needle, eye, thread, threader, saliva(!) (very helpful for keeping fibers togeth
 
 ##### SEWING A BUTTON
 
-![Child Sewing a Button](/img/practical_life/image115.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image115.webp" alt="Child Sewing a Button" >}}
+
 
 **Materials:**
 * Large button with 2 or 4 holes
@@ -5287,7 +5349,7 @@ Order, coordination, concentration, independence, and self-confidence.
 18. Invite the child to the lesson.
 19. Name the lesson.
 20. Choose a thread color and cut the thread long enough to double the thread for knotting at the end.
-{{< figure src="/img/practical_life/image118.webp" caption="Felt bracelets - or chain!" alt="Sewing Chain Closeup" class="float-right" >}}
+{{< figure src="/img/practical_life/image118.webp" caption="Felt bracelets - or chain!" alt="Sewing Chain Closeup" class="float-right pure-img" >}}
 21. Choose a strip for the bracelet.
 22. Thread the needle and knot at the end. 
 23. First, secure the thread in the felt where you want the button will go. Not too close to the edge but the strip must overlap over the child’s wrist so the buttonhole can be cut into the felt and still be lose on the wrist. 
@@ -5325,7 +5387,7 @@ Topside, underside
 
 ##### SEWING STITCHES
 
-{{< figure src="/img/practical_life/image120.webp" title="Basic Stitches" alt="Stitches Diagram" class="float-right" >}}
+{{< figure src="/img/practical_life/image120.webp" title="Basic Stitches" alt="Stitches Diagram" class="float-right pure-img" >}}
 
 **Materials:**
 * Embroidery thread of various colors
@@ -5355,7 +5417,7 @@ Order, coordination, concentration, independence, and self-confidence.
 4. Separate the two hoops. 
 5. Place the fabric on top of the bottom hoop (the smaller of the two and without the fastener.
 6. Place the top hoop over (around) the bottom hoop and fabric. Tighten the top hoop to keep it in place.
-{{< figure src="/img/practical_life/image122.webp" title="Advanced Stitches" alt="Advanced Stitches Diagram" class="float-right" >}}
+{{< figure src="/img/practical_life/image122.webp" title="Advanced Stitches" alt="Advanced Stitches Diagram" class="float-right pure-img" >}}
 7. Show the top and the bottom to the child. Remind them of sewing a button when there were top and under sides.
 8. Thread a needle with embroidery thread. Tie the ends if the child needs it. Otherwise show them how to pinch the eye of the needle so the thread does not slip out when pulling. “Pinch and pull. “
 9. Starting on the underside, bring the needle up from the bottom to the top side. Pinch and pull the thread all the way through.
@@ -5392,7 +5454,8 @@ Stitch, running stitch, embroidery, embroidery hoop,
 
 ##### MAKING A PILLOW
 
-![Stitches Diagram](/img/practical_life/image124.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image124.webp" alt="Stitches Diagram" >}}
+
 
 **Materials:**
 * 2 matching pieces of white cotton fabric cut into approximately 8” x 5 “rectangles (using a top white sheet is an inexpensive solution – also available at the thrift store)
@@ -5425,7 +5488,7 @@ At this point of sewing, the guide can just explain what is to be done and the c
 3. Invite the child to draw with the metal insets, stencils or freehand in pencil an object of their liking. (A simple outline is best) 
 4. Have the child choose a color, cut the thread, thread the needle and tie the knot.
 5. Help them develop plan verbally of what colors they are going to use.
-{{< figure src="/img/practical_life/image126.webp" caption="Use straight pins or safety pins to hold the two sides together to close the pillow up. To hide seam, sew on the wrong side and then turn inside right." alt="Pillow Stitches Closeup" class="float-right" >}}
+{{< figure src="/img/practical_life/image126.webp" caption="Use straight pins or safety pins to hold the two sides together to close the pillow up. To hide seam, sew on the wrong side and then turn inside right." alt="Pillow Stitches Closeup" class="float-right pure-img" >}}
 6. Ask them to do the running stitch along the lines and change colors when needed.
 	- Reminders: always finish on the bottom side and knot close the fabric and then trim
 	- New colors/ threads get started from the bottom
@@ -5436,7 +5499,8 @@ At this point of sewing, the guide can just explain what is to be done and the c
 10. With a threaded needle, show the child how to do close running stitch all way around the three of the four edges staying just to the side of the row of pins
 11. Turn the pillow (now looking like a pocket) inside right.
 12. Stuff the pillow with batting/ Poly fil
-![Sewing Diagram](/img/practical_life/image128.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image128.webp" alt="Sewing Diagram" >}}
+
 13. Fold the edges of the open side so they are tucked inside. Pin the edge and use either a running stitch or blanket stitch.
 14. Thank the child.
 
@@ -5464,11 +5528,13 @@ Stitches: running, blanket, batting/poly-fill, safety pin, straight pin, safety 
 
 ##### More Sewing
 
-![Sewing Examples](/img/practical_life/image130.webp "imgClass--float-right imgClass--half-size")
+{{< img class="float-right pure-img w-50" src="/img/practical_life/image130.webp" alt="Sewing Examples" >}}
+
 
 There are countless sewing projects that the students can do that use the same skill set as making a pillow. For example, make a small sachet that is about 4”x4”. Instead of using stuffing, use shredded lavender soap; not much is needed soap is needed for the scent to be emanated. Make sure to close tightly (close running stitches) as well as the final closing seam. Sewing projects are particularly wonderful gifts to give for holidays, Mother’s Day, Father’s Day etc. 
 
-![Sewing Examples](/img/practical_life/image132.webp "imgClass--float-right imgClass--half-size")
+{{< img class="float-right pure-img w-50" src="/img/practical_life/image132.webp" alt="Sewing Examples" >}}
+
 
 River Falls Practical Life In-Residency week 2019
 
@@ -5483,7 +5549,8 @@ River Falls Practical Life In-Residency week 2019
 
 ##### CRUMB SWEEPING ON A TRAY
 
-![Sweeper on Bowl](/img/practical_life/image134.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image134.webp" alt="Sweeper on Bowl" >}}
+
 
 **Materials:**
 * Small crumb set
@@ -5546,7 +5613,8 @@ Crumbs, crumber, sweep, dustpan
 
 ##### FLOOR TO A DESIGNATED PLACE
 
-![Sweep to Square](/img/practical_life/image135.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image135.webp" alt="Sweep to Square" >}}
+
 
 **Materials:**
 * Basket of loose items such as stones or river rocks
@@ -5572,7 +5640,8 @@ Order, coordination, concentration, independence, and self-confidence.
 5. Gently empty the contents of the basket on the floor in the general area of the square.
 6. Ask the child to go and get the hand broom.
 7. Begin sweeping the stones towards the square and then into the square.
-![Hand Broom](/img/practical_life/image136.webp "imgClass--float-right imgClass--half-size")
+{{< img class="float-right pure-img w-50" src="/img/practical_life/image136.webp" alt="Hand Broom" >}}
+
 8. Sweep all the stones into the square. Sweep the edges of the square so all are inside.
 9. Ask the child to go and get a hand brush and dustpan.
 10. Squatting down or kneeling, take the brush in one hand and the dustpan in the other. 
@@ -5607,7 +5676,8 @@ Sweep, pile, dustpan, brush
 
 ##### FLOOR
 
-![Child Sweeping](/img/practical_life/image138.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image138.webp" alt="hild Sweeping" >}}
+
 
 **Materials:**
 * Child size brooms
@@ -5717,11 +5787,13 @@ Dust, duster, windowsill, blinds
 
 #### B. WASHING
 
-![Child Cleaning a Globe](/img/practical_life/image139.webp)
+{{< img class="float-right pure-img" src="/img/practical_life/image139.webp" alt="Child Cleaning a Globe" >}}
+
 
 ##### SHELLS OR SMALL OBJECTS
 
-![Child Washing in a Tray](/img/practical_life/image140.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image140.webp" alt="Child Washing in a Tray" >}}
+
 
 **Materials:**
 * An assortment of seashells in a basket/container
@@ -5782,7 +5854,8 @@ Wash/ scrub the sidewalk
 
 ##### DISHES
 
-![Child Washing Dishes](/img/practical_life/image141.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image141.webp" alt="Child Washing Dishes" >}}
+
 
 **Materials:**
 * Set up or stand for two or three tubs
@@ -5851,7 +5924,8 @@ Suds, dish soap, drainer, basin, rinse
 
 ##### CLOTHES, LINENS, LUNCH BOX, MATERIALS, ETC. 
 
-![Child Washing Cloths](/img/practical_life/image142.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image142.webp" alt="Child Washing Cloths" >}}
+
 
 **Materials:**
 * Optional: washboard 
@@ -5871,7 +5945,8 @@ Order, coordination, concentration, independence, and self-confidence.
 **Age:** 3-5 
 
 **Presentation:**
-![ Scrubber Closeup](/img/practical_life/image143.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image143.webp" alt="Scrubber Closeup" >}}
+
 1. Invite the child
 2. Name the lesson
 3. Follow the steps in the dish washing lesson for preparing the wash station
@@ -5910,7 +5985,8 @@ Items being washed
 
 ##### TABLE OR FLOOR
 
-![ Scrubber Closeup](/img/practical_life/image145.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image145.webp" alt="Child Washing Table" >}}
+
 
 **Materials:**
 * Basin/ tub
@@ -6015,7 +6091,8 @@ Basin, soap dish, bar soap, wring, circular, bubbles
 
 ##### FLOOR MOPPING
 
-![Child Mopping Floor](/img/practical_life/image146.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image146.webp" alt="Child Mopping Floor" >}}
+
 
 **Materials:**
 * Bucket
@@ -6076,8 +6153,8 @@ String mop, bucket, wring, absorb
 
 ##### APPLE 
 
-![Child Polishing an Apple](/img/practical_life/image148.webp "imgClass--float-right")
-![Child Washing an Apple](/img/practical_life/image147.webp "imgClass--float-right")
+{{< img class="float-right pure-img py-1" src="/img/practical_life/image148.webp" alt="Child Polishing an Apple" >}}
+{{< img class="float-right pure-img py-1" src="/img/practical_life/image147.webp" alt="Child Washing an Apple" >}}
 
 **Materials:**
 * An apple (red works best) 
@@ -6132,7 +6209,8 @@ Shiny, polish, dull, rub
 
 ##### WINDOW WASHING
 
-![Child Washing Window](/img/practical_life/image149.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image149.webp" alt="Child Washing Window" >}}
+
 
 **Materials:**
 * Spray bottle with water and a few drops of vinegar and essential oil such as lemon
@@ -6193,7 +6271,8 @@ Vinegar, lemon, squeegee
 
 ##### GLASS, COPPER, BRASS, SILVER, OR WOOD
 
-![Child Polishing Metal Tray](/img/practical_life/image151.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image151.webp" alt="Child Polishing Metal Tray" >}}
+
 
 **Materials:**
 * Small items made of metal (pennies, coins, candle holders, glass objects, or other small decorative objects)
@@ -6210,7 +6289,8 @@ Vinegar, lemon, squeegee
 * Multi-step projects
 * Eye dropper work
 
-![Polish Tray](/img/practical_life/image153.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image153.webp" alt="Polish Tray" >}}
+
 
 **Direct Aim:**
 To polish material; remove tarnish
@@ -6261,7 +6341,8 @@ polish, tarnish, polishing cream, dab, cotton swab, cotton ball
 
 ##### LEAVES
 
-![Child Cleaning Leaves](/img/practical_life/image154.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image154.webp" alt="Child Cleaning Leaves" >}}
+
 
 **Materials:**
 * Cotton balls/pads
@@ -6327,7 +6408,8 @@ dust, dirt, stomata,
 
 ##### WATERING A PLANT
 
-![Child Watering Plant](/img/practical_life/image155.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image155.webp" alt="Child Watering Plant" >}}
+
 
 **Materials:**
 * Watering can with small spout
@@ -6386,7 +6468,8 @@ Moisture, water, spray, stream, dry
 
 ##### FLOWER ARRANGING
 
-![Child Arranging Plant](/img/practical_life/image156.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image156.webp" alt="Child Arranging Plant" >}}
+
 
 **Materials:**
 * Fresh flowers (for example, daisies, carnations, button mums etc.) in one large vase or Container
@@ -6453,7 +6536,8 @@ Stem, leaf, flower arranging
 
 ##### SCREWDRIVER, HAMMER, WRENCHES, ETC
 
-![Child PLaying with Nut Board](/img/practical_life/image157.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image157.webp" alt="Child Working with Nut Board" >}}
+
 
 **Materials:**
 * Nut and bolt board 
@@ -6496,7 +6580,8 @@ Order, coordination, concentration, independence, and self-confidence.
 12. Restore the work to the shelf.
 13. Thank the child.
 
-![Child Working with Screwdriver](/img/practical_life/image158.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image158.webp" alt="Child Working with Screwdriver" >}}
+
 
 **Presentation II: screwing**
 1. Invite the child to lesson.
@@ -6510,7 +6595,8 @@ Order, coordination, concentration, independence, and self-confidence.
 9. Restore the work to its place in the classroom.
 10. Thank the child.
 
-![Child Working with Hammer](/img/practical_life/image159.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image159.webp" alt="Child Working with Hammer" >}}
+
 
 **Presentation III:  hammering**
 1. Invite the child to lesson.
@@ -6557,7 +6643,8 @@ Screw, screwdriver, Philips-head straight blade, start the screw, “righty- tig
 
 ##### OTHER CARE FOR THE ENVIRONMENT:  TOOLS
 
-![Tool Bench](/img/practical_life/image160.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image160.webp" alt="Tool Bench" >}}
+
 
 * Sanding wood
 * Children’s work bench
@@ -6576,7 +6663,8 @@ Screw, screwdriver, Philips-head straight blade, start the screw, “righty- tig
 
 ##### RAKING
 
-![Children Raking Leaves](/img/practical_life/image161.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image161.webp" alt="Children Raking Leaves" >}}
+
 
 **Materials:**
 * Child sized rakes 
@@ -6630,7 +6718,8 @@ Spring rake, raking, compost, leaf pile,
 
 ##### GARDENING
 
-![Child Gardening](/img/practical_life/image163.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image163.webp" alt="Child Gardening" >}}
+
 
 **No specific lesson will be given here since:**
 Garden varies so much from school to school and more importantly, there are so many geographic, seasonal and even budgetary factors to consider. 
@@ -6649,9 +6738,8 @@ However, gardening is the great equalizer and brings tremendous spiritual fulfil
 - Make choosing a gardening work just “another” work.
 - Bring the outdoors inside. For example, make a mortar and pestle work of grinding dead dry leaves! Studies show that children who learn, identify, interact with and are responsible for their local plants and animals are much better stewards of Earth than those who learn about far away land and species that are endangered.
 
-{{< center-quote >}}
-![Richard Louv Quote](/img/practical_life/image164.webp)
-{{< /center-quote >}}
+{{< img class="pure-img center-block" src="/img/practical_life/image164.webp" alt="Richard Louv Quote" >}}
+
 
 
 **OTHER IDEAS FOR CARE FOR THE ENVIRONMENT INCLUDE:**
@@ -6669,7 +6757,8 @@ However, gardening is the great equalizer and brings tremendous spiritual fulfil
 
 ### V. Food Preparation
 
-![Richard Louv Quote](/img/practical_life/image165.webp)
+{{< img class="pure-img" src="/img/practical_life/image165.webp" alt="Food Preparation" >}}
+
 
 #### A. General Information
 
@@ -6692,7 +6781,8 @@ Below we will give information and/or lessons for these three main areas. Like G
 
 ##### SNACK ROUTINES (GROUP AND INDIVIDUAL)
 
-![Snack Time](/img/practical_life/image166.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image166.webp" alt="Snack Time" >}}
+
 
 **A. Group snack for the start of the year and special celebrations:**
 
@@ -6770,7 +6860,8 @@ One of the principal rationales for providing individual food preparation lesson
 
 ##### BAKING AND COOKING
 
-![Child With Tray of Cookies](/img/practical_life/image167.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image167.webp" alt="Child With Tray of Cookies" >}}
+
 
 It goes without saying that most children love to participate in cooking and backing activities. These times provide excellent teaching moments for measurement, science, grace and courtesy as well as nutrition. Below are some tips & suggestions for cooking and baking with children:
 
@@ -6785,7 +6876,8 @@ It goes without saying that most children love to participate in cooking and bac
 
 ##### SPECIAL OCCASIONS
 
-![Leaf Time](/img/practical_life/image168.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image168.webp" alt="Leaf Time" >}}
+
 
 Special friend breakfast:  invitations, individual tables, ceramic/ china plates, flatware, linens, flowers, coffee, tea and fruit kabob and pastry. Extremely endearing to the parents and friends. 
 Fall harvest dinner: soup and bread. Class dinner for bread and soup made by the children. All families are invited, all eat a meal together. That’s it!
@@ -6804,7 +6896,8 @@ Remember, it all starts by modeling. If you bring a watermelon during the first 
 
 ##### CITRUS JUICING
 
-![Juicing](/img/practical_life/image169.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image169.webp" alt="Juicing" >}}
+
 
 **Materials:**
 * A bag of oranges (or other citrus fruit)
@@ -6871,7 +6964,8 @@ Juicer, juicing, orange juice, pulp, seeds, citrus
 
 ##### SLICING AN APPLE
 
-![Child Slicing Apple](/img/practical_life/image170.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image170.webp" alt="Child Slicing Apple" >}}
+
 
 **Materials:**
 Apple slicer (one with large ‘wing’ handles works well)
@@ -6938,7 +7032,8 @@ Apple slicer, core, slice, wedge, compost, toothpick,
 
 ##### SLICING A BANANA
 
-![Child Slicing Banana](/img/practical_life/image171.webp "imgClass--float-right")
+{{< img class="float-right pure-img" src="/img/practical_life/image171.webp" alt="Child Slicing Banana" >}}
+
 
 **Materials:**
 * A banana
@@ -7000,7 +7095,8 @@ Length, toothpick,
  {{< spacer >}}
 
 
-![Tray of Cinnamon](/img/practical_life/image172.webp)
+{{< img class="pure-img" src="/img/practical_life/image172.webp" alt="Tray of Cinnamon" >}}
+
 
 ##### INDIVIDUAL FOOD PREPARATION WORK: Other ideas to prepare and serve
 * Sliced pickles

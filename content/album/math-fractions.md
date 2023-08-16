@@ -189,11 +189,11 @@ Presentation III added by UWRF Instructor, Brenda Zellmer, summer 2020
 
 {{< grid-table class="white-bg" >}}
 
-{{< img class="" src="/img/math/fractions/image002.webp" alt="Fraction Skittles" >}}
+{{< img class="pure-img" src="/img/math/fractions/image002.webp" alt="Fraction Skittles" >}}
 
-{{< img class="" src="/img/math/fractions/image003.webp" alt="Fraction Skittles" >}}
+{{< img class="pure-img" src="/img/math/fractions/image003.webp" alt="Fraction Skittles" >}}
 
-{{< img class="" src="/img/math/fractions/image005.webp" alt="Fraction Skittles" >}}
+{{< img class="pure-img" src="/img/math/fractions/image005.webp" alt="Fraction Skittles" >}}
 
 {{< /grid-table >}}
 
@@ -251,7 +251,7 @@ Prepare for future fraction lessons
 
 {{< grid-table class="white-bg" >}}
 
-{{< img class="" src="/img/math/fractions/image007.webp" alt="Fraction Circles" >}}
+{{< img class="pure-img" src="/img/math/fractions/image007.webp" alt="Fraction Circles" >}}
 
 {{< /grid-table >}}
 
@@ -371,7 +371,7 @@ Montessori, Maria. Psychogeometry, Montessori-Pierson Publishing Company, 1934/2
 
 {{< grid-table class="white-bg" >}}
 
-{{< img class="" src="/img/math/fractions/image009.webp" alt="Metal Inset Fraction Trays" >}}
+{{< img class="pure-img" src="/img/math/fractions/image009.webp" alt="Metal Inset Fraction Trays" >}}
 
 {{< /grid-table >}}
 
@@ -429,6 +429,6 @@ The child may also illustrate how a whole was created (using fraction pieces fro
 
 {{< grid-table class="white-bg" >}}
 
-{{< img class="" src="/img/math/fractions/image011.webp" alt="Fraction Cut Outs Box" >}}
+{{< img class="pure-img" src="/img/math/fractions/image011.webp" alt="Fraction Cut Outs Box" >}}
 
 {{< /grid-table >}}

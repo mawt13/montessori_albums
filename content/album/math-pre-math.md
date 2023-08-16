@@ -14,7 +14,7 @@ Updated 12.2021
 
 ## Pre-Math Math Activities (before 1-10)
 
-{{< img class="float-left preview-md" src="/img/math/pre-math/image001.webp" alt="Empty Shelf" >}}
+{{< img class="float-left preview-md pure-img" src="/img/math/pre-math/image001.webp" alt="Empty Shelf" >}}
 
 
 **The Pre-Math/Early Math Exercise shelf** in the math area is placed after the Sensorial exercises, but before the red and blue rods. The activities do not typically emphasize numbers but do allow practice of foundational mathematical ideas.  Activities may be selected and rotated to meet the needs of students in the classroom community. Teachers may also consider activities that scaffold the early Montessori lessons. This shelf also offers a place for number books and other children’s books related to math or small group math games.
@@ -39,7 +39,7 @@ From an assessment point of view, it is very handy to have these for checking 1:
 
 **Building Sets**
 
-{{< img class="float-right preview-md" src="/img/math/pre-math/image005.webp" alt="Building Sets" >}}
+{{< img class="float-right preview-md pure-img" src="/img/math/pre-math/image005.webp" alt="Building Sets" >}}
 
 (1-5 perceptual numbers) Example: From a basket of shapes, the teacher takes out five and puts them in a ring of yarn and asks the child to do the same: “Make a set, or group of shapes.”
 
@@ -55,22 +55,22 @@ From an assessment point of view, it is very handy to have these for checking 1:
 
 **Shape Sort Presentation**
 
-{{< img class="float-right preview-md" src="/img/math/pre-math/image007.webp" alt="Building Sets" >}}
+{{< img class="float-right preview-md pure-img" src="/img/math/pre-math/image007.webp" alt="Building Sets" >}}
 
 
 **Materials:** Box of shapes in a basket and tied strings of yarn.
 
 1. “Let’s sort by color.” “Let’s put all the red ones in here.” Arrange a tied string in a circle and place all the red shapes in the (red) circle.
 
-{{< img class="preview-md" src="/img/math/pre-math/image009.webp" alt="Building Sets" >}}
+{{< img class="preview-md pure-img" src="/img/math/pre-math/image009.webp" alt="Building Sets" >}}
 
-{{< img class="float-right preview-md" src="/img/math/pre-math/image009.webp" alt="Building Sets" >}}
+{{< img class="float-right preview-md pure-img" src="/img/math/pre-math/image009.webp" alt="Building Sets" >}}
 
 2. “Let’s sort by shape ( or size).” “Let’s put all the squares (large) in here” Arrange another tied string in a circle next to the set of red shapes. Place all the squares inside that circle.  “But, wait! Some of the red ones are also squares.” “What do we do?”
 
 {{< spacer >}}
 
-{{< img class="float-right preview-md" src="/img/math/pre-math/image012.webp" alt="Building Sets" >}}
+{{< img class="float-right preview-md pure-img" src="/img/math/pre-math/image012.webp" alt="Building Sets" >}}
 
 
 3. “We could overlap the string like this.”  Arrange the strings to look like a Venn diagram. Place the red squares in the intersection area.
@@ -114,9 +114,9 @@ This game is played just as the “Show me what you saw!” game but instead of 
 **“High Card Takes It!” game**\
 Create a set of 20 cards with dots arranged on one side as seen on the face of a dice – 1,2,3,4,5. 	There should be four of each quantity card. Shuffle the cards and share them out between two children. (This game is played like the traditional card game “War.”) This game uses the idea of 	greater than and less than. A deck of cards with the face cards removed is also an option.
 
-{{< img class="preview-md" src="/img/math/pre-math/image016.webp" alt="Playing Cards Game" >}}
+{{< img class="preview-md pure-img" src="/img/math/pre-math/image016.webp" alt="Playing Cards Game" >}}
 
-{{< img class="preview-md" src="/img/math/pre-math/image014.webp" alt="Dice Game" >}}
+{{< img class="preview-md pure-img" src="/img/math/pre-math/image014.webp" alt="Dice Game" >}}
 
 
 ### Patterning
@@ -126,10 +126,10 @@ Pattern cards may be supplied to guide the child. A tray containing sets of obje
 
 | | |
 | - | - |
-| {{< figure src="/img/math/pre-math/image018.webp" title="Example of an AB AB AB pattern." class="preview-md" >}} | {{< figure src="/img/math/pre-math/image019.webp" title="Patterning can be a group activity." class="preview-md" >}} |
-| {{< figure src="/img/math/pre-math/image020.webp" title="A	B	B      A	B	B" class="preview-md" >}} | |
+| {{< figure src="/img/math/pre-math/image018.webp" title="Example of an AB AB AB pattern." class="preview-md" >}} | {{< figure src="/img/math/pre-math/image019.webp" title="Patterning can be a group activity." class="preview-md pure-img" >}} |
+| {{< figure src="/img/math/pre-math/image020.webp" title="A	B	B      A	B	B" class="preview-md pure-img" >}} | |
 
-{{< figure src="/img/math/pre-math/image021.webp" title="A		B		B		A		B		B		A" class="preview-md" >}}
+{{< figure src="/img/math/pre-math/image021.webp" title="A		B		B		A		B		B		A" class="preview-md pure-img" >}}
 
 
 {{< spacer >}}
@@ -140,7 +140,7 @@ Pattern cards may be supplied to guide the child. A tray containing sets of obje
 
 ### Graphing
 
-{{< img class="float-left preview-md" src="/img/math/pre-math/image022.webp" alt="Subitizing Bar Graph" >}}
+{{< img class="float-left preview-md pure-img" src="/img/math/pre-math/image022.webp" alt="Subitizing Bar Graph" >}}
 
 **Subitizing Bar Graph**\
 The child tosses the dice, finds the corresponding quantity after
@@ -219,7 +219,7 @@ This game is similar to the base 10 money game above. This is not base 10, so fo
 
 ### Number Path Games
 
-{{< figure class="float-left" src="/img/math/pre-math/image039.webp" alt="Number Path" title="Two separate 1-10 number paths." >}}
+{{< figure class="float-left pure-img" src="/img/math/pre-math/image039.webp" alt="Number Path" title="Two separate 1-10 number paths." >}}
 
 The 1-10 number path may be used in a similar way to the two exercises described below.
 
@@ -228,7 +228,7 @@ The 1-10 number path may be used in a similar way to the two exercises described
 
 {{< spacer >}} {{< spacer >}}
 
-{{< img class="float-left" src="/img/math/pre-math/image040.webp" alt="Number Path Game Board" >}}
+{{< img class="float-left pure-img" src="/img/math/pre-math/image040.webp" alt="Number Path Game Board" >}}
 
 Different colored tokens can be placed on the “1” of each number path. Use two dice; one to indicate the color token that will move, and the other to indicate how many spaces the token will move. Several children may play. All children work together to move all the tokens to the end of the path. Children DO NOT choose a color token to call, “mine.”
 Use several number paths to create a game board.
@@ -236,6 +236,6 @@ Use several number paths to create a game board.
 {{< clear-float >}}
 
 
-{{< img class="preview-md" src="/img/math/pre-math/image041.webp" alt="Children Working with Number Paths" >}}
+{{< img class="preview-md pure-img" src="/img/math/pre-math/image041.webp" alt="Children Working with Number Paths" >}}
 
 Here is a number path with flaps over the numbers. The teacher reveals a number and asks what number will appear under a nearby flap. The child identifies the number, then checks under the flap.

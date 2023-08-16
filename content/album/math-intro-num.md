@@ -38,19 +38,19 @@ Note: Presentations are based on child’s levels of understanding; sensorial le
 
 **Presentation I (sensorial level – uses two rugs, preferably with no fringe)**
 
-{{< figure class="float-right" src="/img/math/intro-num/image001.webp" alt="Red Blue Number Rods" caption="Randomly placed on the rug" >}}
+{{< figure class="float-right pure-img" src="/img/math/intro-num/image001.webp" alt="Red Blue Number Rods" caption="Randomly placed on the rug" >}}
 
 1. Remove rods from shelf, carrying with one hand on each end and place randomly on one of the two work rugs.  Start by carrying the shortest rod to the rug. Continue transferring the rods from the shelf, one rod at a time, and place randomly on a rug.
 
 2. When all the rods are placed, slide each rod so that the short side, and a red segment, of each rod lines up with the left side of the rug. 
 
-{{< figure class="float-right" src="/img/math/intro-num/image002.webp" alt="Red Blue Number Rods" caption="Left aligned red ends on the rug" >}}
+{{< figure class="float-right pure-img" src="/img/math/intro-num/image002.webp" alt="Red Blue Number Rods" caption="Left aligned red ends on the rug" >}}
 
  “Now, we will order these according to length.” 
 
 3. Begin to grade the rods. Start with the longest rod and place it at the top of the second rug. The second rug could be placed a short distance away to promote movement and allow the child to practice carrying the rods with one hand on each end. Return to the first rug for another rod. “Now, which one is the longest?”  Continue until all rods have been transferred to the second rug, longest at the top and shortest at the bottom.
 
-{{< figure class="float-right" src="/img/math/intro-num/image003.webp" alt="Red Blue Number Rods" caption="Grade by length; longest at top" >}}
+{{< figure class="float-right pure-img" src="/img/math/intro-num/image003.webp" alt="Red Blue Number Rods" caption="Grade by length; longest at top" >}}
 
 4.  Slide the shortest rod over to the right end of each rod, in turn, starting with the two rod. This visually shows that attaching one more section to a rod makes it the same length as the next longest rod in the sequence. This is a sensorial/visual presentation so no language is required.
 
@@ -86,7 +86,7 @@ Note: Presentations are based on child’s levels of understanding; sensorial le
 * Construction – only one of each rod, segments are connected
 * Teacher – during three-period lesson
 
-{{< figure class="float-right" src="/img/math/intro-num/image004.webp" alt="Red Blue Number Rods" caption="Extension 1" >}}
+{{< figure class="float-right pure-img" src="/img/math/intro-num/image004.webp" alt="Red Blue Number Rods" caption="Extension 1" >}}
 
 **Variations:**
 1. Build the rods vertically, flat on the rug OR vertically stacked one on top of the other.
@@ -96,14 +96,14 @@ Note: Presentations are based on child’s levels of understanding; sensorial le
 
 **Extensions:**
 
-{{< figure class="float-right" src="/img/math/intro-num/image005.webp" alt="Red Blue Number Rods" caption="Combinations to make 10" >}}
+{{< figure class="float-right pure-img" src="/img/math/intro-num/image005.webp" alt="Red Blue Number Rods" caption="Combinations to make 10" >}}
 
 1.  Put two rods together to make combinations of 10.
 	* Do not use the vocabulary “ plus, equals“ etc. Rather, “How can we make 10? “
 
 2.  Memory challenge:  Place rods on one rug. Go with the child to another rug in a separate area of the room. Ask the child to bring you the “five” rod, the “ten” rod, etc.
 
-{{< figure class="float-right" src="/img/math/intro-num/image006.webp" alt="Red Blue Number Rods" caption="Nine and one together make ten" >}}
+{{< figure class="float-right pure-img" src="/img/math/intro-num/image006.webp" alt="Red Blue Number Rods" caption="Nine and one together make ten" >}}
 
 3.  Memory challenge:  Choose a rod, take it to the empty rug, and count the rod. Ask the child to go to the other rug and bring back the rod that is one more or one less.
 
@@ -224,9 +224,9 @@ Names of numerals
 Xavier University Montessori TEP, revised Spring 2010
 Maria Montessori, Psychoarithmetic: Arithmetic developed under the guidelines outlined by child psychology 1934/2016
 
-{{< figure class="preview-lg float-right" src="/img/math/intro-num/image013.webp" alt="Grooved Number Board" caption="Grooved Number board FamilyTreeWW" >}}
+{{< figure class="preview-lg float-right pure-img" src="/img/math/intro-num/image013.webp" alt="Grooved Number Board" caption="Grooved Number board FamilyTreeWW" >}}
 
-{{< figure class="preview-lg" src="/img/math/intro-num/image014.webp" alt="Loose objects with Sandpaper Numerals" caption="Association of loose objects and loose numerals with Sandpaper numerals" >}}
+{{< figure class="preview-lg pure-img" src="/img/math/intro-num/image014.webp" alt="Loose objects with Sandpaper Numerals" caption="Association of loose objects and loose numerals with Sandpaper numerals" >}}
 
 
 {{< spacer >}}
@@ -254,7 +254,7 @@ Experience with sandpaper numerals-recognize numerals, experience ordering the r
 
 **Presentation:**
 
-{{< figure class="preview-md float-right" src="/img/math/intro-num/image015.webp" alt="Number Rods" caption="Presentation 1: number cards placed randomly at the bottom of the rug" >}}
+{{< figure class="preview-md float-right pure-img" src="/img/math/intro-num/image015.webp" alt="Number Rods" caption="Presentation 1: number cards placed randomly at the bottom of the rug" >}}
 
 **NOTE:** In this lesson, the quantity is fixed and the symbols are loose. In contrast, the upcoming spindle box lesson provides loose quantity and fixed symbols. The cards and counters lesson, presented after the spindle box, offers loose quantity and loose objects. This presentation is done on a rug.  Make sure the rug is wide enough to accommodate the 10 rod.  It should not hang off the side of the rug.  The rug also needs to be deep enough to accommodate the rods and all the wooden cards when they are removed from the box and placed, “in random order at the bottom of the rug.”
 
@@ -273,7 +273,7 @@ Experience with sandpaper numerals-recognize numerals, experience ordering the r
 
 7.  Repeat the steps in 6 above for the “two” rod and number card, and the “three” rod and number card and so on. Be slow and deliberate when placing the card at the edge of the number rod.
 
-{{< img class="float-right" src="/img/math/intro-num/image016.webp" alt="Number Rods" >}}
+{{< img class="float-right pure-img" src="/img/math/intro-num/image016.webp" alt="Number Rods" >}}
 
 8.  When you reach the “ten” rod, turn to the child and say, “Now it’s your turn! Let’s switch. Now you count the rods and place the numbers.”  Collect the numbers and place them at the bottom of the rug. Slide the rods back to the original position toward the top of the rug.
 
@@ -289,7 +289,7 @@ Experience with sandpaper numerals-recognize numerals, experience ordering the r
 * counting and child’s knowledge of numerals from sandpaper numeral work
 * teacher
 
-{{< figure class="float-right" src="/img/math/intro-num/image017.webp" alt="Number Rods" caption="Variation 1-5" >}}
+{{< figure class="float-right pure-img" src="/img/math/intro-num/image017.webp" alt="Number Rods" caption="Variation 1-5" >}}
 
 **Variations:**
 1.  Show the numeral first, then have child fetch the corresponding rod.
@@ -298,7 +298,7 @@ Experience with sandpaper numerals-recognize numerals, experience ordering the r
 
 3.  Always bring all rods to a rug.  As a variation, the subsequent ordering and corresponding activities (which take place on a nearby rug) could be done with only the first five rods.
 
-{{< img class="float-right" src="/img/math/intro-num/image018.webp" alt="Number Rods" >}}
+{{< img class="float-right pure-img" src="/img/math/intro-num/image018.webp" alt="Number Rods" >}}
 
 4.  When the ordering is complete, ask the child to wear a blindfold. Remove a rod, a numeral card, or both.  Ask the child to “Open your eyes and tell me what is missing.”
 
@@ -346,7 +346,7 @@ This work is done at a table. The container(s) for the spindles should be design
 
 **Presentation I**
 
-{{< img class="float-right" src="/img/math/intro-num/image019.webp" alt="Child working with Spindle Boxes" >}}
+{{< img class="float-right pure-img" src="/img/math/intro-num/image019.webp" alt="Child working with Spindle Boxes" >}}
 
 1.  Use spindle box one (0-4) and a container of 10 spindles
 
@@ -368,7 +368,7 @@ This work is done at a table. The container(s) for the spindles should be design
 
 10.  Point to the empty compartment and say, “Zero gets nothing.  Zero is the empty set.”
 
-{{< figure class="float-right" src="/img/math/intro-num/image020.webp" alt="Spindle Boxes" caption="In Psychoarithmetic, Montessori describes “two boxes” for this material and she suggests flat sided spindles that will not roll of the table." >}}
+{{< figure class="float-right pure-img" src="/img/math/intro-num/image020.webp" alt="Spindle Boxes" caption="In Psychoarithmetic, Montessori describes “two boxes” for this material and she suggests flat sided spindles that will not roll of the table." >}}
 
 11.  To return the material to the shelf, the child may count spindles, from one compartment at a time, into the source container. Or, simply pick up the spindles and place them in the container. (No dumping/pouring spindles into the container.)
 
@@ -417,7 +417,7 @@ Xavier University Montessori TEP, revised spring 2010
 
 ### Numerals and Counters
 
-{{< img class="float-right" src="/img/math/intro-num/image021.webp" alt="Counting Beads on Rug" >}}
+{{< img class="float-right pure-img" src="/img/math/intro-num/image021.webp" alt="Counting Beads on Rug" >}}
 
 **Materials:**
 55 glass stones (or smooth river stones) in an attractive container and 11 folded numeral cards or wooden number cards (0-10) in an attractive container, tray to hold materials
@@ -570,7 +570,7 @@ Introduce the new concept of odd and even numbers (“Even. Not Even.” then �
 
 8.  Demonstrate 2, 3, and 4 so the child can see that if the counter is not part of a pair, then it is placed at the center in its row.
 
-{{< img class="float-right" src="/img/math/intro-num/image022.webp" alt="Child Working with Counters" >}}
+{{< img class="float-right pure-img" src="/img/math/intro-num/image022.webp" alt="Child Working with Counters" >}}
 
 **Presentation II**
 1.  After the above total layout is concluded, with one finger, point to the “1” counter and say, “This is a set of one.”
@@ -583,7 +583,7 @@ Introduce the new concept of odd and even numbers (“Even. Not Even.” then �
 
 5.  “The other numbers with sets of 2 are even.”
 
-{{< figure class="float-right" src="/img/math/intro-num/image023.webp" alt="Child Working with Counters Boxes" caption="Labels of odd & even used & even cards pushed to top of the rug Dirigo Montessori school" >}}
+{{< figure class="float-right pure-img" src="/img/math/intro-num/image023.webp" alt="Child Working with Counters Boxes" caption="Labels of odd & even used & even cards pushed to top of the rug Dirigo Montessori school" >}}
 
 6.  “2 is even, 4 is even, 6 is even, 8 is even, and 10 is even.”
 
@@ -600,7 +600,7 @@ Introduce the new concept of odd and even numbers (“Even. Not Even.” then �
 * number of counters
 * the ordered placement of counters makes it possible to determine if amount is correct – the array increases
 
-{{< img class="preview-lg" src="/img/math/intro-num/image024.webp" alt="Child Working with Counters" >}}
+{{< img class="preview-lg pure-img" src="/img/math/intro-num/image024.webp" alt="Child Working with Counters" >}}
 
 **Variations:**
 * Arrange counters in a simple column under the numeral card – for very young children.

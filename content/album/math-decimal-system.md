@@ -72,7 +72,7 @@ Decimal numeral cards for 1,000, 100, 10, and 1 will be used in presentation II 
 
 **Presentations:**
 
-{{< figure class="float-right" src="/img/math/decimal-system/image001.webp" alt="Golden Beads" caption="Quantity only; black emphasizes the difference in size" >}}
+{{< figure class="float-right pure-img" src="/img/math/decimal-system/image001.webp" alt="Golden Beads" caption="Quantity only; black emphasizes the difference in size" >}}
 
 **Presentation I**\
 Present the “objects” for understanding decimal system.
@@ -81,7 +81,7 @@ Present the “objects” for understanding decimal system.
 
 2.  Bring down the ten bead bar. "This is a ten bead bar." Give it to the child to hold for a moment, then have the child return it on the rug, just to the left of the unit bead. Point to the ten bar and say, “This is ten.”
 
-{{< figure class="float-right" src="/img/math/decimal-system/image003.webp" alt="Golden Beads" caption="More than just a wooden tray. Avoid putting the unit bead in a container" >}}
+{{< figure class="float-right pure-img" src="/img/math/decimal-system/image003.webp" alt="Golden Beads" caption="More than just a wooden tray. Avoid putting the unit bead in a container" >}}
 
 3.  Bring down the hundred bead square. "This is one hundred bead square." Give it to the child to hold for a moment, then have the child return it to the rug, just to the left of the ten bar. Point to the hundred square and say, “This is one hundred.”
 
@@ -96,7 +96,7 @@ Present the “objects” for understanding decimal system.
 **Presentation II**\
 Present the “numerical symbols” for understanding the decimal system.
 
-{{< figure class="float-right" src="/img/math/decimal-system/image005.webp" alt="Numerical Symbols" caption="Themontessorialbum.com" >}}
+{{< figure class="float-right pure-img" src="/img/math/decimal-system/image005.webp" alt="Numerical Symbols" caption="Themontessorialbum.com" >}}
 
 1.  Present the 1, 10, 100, and 1000 numeral cards via a three-period lesson. Place “1” card on rug and say “One.” Place the “10” card on the rug and say, “Ten.”  
 
@@ -117,7 +117,7 @@ Associate “objects” with “numerical symbols” and emphasize correct “wo
 “This is one hundred, this says one hundred.”\
 “This is one thousand, this says one thousand.”
 
-{{< img class="float-right" src="/img/math/decimal-system/image007.webp" alt="Numerical Symbols" >}}
+{{< img class="float-right pure-img" src="/img/math/decimal-system/image007.webp" alt="Numerical Symbols" >}}
 
 1.  Place the one/ a unit bead on the rug, say its name, and place the corresponding numeral card below it. Say, "This is the symbol for one (unit) bead." Point to the unit bead and say, “This is one.” Point to the numeral card and say, “This says one.”
 
@@ -199,7 +199,7 @@ Counting 1-10, experience with golden bead material names, number names & symbol
 Understand how numbers are built within each hierarchy – “The quantity gets larger as the count continues.”
 Understand that a number’s place determines its value and that each hierarchy begins again with one. “Now, we start all over again – with one!”
 
-{{< img class="float-right preview-md" src="/img/math/decimal-system/image011.webp" alt="One Bead and Symbol on Mat" >}}
+{{< img class="float-right preview-md pure-img" src="/img/math/decimal-system/image011.webp" alt="One Bead and Symbol on Mat" >}}
 
 **Indirect Aim:**
 * preparation to be accurate when composing numbers and fetching quantities
@@ -209,7 +209,7 @@ Understand that a number’s place determines its value and that each hierarchy 
 
 **Presentation:**
 
-{{< figure class="float-right preview-md" src="/img/math/decimal-system/image013.webp" alt="Math on Mat" caption="Bring the one down. &#8220;One/ a unit.&#8221; Add another bead from gold source. &#8220;Two.&#8221;  &#8220;This is two.&#8221;" >}}
+{{< figure class="float-right preview-md pure-img" src="/img/math/decimal-system/image013.webp" alt="Math on Mat" caption="Bring the one down. &#8220;One/ a unit.&#8221; Add another bead from gold source. &#8220;Two.&#8221;  &#8220;This is two.&#8221;" >}}
 
 This presentation shows the child how numbers grow AND what happens when nine is reached in a hierarchy – “We start over again - with one!” This is an active counting lesson.
 
@@ -225,13 +225,13 @@ This presentation shows the child how numbers grow AND what happens when nine is
 
 {{< grid-table class="col-2" >}}
 
-{{< figure class="float- preview-md" src="/img/math/decimal-system/image022.webp" alt="Math on Mat" caption="One at a time, move the four’s beds down, “One, two three, four…" >}}
+{{< figure class="preview-md" src="/img/math/decimal-system/image022.webp" alt="Math on Mat" caption="One at a time, move the four’s beds down, “One, two three, four…" >}}
 
-{{< figure class="float- preview-md" src="/img/math/decimal-system/image020.webp" alt="Math on Mat" caption="Then, add a bead from the gold source, &#8220;...five.&#8221;  &#8220;This is five.&#8221; Lay down the five card. &#8220;This says five.&#8221;" >}}
+{{< figure class="preview-md" src="/img/math/decimal-system/image020.webp" alt="Math on Mat" caption="Then, add a bead from the gold source, &#8220;...five.&#8221;  &#8220;This is five.&#8221; Lay down the five card. &#8220;This says five.&#8221;" >}}
 
-{{< figure class="float- preview-md" src="/img/math/decimal-system/image018.webp" alt="Math on Mat" caption="Continue with numbers through nine. &#8220;This is nine.&#8221;  &#8220;This says nine.&#8221;" >}}
+{{< figure class="preview-md" src="/img/math/decimal-system/image018.webp" alt="Math on Mat" caption="Continue with numbers through nine. &#8220;This is nine.&#8221;  &#8220;This says nine.&#8221;" >}}
 
-{{< figure class="float- preview-md" src="/img/math/decimal-system/image024.webp" alt="Math on Mat" caption="&#8220;Oh no. We are out of ones.  If we had one more bead, we would have ten. We need to start using the tens!&#8221;" >}}
+{{< figure class="preview-md" src="/img/math/decimal-system/image024.webp" alt="Math on Mat" caption="&#8220;Oh no. We are out of ones.  If we had one more bead, we would have ten. We need to start using the tens!&#8221;" >}}
 
 {{< /grid-table >}}
 
@@ -250,7 +250,7 @@ This presentation shows the child how numbers grow AND what happens when nine is
 
 9.  Invite the child to play a review game or put material away.
 
-{{< figure class="preview-lg" src="/img/math/decimal-system/image030.webp" alt="Math on Mat" >}}
+{{< figure class="preview-lg pure-img" src="/img/math/decimal-system/image030.webp" alt="Math on Mat" >}}
 
 
 **Points of Interest:**
@@ -288,7 +288,7 @@ Crisis of Nines variation from Kateri Carver PhD, UW-River Falls, 2020
 
 {{< grid-table class="col-2" >}}
 
-{{< figure class="" src="/img/math/decimal-system/image032.webp" alt="Math on Mat Crossed Out" >}}
+{{< figure class="pure-img" src="/img/math/decimal-system/image032.webp" alt="Math on Mat Crossed Out" >}}
 
 NOTE: The layout on the left is NOT the layout to use for this lesson. The intention of the Building Tray lesson is to show how a number grows by one as each numeral is added and as the count continues. The beads need to continue to accumulate. The child needs to see the quantity growing.
 
@@ -538,17 +538,17 @@ Kateri Carver, PhD, Center for Montessori Teacher Education, North Carolina, 198
 
 {{< grid-table class="col-2" >}}
 
-{{< figure class="" src="/img/math/decimal-system/image051.webp" alt="Variation 1" >}}
+{{< figure class="pure-img" src="/img/math/decimal-system/image051.webp" alt="Variation 1" >}}
 
-{{< figure class="" src="/img/math/decimal-system/image049.webp" alt="Variation 2" >}}
+{{< figure class="pure-img" src="/img/math/decimal-system/image049.webp" alt="Variation 2" >}}
 
-{{< figure class="" src="/img/math/decimal-system/image060.webp" alt="Variation 3" caption="Cards are placed randomly. Point to quantity, say quantity, find card, place card." >}}
+{{< figure class="pure-img" src="/img/math/decimal-system/image060.webp" alt="Variation 3" caption="Cards are placed randomly. Point to quantity, say quantity, find card, place card." >}}
 
-{{< figure class="" src="/img/math/decimal-system/image058.webp" alt="Variation 4" caption="Lay out quantity, then associate numerals, then move to next order." >}}
+{{< figure class="pure-img" src="/img/math/decimal-system/image058.webp" alt="Variation 4" caption="Lay out quantity, then associate numerals, then move to next order." >}}
 
-{{< figure class="" src="/img/math/decimal-system/image056.webp" alt="Variation 5" caption="Three period lesson to confirm understanding. Point to ____. Which is more, ___ or ___?" >}}
+{{< figure class="pure-img" src="/img/math/decimal-system/image056.webp" alt="Variation 5" caption="Three period lesson to confirm understanding. Point to ____. Which is more, ___ or ___?" >}}
 
-{{< figure class="" src="/img/math/decimal-system/image054.webp" alt="Variation 6" caption="Extend work with fetching exercise" >}}
+{{< figure class="pure-img" src="/img/math/decimal-system/image054.webp" alt="Variation 6" caption="Extend work with fetching exercise" >}}
 
 {{< /grid-table >}}
 
@@ -678,20 +678,20 @@ Xavier University Montessori Teacher Education Program, Spring 2010 revision
 
 {{< grid-table class="col-2" >}}
 
-{{< figure class="" src="/img/math/decimal-system/image066.webp" alt="Bank Game 1" caption="Bank Game - numeral cards and corresponding quantities">}}
+{{< figure class="pure-img" src="/img/math/decimal-system/image066.webp" alt="Bank Game 1" caption="Bank Game - numeral cards and corresponding quantities">}}
 
-{{< figure class="" src="/img/math/decimal-system/image063.webp" alt="Bank Game 2" >}}
+{{< figure class="pure-img" src="/img/math/decimal-system/image063.webp" alt="Bank Game 2" >}}
 
-{{< figure class="" src="/img/math/decimal-system/image071.webp" alt="Bank Game 3" >}}
+{{< figure class="pure-img" src="/img/math/decimal-system/image071.webp" alt="Bank Game 3" >}}
 
-{{< figure class="" src="/img/math/decimal-system/image067.webp" alt="Bank Game 4" >}}
+{{< figure class="pure-img" src="/img/math/decimal-system/image067.webp" alt="Bank Game 4" >}}
 
 
-{{< figure class="" src="/img/math/decimal-system/image077.webp" alt="Bank Game 5" caption="Bank game - fetching and number composition" >}}
+{{< figure class="pure-img" src="/img/math/decimal-system/image077.webp" alt="Bank Game 5" caption="Bank game - fetching and number composition" >}}
 
-{{< figure class="" src="/img/math/decimal-system/image074.webp" alt="Bank Game 6" >}}
+{{< figure class="pure-img" src="/img/math/decimal-system/image074.webp" alt="Bank Game 6" >}}
 
-{{< figure class="" src="/img/math/decimal-system/image079.webp" alt="Bank Game 7" caption="Numeral cards are combined to compose a number." >}}
+{{< figure class="pure-img" src="/img/math/decimal-system/image079.webp" alt="Bank Game 7" caption="Numeral cards are combined to compose a number." >}}
 
 {{< /grid-table >}}
 
@@ -740,7 +740,7 @@ Offer this presentation after the child is successful with fetching numeral card
 
 3.  When the child returns, organize the cards and beads on the work rug.  The cards are placed vertically/in a column, not touching each other, on the left side of the rug.  The gold is placed to the right of the corresponding number, horizontally, with the thousands first, then the hundreds, tens, and ones. (The cards and golden bead material are organized in this way, cards left & gold right, because it is how the child will be asked to organize the cards and beads when doing operations in the future.)
 
-{{< figure class="float-right" src="/img/math/decimal-system/image085.webp" alt="Number Composition 2" >}}
+{{< figure class="float-right pure-img" src="/img/math/decimal-system/image085.webp" alt="Number Composition 2" >}}
 
 4.  Ask the child to tell you what they fetched. “What does this say?” while pointing to card. Then, “How much is this?” while pointing to the corresponding quantity.
 
@@ -1027,9 +1027,9 @@ Kateri Carver PhD, Center for Montessori Teacher Education, North Carolina, 1987
 
 {{< grid-table class="col-2" >}}
 
-{{< figure class="" src="/img/math/decimal-system/image090.webp" alt="Bank Game 1" caption="Little Bank - nine each of 1s, 10s, 100s and at least one 1000 cube (could have more) Image from montessorialbum.com" >}}
+{{< figure class="pure-img" src="/img/math/decimal-system/image090.webp" alt="Bank Game 1" caption="Little Bank - nine each of 1s, 10s, 100s and at least one 1000 cube (could have more) Image from montessorialbum.com" >}}
 
-{{< figure class="" src="/img/math/decimal-system/image088.webp" alt="Bank Game 2" caption="Small numeral cards that correspond to the Little Bank - image from E&O Montessori " >}}
+{{< figure class="pure-img" src="/img/math/decimal-system/image088.webp" alt="Bank Game 2" caption="Small numeral cards that correspond to the Little Bank - image from E&O Montessori " >}}
 
 {{< /grid-table >}}
 

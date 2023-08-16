@@ -4,8 +4,7 @@ weight: 500
 toc: true
 ---
 
-{{< fluid_imgs "ff|/img/sensorial/image002.webp|Child Sitting Working with Rods" >}}
-*montessoricompass.com*
+{{< figure class="pure-img" src="/img/sensorial/image002.webp" alt="Child Sitting Working with Rods" caption="http://montessoricompass.com" >}}
 
 {{< center-quote >}}
 Submitted to Patricia Castillo
@@ -80,8 +79,8 @@ Montessori, M. (1909 and 2017). The Discovery of the Child. Montessori Pierson P
 * Binomial and Trinomial cubes: just doing the work to get the sensorial impression, later on its a2 + b2=c2, the sensorial impression helps us understand the abstract later
 * For tactile exploration, we sensitize the fingers with a tray, sponge, and water….dip fingers on the top, wipe them on the sponge, now fingers are more sensitive to touch (for sandpaper letters, sandpaper globe, and touch tablets)
 
-{{< img class="float-right" src="/img/sensorial/image004.webp" alt="Child touching Board" >}}
-{{< img class="float-right" src="/img/sensorial/image003.webp" alt="Tray of Glass and Sponge" >}}
+{{< img class="float-right pure-img" src="/img/sensorial/image004.webp" alt="Child touching Board" >}}
+{{< img class="float-right pure-img" src="/img/sensorial/image003.webp" alt="Tray of Glass and Sponge" >}}
 
 * Only want to get the tips of your first two fingers (not thumb) wet
 * Begin with grace and courtesy, practical life lessons, then proceed to sensorial, Pink Tower/Tower of Cubes, Broad Stair, Rods of Length
@@ -608,18 +607,18 @@ Montessori, M. (2012). The 1946 London Lectures. Amsterdam: Montessori-Pierson P
 
 ### Exploration of the Sense of Touch in Nature
 
-****Materials:**** Outside: Grass, Leaves, Trees, Stones, Rocks, Sand, Dirt, (if these are not available in your location, consider bringing them in), flower petals, several plastic bins, several towels
+**Materials:** Outside: Grass, Leaves, Trees, Stones, Rocks, Sand, Dirt, (if these are not available in your location, consider bringing them in), flower petals, several plastic bins, several towels
 
-****Prerequisites:****
+**Prerequisites:**
 Dressing boards: untying and tying, Velcro, grace and courtesy lessons,  (previous experience with the rough and smooth basket and boards might be helpful)
 
 **Direct Aim:** Explore the sense of touch through nature
 
 **Indirect Aim:** Through exploration and discovery, the child develops and refines the ability to observe, compare, differentiate, reason, decide, solve problems, appreciate and participate in the world. 
 
-****Age:**** 2.5+
+**Age:** 2.5+
 
-****Presentation:****
+**Presentation:**
 
 {{< img class="pure-img float-right" src="/img/sensorial/image005.webp" alt="Child Examining A Leaf" >}}
 
@@ -636,7 +635,6 @@ Dressing boards: untying and tying, Velcro, grace and courtesy lessons,  (previo
 
 
 
-{{< img class="preview" src="/img/sensorial/image008.webp" alt="Touching Flower Petals" >}}
 {{< img class="preview" src="/img/sensorial/image009.webp" alt="Rock in Hand" >}}
 {{< img class="preview" src="/img/sensorial/image010.webp" alt="Walnut in Hand" >}}
 {{< img class="preview" src="/img/sensorial/image011.webp" alt="Child Examining Leaf Again" >}}
@@ -665,15 +663,15 @@ Dressing boards: untying and tying, Velcro, grace and courtesy lessons,  (previo
 18. Return shoes to one’s feet
 19. Thank the child(ren)
 
-****Points of Interest:**** Being outside (to explore the sense of touch), being able to differentiate touch sensations blindfolded, being able to remove one’s shoes to explore the sense of touch through one’s feet
+**Points of Interest:** Being outside (to explore the sense of touch), being able to differentiate touch sensations blindfolded, being able to remove one’s shoes to explore the sense of touch through one’s feet
 
 Extensions Gradually add other items to sensorially explore through the sense of touch outside-practice feeling with one’s hands versus with one’s feet
 
-****Control of Error:**** The feeling of the various textures; being able to open one’s eyes and visually see whether one had guessed the item in nature they were feeling with their hands or feet
+**Control of Error:** The feeling of the various textures; being able to open one’s eyes and visually see whether one had guessed the item in nature they were feeling with their hands or feet
 
-**Extensions/**Variations:**** Continue to add more from nature that the child(ren) can explore using the tactile sense; allow for explorations with hands as well as with feet and compare/contrast; let children use blindfolds and attempt to label what they are touching with their hands/feet as the guide or another student leads them along the playground….Gradually add lessons such as this for the other senses as well, exploring them outside
+**Extensions/Variations:** Continue to add more from nature that the child(ren) can explore using the tactile sense; allow for explorations with hands as well as with feet and compare/contrast; let children use blindfolds and attempt to label what they are touching with their hands/feet as the guide or another student leads them along the playground….Gradually add lessons such as this for the other senses as well, exploring them outside
 
-****Vocabulary:**** rough, smooth, soft, flat, hard, warm, cold, fuzzy, heavy, light
+**Vocabulary:** rough, smooth, soft, flat, hard, warm, cold, fuzzy, heavy, light
 
 **Materials that I have made are below:** (one is a journal for children to complete as they are exploring their senses in nature, another is a basket of items from nature that can be explored inside: it contains fresh and old walnuts (the green ones have a very strong scent (for olfactory), fresh green leaves (which are smooth), a tiny branch (which is rough), a stone (smooth), and a pine sprig (which is sharp/pointy)…there are leaves of various sizes which can be seriated for visual discrimination as well).  Ideally, this is a basket I will change throughout the weeks/months of the year and will gradually expand to include: seashells, sand dollars, a cleaned/disinfected feather, snail shells, pinecones, fresh flowers, etc.   
 
@@ -1167,8 +1165,8 @@ Relationship between 3 dimensional forms and 2 dimensional figures
 
 ##### 4. Geometric Cabinet
 
-{{< img class="" src="/img/sensorial/image028.webp" alt="Geometric Cabinet Closeup" >}}
-{{< img class="" src="/img/sensorial/image029.webp" alt="Geometric Cabinet Closeup" >}}
+{{< img class="pure-img" src="/img/sensorial/image028.webp" alt="Geometric Cabinet Closeup" >}}
+{{< img class="pure-img" src="/img/sensorial/image029.webp" alt="Geometric Cabinet Closeup" >}}
 
 
 Discrimination of plane-closed figures 
@@ -1193,7 +1191,7 @@ Box with 3 sets of cards representing all of the above figure
 2. thick line
 3. thin line
 
-{{< img class="" src="/img/sensorial/image030.webp" alt="Geometric Cards Closeup" >}}
+{{< img class="pure-img" src="/img/sensorial/image030.webp" alt="Geometric Cards Closeup" >}}
 
 ⇒ The progression in this sequence moves from concrete to abstract, from 3 dimensional solids to 2-dimensional plane figures to line representations of the figure. 
 
@@ -1202,16 +1200,16 @@ Box with 3 sets of cards representing all of the above figure
 
 1. Blue Triangles for exploration
 2. Triangular Box
-{{< img class="" src="/img/sensorial/image031.webp" alt="Constructive Triangular Blue Closeup" >}}
+{{< img class="pure-img" src="/img/sensorial/image031.webp" alt="Constructive Triangular Blue Closeup" >}}
 
 3. Large Hexagonal Box
-{{< img class="" src="/img/sensorial/image032.webp" alt="Large Hexagonal Box Closeup" >}}
+{{< img class="pure-img" src="/img/sensorial/image032.webp" alt="Large Hexagonal Box Closeup" >}}
 
 4. Small Hexagonal Box
-{{< img class="" src="/img/sensorial/image033.webp" alt="Small Hexagonal Box Closeup" >}}
+{{< img class="pure-img" src="/img/sensorial/image033.webp" alt="Small Hexagonal Box Closeup" >}}
 
 5. Rectangular Box
-{{< img class="" src="/img/sensorial/image034.webp" alt="Rectangular Box Closeup" >}}
+{{< img class="pure-img" src="/img/sensorial/image034.webp" alt="Rectangular Box Closeup" >}}
 
 6. Rectangular Box and Blue Triangles 
 7. Blue Triangles for Testing
@@ -1272,11 +1270,11 @@ Preparation for tactile activities - fingertip sensitizing (can sensitize with w
 
 #### A. Surface
 
-{{< figure src="/img/sensorial/image003.webp" alt="Sponge on Tray" caption="www.wonderfulmontessori.com" class="float-right" >}}
+{{< figure src="/img/sensorial/image003.webp" alt="Sponge on Tray" caption="www.wonderfulmontessori.com" class="float-right pure-img" >}}
 
-{{< figure src="/img/sensorial/image035.webp" alt="Child Touching Smooth Boards" caption="www.carrotsareorange.com/rough-smooth-boards" class="float-right" >}}
+{{< figure src="/img/sensorial/image035.webp" alt="Child Touching Smooth Boards" caption="www.carrotsareorange.com/rough-smooth-boards" class="float-right pure-img" >}}
 
-{{< figure src="/img/sensorial/image036.webp" alt="Rough Smooth Boards Closeup" caption="www.wonderfulmontessori.com" class="float-right" >}}
+{{< figure src="/img/sensorial/image036.webp" alt="Rough Smooth Boards Closeup" caption="www.wonderfulmontessori.com" class="float-right pure-img" >}}
 
 1. Touch Boards/Tactile Boards - discrimination of rough and smooth\
 a. 1st board is divided in half - rough/smooth  (two fingers)\
@@ -1296,9 +1294,9 @@ b. grading 1 set
 
 #### B. Texture
 
-{{< figure src="/img/sensorial/image037.webp" alt="Fabric Box Closeup" caption="www.hiphomeschoolmoms.org" class="float-right" >}}
+{{< figure src="/img/sensorial/image037.webp" alt="Fabric Box Closeup" caption="www.hiphomeschoolmoms.org" class="float-right pure-img" >}}
 
-{{< figure src="/img/sensorial/image038.webp" alt="Fabric Squares Closeup" caption="www.thinkamajigs.com" class="float-" >}}
+{{< figure src="/img/sensorial/image038.webp" alt="Fabric Squares Closeup" caption="www.thinkamajigs.com" class="pure-img" >}}
 
 
 1. Fabric Box *  - 2 matched sets of fabric in a variety of textures, patterns and colors (help children avoid using their eyes by having them close their eyes or use a blindfold)
@@ -1307,9 +1305,9 @@ b. grading 1 set
 
 Can discuss rough, smooth, state names of the fabrics (on the 2nd or 3rd presentation with younger children, can introduce the vocabulary right away with older children)
 
-{{< figure src="/img/sensorial/image039.webp" alt="Small Bag of Shapes" caption="www.montessori-official.com" class="float-right" >}}
+{{< figure src="/img/sensorial/image039.webp" alt="Small Bag of Shapes" caption="www.montessori-official.com" class="float-right pure-img" >}}
 
-{{< figure src="/img/sensorial/image040.webp" alt="Small Bag of Shapes" caption="https://montessorifromtheheart.com/2016/04/03/montessori-mystery-bag-developing-the-stereognostic-sense/" class="float-" >}}
+{{< figure src="/img/sensorial/image040.webp" alt="Small Bag of Shapes" caption="https://montessorifromtheheart.com/2016/04/03/montessori-mystery-bag-developing-the-stereognostic-sense/" class="pure-img" >}}
 
 
 {{< spacer >}}
@@ -1327,7 +1325,7 @@ Can discuss rough, smooth, state names of the fabrics (on the 2nd or 3rd present
 
 ### V. BARIC
 
-{{< img class="float-right" src="/img/sensorial/image041.webp" alt="Rectangular Box Closeup" >}}
+{{< img class="float-right pure-img" src="/img/sensorial/image041.webp" alt="Rectangular Box Closeup" >}}
 
 1.  Preparatory exercise - sorting heavy and light objects (a basket with heavy and light items, just sorting for exploration at first, eventually have them matching)
 2. Introduce scale with heavy/light objects
@@ -1517,7 +1515,7 @@ III. Form
 
 #### CYLINDER BLOCKS/ KNOBBED CYLINDERS
 
-{{< img class="float-right" src="/img/sensorial/image042.webp" alt="Knobbed Cylinders Closeup" >}}
+{{< img class="float-right pure-img" src="/img/sensorial/image042.webp" alt="Knobbed Cylinders Closeup" >}}
 
 **Materials:**
 
@@ -1543,7 +1541,7 @@ Through exploration and discovery, the child develops and refines the ability to
 
 **Presentation:** (First presentation)
 
-{{< img class="float-right" src="/img/sensorial/image043.webp" alt="Knobbed Cylinders Presentation" >}}
+{{< img class="float-right pure-img" src="/img/sensorial/image043.webp" alt="Knobbed Cylinders Presentation" >}}
 
 1. Remove cylinder block from shelf; carry with two hands, one at either end of the block.
 
@@ -1561,7 +1559,7 @@ Through exploration and discovery, the child develops and refines the ability to
 
 **Presentation II**
 1. Follow steps 1 - 4 in Presentation 1.
-{{< img class="float-right" src="/img/sensorial/image044.webp" alt="Knobbed Cylinders Presentation Again" >}}
+{{< img class="float-right pure-img" src="/img/sensorial/image044.webp" alt="Knobbed Cylinders Presentation Again" >}}
 
 2. Remove all cylinders from the block one at time from left to right. Place on the table in random order in front of the block. Observe.
 
@@ -1582,7 +1580,7 @@ Through exploration and discovery, the child develops and refines the ability to
 6. Trace diameters of cylinders and/or holes to use tactile comparison method.
 
 **Extensions:**
-{{< img class="float-right" src="/img/sensorial/image045.webp" alt="Knobbed Cylinders Presentation Twice" >}}
+{{< img class="float-right pure-img" src="/img/sensorial/image045.webp" alt="Knobbed Cylinders Presentation Twice" >}}
 
 1. Use 2, 3 or 4 blocks together in a variety of positions.
 2. Use a control grid.
@@ -1605,7 +1603,7 @@ Through exploration and discovery, the child develops and refines the ability to
 
 #### TOWER OF CUBES/PINK TOWER
 
-{{< img class="float-right" src="/img/sensorial/image046.webp" alt="Pink Tower Closeup" >}}
+{{< img class="float-right pure-img" src="/img/sensorial/image046.webp" alt="Pink Tower Closeup" >}}
 
 **Materials:** Ten wooden cubes, which decrease in three dimensions.  The sides diminish from 10 cm3. to 1 cm3
 
@@ -1630,7 +1628,7 @@ Through exploration and discovery, the child develops and refines the ability to
 
 5. Return extremes to the right side of the rug.
 
-{{< img class="float-right" src="/img/sensorial/image047.webp" alt="Pink Tower Presentation" >}}
+{{< img class="float-right pure-img" src="/img/sensorial/image047.webp" alt="Pink Tower Presentation" >}}
 
 6. By comparison, locate the largest cube.  With two hands, pick up and place on extreme left side of the rug.
 
@@ -1640,7 +1638,7 @@ Through exploration and discovery, the child develops and refines the ability to
 
 9. Stand and view tower of cubes from all sides and from top looking down.
 
-{{< img class="float-right" src="/img/sensorial/image048.webp" alt="Pink Tower Presentation Again" >}}
+{{< img class="float-right pure-img" src="/img/sensorial/image048.webp" alt="Pink Tower Presentation Again" >}}
 
 10. Beginning with the smallest cube, disassemble the tower, one cube at a time, moving each cube to a position near the center of the rug.
 
@@ -1673,15 +1671,15 @@ Can isolate extremes for students at first, or focus on 1, 3, 5, 7, 9 pieces….
 {{< img class="float-right preview" src="/img/sensorial/image053.webp" alt="Pink Tower Closeup Again" >}}
 
 
-{{< spacer >}}
+{{< clear-float >}}
+
 
 {{< spacer >}}
-
 
 
 #### BROAD PRISMS/BROWN STAIRS
 
-{{< img class="float-right" src="/img/sensorial/image054.webp" alt="Child Using Brown Stairs" >}}
+{{< img class="float-right pure-img" src="/img/sensorial/image054.webp" alt="Child Using Brown Stairs" >}}
 
 **Materials:**  Ten wooden prisms, which decrease in two dimensions.  Square sections diminish from 10 c. to 1 c.
 
@@ -1693,7 +1691,7 @@ Grade by size (height and width).
 **Indirect Aims:**
 Through exploration and discovery, the child develops and refines the ability to observe, compare, differentiate, reason, decide, solve problems, appreciate and participate in the world.
 
-{{< img class="float-right" src="/img/sensorial/image055.webp" alt="Brown Stairs Presentation" >}}
+{{< img class="float-right pure-img" src="/img/sensorial/image055.webp" alt="Brown Stairs Presentation" >}}
 
 **Age:** 3-5 
 
@@ -1706,7 +1704,7 @@ Through exploration and discovery, the child develops and refines the ability to
 
 4. Isolate extremes (thickest and thinnest) and move them one at a time to the extreme left side of the mat.  Compare.  Return to right side of the rug, one at a time.
 
-{{< img class="float-right" src="/img/sensorial/image056.webp" alt="Brown Stairs Closeup" >}}
+{{< img class="float-right pure-img" src="/img/sensorial/image056.webp" alt="Brown Stairs Closeup" >}}
 
 5. By comparison, locate the thickest prism.  Using two hands, move it to the left center edge of the rug in a position parallel to the left edge of the rug.
 
@@ -1726,7 +1724,7 @@ Can bring language after 1st presentation.
 * “Show me ____.”
 * “What is _____.”
 
-{{< img class="float-right" src="/img/sensorial/image057.webp" alt="Brown Stairs Closeup" >}}
+{{< img class="float-right pure-img" src="/img/sensorial/image057.webp" alt="Brown Stairs Closeup" >}}
 
 **Points of Interest:** Varying weight of the prisms.  Variance of width and breadth.  Prisms form a stair.
 
@@ -1755,7 +1753,7 @@ Can bring language after 1st presentation.
 
 #### LENGTH RODS/RED RODS
 
-{{< img class="float-right" src="/img/sensorial/image062.webp" alt="Red Rods Closeup" >}}
+{{< img class="float-right pure-img" src="/img/sensorial/image062.webp" alt="Red Rods Closeup" >}}
 
 **Materials:** Ten wooden rods, which decrease in one dimension.  Length diminishes from 1 meter to 10 c.; Rug
 
@@ -1792,7 +1790,7 @@ Through exploration and discovery, the child develops and refines the ability to
 
 **Control of Error:**  None build in; in the eye of the child
 
-{{< img class="float-right" src="/img/sensorial/image063.webp" alt="Red Rods Closeup" >}}
+{{< img class="float-right pure-img" src="/img/sensorial/image063.webp" alt="Red Rods Closeup" >}}
  
 **Variations:** Vary rod positions on the rug.  Stack rods one on top of the other, with one end flush.  Stack rods in a pyramid style.  Arrange rods by pairing the  longest with the shortest.  Use rods to build a maze.  Use rods to build various geometric shapes. Arrange rods with one end of each forming a circle.  Rods appear as rays. Use the shortest rod as a unit of measurement.
 
@@ -1811,7 +1809,7 @@ Through exploration and discovery, the child develops and refines the ability to
 
 #### KNOBLESS CYLINDERS
 
-{{< img class="float-right" src="/img/sensorial/image066.webp" alt="Knobless Cylinders in Box" >}}
+{{< img class="float-right pure-img" src="/img/sensorial/image066.webp" alt="Knobless Cylinders in Box" >}}
 
 **Materials:** 
 * Box of ten red wooden cylinders: cylinders have constant height and decrease in diameter from thick to thin.
@@ -1821,7 +1819,7 @@ Through exploration and discovery, the child develops and refines the ability to
 
 Rug or table.  (If the work is done on a rug, make sure it is one that is smooth and level.)
 
-{{< img class="float-right" src="/img/sensorial/image067.webp" alt="Knobless Cylinders Presentation" >}}
+{{< img class="float-right pure-img" src="/img/sensorial/image067.webp" alt="Knobless Cylinders Presentation" >}}
 
 **Prerequisites:**   Knobbed cylinders, tower of cubes, broad prisms, length rods
 
@@ -1834,7 +1832,7 @@ Rug or table.  (If the work is done on a rug, make sure it is one that is smooth
 **Indirect Aims:**
 Through exploration and discovery, the child develops and refines the ability to observe, compare, differentiate, reason, decide, solve problems, appreciate and participate in the world.
 
-{{< img class="float-right" src="/img/sensorial/image068.webp" alt="Knobless Cylinders Presentation" >}}
+{{< img class="float-right pure-img" src="/img/sensorial/image068.webp" alt="Knobless Cylinders Presentation" >}}
 
 **Age:** 3-5 
 
@@ -1903,12 +1901,12 @@ Extension: “Find something in the room that is blue, yellow, red”; memory ga
 Present Primary and secondary; add tertiary later
 
 **Present tones separately**
-{{< img class="float-right" src="/img/sensorial/image075.webp" alt="Color Box Closeup" >}}
+{{< img class="float-right pure-img" src="/img/sensorial/image075.webp" alt="Color Box Closeup" >}}
 
 * RR
 * YY
 
-{{< img class="float-right" src="/img/sensorial/image022.webp" alt="Color Box" >}}
+{{< img class="float-right pure-img" src="/img/sensorial/image022.webp" alt="Color Box" >}}
 * BB 
 * Orange/Orange (hereafter OO)          
 * Green/Green (hereafter GG)
@@ -1922,7 +1920,7 @@ Ex) have children travel across room to find the correct match
 
 ##### Color Box 3
 
-{{< img class="float-right" src="/img/sensorial/image076.webp" alt="Color Box on Mat" >}}
+{{< img class="float-right pure-img" src="/img/sensorial/image076.webp" alt="Color Box on Mat" >}}
 
 
 Max/Med/Lt – Always start with the darkest Max only for the first pairing\
@@ -1945,7 +1943,7 @@ All three – Pairing and grading
 
 ##### Color Box 4
 
-{{< img class="float-right" src="/img/sensorial/image077.webp" alt="Color Box Closeup" >}}
+{{< img class="float-right pure-img" src="/img/sensorial/image077.webp" alt="Color Box Closeup" >}}
 
 
 4 variations in pairs; pairing and grading
@@ -1967,7 +1965,7 @@ All three – Pairing and grading
 
 ##### Color Box 5
 
-{{< img class="float-right" src="/img/sensorial/image078.webp" alt="Color Box Closeup" >}}
+{{< img class="float-right pure-img" src="/img/sensorial/image078.webp" alt="Color Box Closeup" >}}
 
 
 Grading – 7 variations
@@ -1997,7 +1995,7 @@ Black = Absence of all colors of light
 
 #### COLOR BOX 1
 
-{{< img class="float-right" src="/img/sensorial/image079.webp" alt="Color Box 1 Closeup" >}}
+{{< img class="float-right pure-img" src="/img/sensorial/image079.webp" alt="Color Box 1 Closeup" >}}
 
 **Materials:** 
 * Box containing six tablets (2 red, 2 blue, 2 yellow).  
@@ -2040,7 +2038,7 @@ Through exploration and discovery, the child develops and refines the ability to
 
 #### COLOR BOX 2
 
-{{< img class="float-right" src="/img/sensorial/image022.webp" alt="Color Box 2 Closeup" >}}
+{{< img class="float-right pure-img" src="/img/sensorial/image022.webp" alt="Color Box 2 Closeup" >}}
 
 **Materials:**
 * Box containing 22 color tablets:-2 each of red, blue, yellow, green, orange, purple, brown, black, white, gray and pink.
@@ -2082,7 +2080,7 @@ Through exploration and discovery, the child develops and refines the ability to
 
 #### COLOR BOX 3
 
-{{< img class="float-right" src="/img/sensorial/image080.webp" alt="Color Box 3 Closeup" >}}
+{{< img class="float-right pure-img" src="/img/sensorial/image080.webp" alt="Color Box 3 Closeup" >}}
 
 **Materials:** 
 Three boxes containing 16 tablets each.  
@@ -2134,7 +2132,7 @@ Through exploration and discovery, the child develops and refines the ability to
 
 #### COLOR BOX 4
 
-{{< img class="float-right" src="/img/sensorial/image078.webp" alt="Color Box 4 Closeup" >}}
+{{< img class="float-right pure-img" src="/img/sensorial/image078.webp" alt="Color Box 4 Closeup" >}}
 
 **Materials:** 
 Box containing 64 color tablets: eight different colors (red, blue, yellow, green, purple, orange, brown, gray). There are four variations in each color: four matched pairs of each color. 
@@ -2220,7 +2218,7 @@ Through exploration and discovery, the child develops and refines the ability to
 
 
 
-{{< img class="preview-md" src="/img/sensorial/image081.webp" alt="Geometric Shapes" >}}
+{{< img class="preview-md pure-img" src="/img/sensorial/image081.webp" alt="Geometric Shapes" >}}
 
 
 ### VISUAL FORM
@@ -2228,7 +2226,7 @@ Through exploration and discovery, the child develops and refines the ability to
 
 #### GEOMETRIC CABINET 
 
-{{< img class="float-right" src="/img/sensorial/image082.webp" alt="Geometric Cabinet Closeup" >}}
+{{< img class="float-right pure-img" src="/img/sensorial/image082.webp" alt="Geometric Cabinet Closeup" >}}
 
 **Materials:** Cabinet containing the following:
 1. Demonstration tray:  three plane wooden frames, room for three other figures
@@ -2236,7 +2234,7 @@ Through exploration and discovery, the child develops and refines the ability to
 3. Drawer * :  six quadrilaterals decreasing in width (1 square, 5 rectangles)
 4. Drawer * :  six triangles:  equilateral, isosceles, scalene, right angled, acute angled, obtuse angled
 5. Drawer * :  six polygons:  pentagon, hexagon, heptagon, octagon, nonagon, decagon
-{{< img class="float-right" src="/img/sensorial/image083.webp" alt="Demonstration Tray" >}}
+{{< img class="float-right pure-img" src="/img/sensorial/image083.webp" alt="Demonstration Tray" >}}
 
 6. Drawer #5:  four irregular sided figures:  oval, ellipse, curvilinear triangle, quatrefoil
 7. Drawer #6: four irregular sided figures: rhombus, trapezoid, parallelogram, quadrilateral
@@ -2297,7 +2295,7 @@ Remember that the child will gain more concrete information about the shape by t
 
 #### CARDS FOR THE GEOMETRIC CABINET
 
-{{< img class="float-right" src="/img/sensorial/image084.webp" alt="Child working with Shapes" >}}
+{{< img class="float-right pure-img" src="/img/sensorial/image084.webp" alt="Child working with Shapes" >}}
 
 
 **Materials:**  Geometric Cabinet - drawers 1 - 6; cards (3 sets of cards representing the figures of the Geometric Cabinet. There are 3 sets for each drawer: full surface, thick line, thin line). Several rugs
@@ -2349,7 +2347,7 @@ Through exploration and discovery, the child develops and refines the ability to
 
 #### Geometric Solids
 
-{{< img class="float-right" src="/img/sensorial/image085.webp" alt="Geometric Solid Closeup" >}}
+{{< img class="float-right pure-img" src="/img/sensorial/image085.webp" alt="Geometric Solid Closeup" >}}
 
 **Materials:** discrimination of 3-dimensional form 
 Geometric solids-cube, sphere, cylinder, cone, ovoid, rectangular prism, ellipsoid, square-based pyramid, triangular prism, triangle-based prism.
@@ -2410,7 +2408,7 @@ Geometric solids-cube, sphere, cylinder, cone, ovoid, rectangular prism, ellipso
 
 #### MONOMIAL CUBE
 
-{{< img class="float-right" src="/img/sensorial/image086.webp" alt="MONOMIAL Cube" >}}
+{{< img class="float-right pure-img" src="/img/sensorial/image086.webp" alt="MONOMIAL Cube" >}}
 
 **Materials:** Box containing the cubes which, when constructed, form the monomial cube.  Mat or table.
 
@@ -2639,7 +2637,7 @@ Children can explore with shapes and design patterns with shapes of different si
 
 #### BLUE TRIANGLES FOR EXPLORATION
 
-{{< img class="float-right" src="/img/sensorial/image100.webp" alt="Blue Triangles" >}}
+{{< img class="float-right pure-img" src="/img/sensorial/image100.webp" alt="Blue Triangles" >}}
 
 **Materials:** 
 * Box containing the blue triangles:
@@ -2679,7 +2677,7 @@ Through exploration and discovery, the child develops and refines the ability to
 
 #### TRIANGULAR BOX OF CONTRUCTIVE TRIANGLE
 
-{{< img class="float-right" src="/img/sensorial/image101.webp" alt="Triangle Box" >}}
+{{< img class="float-right pure-img" src="/img/sensorial/image101.webp" alt="Triangle Box" >}}
 
 
 **Materials:** Triangle Box
@@ -2763,7 +2761,7 @@ Through exploration and discovery, the child develops and refines the ability to
 
 #### LARGE HEXAGONAL BOX OF CONSTRUCTIVE TRIANGLES
 
-{{< img class="float-right" src="/img/sensorial/image111.webp" alt="Large Hex Box Closeup" >}}
+{{< img class="float-right pure-img" src="/img/sensorial/image111.webp" alt="Large Hex Box Closeup" >}}
 
 **Materials:** Large Hexagonal Box
 * 1  yellow triangle
@@ -2949,7 +2947,7 @@ Add more “discoveries and explorations” here 😊
 
 #### RECTANGULAR BOX OF CONSTRUCTIVE TRIANGLES
 
-{{< img class="float-right" src="/img/sensorial/image142.webp" alt="Rectangular Box of Triangles" >}}
+{{< img class="float-right pure-img" src="/img/sensorial/image142.webp" alt="Rectangular Box of Triangles" >}}
 
 **Materials:** Rectangular Box
 * 4 yellow equilateral triangles 
@@ -3044,7 +3042,7 @@ Plenty of other relationships between triangles to explore and discover.
 
 #### BLUE TRIANGLES FOR TESTING
 
-{{< img class="float-right" src="/img/sensorial/image152.webp" alt="Blue Triangles" >}}
+{{< img class="float-right pure-img" src="/img/sensorial/image152.webp" alt="Blue Triangles" >}}
 
 **Materials:** Box containing the blue triangles: 
 * 2 equilateral
@@ -3084,7 +3082,7 @@ See suppositions; and
 
 #### MATCHING AND SORTING BASKETS
 
-{{< img class="float-right" src="/img/sensorial/image153.webp" alt="Sorting Trinkets" >}}
+{{< img class="float-right pure-img" src="/img/sensorial/image153.webp" alt="Sorting Trinkets" >}}
 
 These baskets of (ideally seasonal and natural) objects offer an application of the development and refinement of the three aspects of the visual sense: size, color and form.  The children apply their observation, comparison and differentiation skills AND learn the matching, sorting and grading systems with objects. See the Introduction for notes on systems for grading and matching. Some of systems will be needed for the upcoming exercises in Auditory, Tactile and Olfactory lessons. 
 SORTING: Basket of different shaped/ kinds of shells that are for sorting: 4-5 different shells in pairs or threes is Ok too. 
@@ -3120,8 +3118,8 @@ When all the children were still, she introduced "the call" when she whispers th
 
 #### THE SILENCE BOOK AND GAME
 
-{{< img class="float-right" src="/img/sensorial/image158.webp" alt="Silence Game" >}}
-{{< img class="float-right" src="/img/sensorial/image157.webp" alt="Silence Book" >}}
+{{< img class="float-right pure-img" src="/img/sensorial/image158.webp" alt="Silence Game" >}}
+{{< img class="float-right pure-img" src="/img/sensorial/image157.webp" alt="Silence Book" >}}
 
 
 **Materials:**  Candle and match/lighter and snuffer
@@ -3139,7 +3137,7 @@ Present to the group. Light candle. After lighting the candle ask the children t
 
 #### INDIVIDUAL SILENCE ACTIVITY 
 
-{{< img class="float-right" src="/img/sensorial/image159.webp" alt="Silence Activity" >}}
+{{< img class="float-right pure-img" src="/img/sensorial/image159.webp" alt="Silence Activity" >}}
 
 **Materials:** Tray, beautiful table mat, label, and sand timer
 
@@ -3155,8 +3153,8 @@ Present to the group. Light candle. After lighting the candle ask the children t
 
 #### ROOM SILENCE (Optional)
 
-{{< img class="float-right" src="/img/sensorial/image161.webp" alt="Silence Please" >}}
-{{< img class="float-right" src="/img/sensorial/image160.webp" alt="Child with Hands over Ears" >}}
+{{< img class="float-right pure-img" src="/img/sensorial/image161.webp" alt="Silence Please" >}}
+{{< img class="float-right pure-img" src="/img/sensorial/image160.webp" alt="Child with Hands over Ears" >}}
 
 **Materials:**  Sign that is labeled "Silence" and a picture of a child who doesn’t like the noise; perhaps with hands over his ears
 
@@ -3180,7 +3178,7 @@ Present to the group. Light candle. After lighting the candle ask the children t
 
 #### SOUND/NO SOUND BASKET
 
-{{< img class="float-right" src="/img/sensorial/image162.webp" alt="No Sound Basket" >}}
+{{< img class="float-right pure-img" src="/img/sensorial/image162.webp" alt="No Sound Basket" >}}
 
 **Materials:** Basket with objects that make noise and those that do not 
 * poppy seed casings, maraca, bell, small wind up clock, beads in jar, shell
@@ -3209,7 +3207,7 @@ Take out the objects and distribute them randomly on the right side of the rug. 
 
 #### SOUND CYLINDERS
 
-{{< img class="float-right" src="/img/sensorial/image163.webp" alt="Sound Cylinders" >}}
+{{< img class="float-right pure-img" src="/img/sensorial/image163.webp" alt="Sound Cylinders" >}}
 
 **Materials:**  Two matched sets of six cylinders, each filled with different materials so that the range of sound goes from loud to quiet when shaken.  Mat or table
 
@@ -3270,7 +3268,7 @@ Take out the objects and distribute them randomly on the right side of the rug. 
 
 ##### SENSITIZING THE FINGERTIPS
 
-{{< img class="float-right" src="/img/sensorial/image003.webp" alt="Sponge in Tray" >}}
+{{< img class="float-right pure-img" src="/img/sensorial/image003.webp" alt="Sponge in Tray" >}}
 
 **Materials:**  Bowl, pitcher, small (tea) towel, water, sponge and a tray.
 
@@ -3332,7 +3330,7 @@ Rough and smooth Touch boards (four boards)
 
 ##### TOUCH TABLETS
 
-{{< figure src="/img/sensorial/image166.webp" caption="www.montessoriacademy.com/au" class="float-right" >}}
+{{< figure src="/img/sensorial/image166.webp" caption="www.montessoriacademy.com/au" class="float-right pure-img" >}}
 
 
 **Materials:**  Box containing five pairs of tablets that vary from extremely rough to almost smooth in surface texture. Table or mat.
@@ -3433,7 +3431,7 @@ Matching (three extremes: rough, medium, smooth)
 
 ##### FABRIC MATCHING
 
-{{< figure src="/img/sensorial/image173.webp" caption="www.creoschool.org" class="float-right" alt="Child doing Fabric Matching" >}}
+{{< figure src="/img/sensorial/image173.webp" caption="www.creoschool.org" class="float-right pure-img" alt="Child doing Fabric Matching" >}}
 
 **Materials:** Box containing several matched sets of fabric samples; each pair with its own distinctive texture, color and pattern. Mat or table.
 
@@ -3481,7 +3479,7 @@ Through exploration and discovery, the child develops and refines the ability to
 
 ##### FABRIC BOX 2
 
-{{< figure src="/img/sensorial/image174.webp" caption="www.teachingfromatacklebox.com" class="float-right" alt="Fabric Box 2" >}}
+{{< figure src="/img/sensorial/image174.webp" caption="www.teachingfromatacklebox.com" class="float-right pure-img" alt="Fabric Box 2" >}}
 
 **Materials:**   Box containing two matched sets of fabric, each pair with its own distinctive texture. All are the same color. Mat or table.
 
@@ -3533,7 +3531,7 @@ Note: With both Auditory and Olfactory exercises it is recommended to introduce 
 
 #### INTRODUCTING A SINGLE SMELL
 
-{{< img class="float-right" src="/img/sensorial/image175.webp" alt="Child Smelling Flowers" >}}
+{{< img class="float-right pure-img" src="/img/sensorial/image175.webp" alt="Child Smelling Flowers" >}}
 
 **Materials:** A flower and a picture of a flower; smelling bottle
 
@@ -3554,7 +3552,7 @@ Take a single flower.  Have the children pass it around on the circle. Have they
 
 #### SMELLING CYLINDERS
 
-{{< img class="float-right" src="/img/sensorial/image176.webp" alt="Smelling Cylinders Closeup" >}}
+{{< img class="float-right pure-img" src="/img/sensorial/image176.webp" alt="Smelling Cylinders Closeup" >}}
 
 **Materials:** Two boxes containing two paired sets of six bottles in each set.  Each of the prepared capped bottles has a perforated inner lid that allows the child to smell the contents when the outer lid is removed.  Mat or table.
 
@@ -3600,7 +3598,7 @@ Take a single flower.  Have the children pass it around on the circle. Have they
 
 #### MATCHING BASKET OF SCENTS
 
-{{< img class="float-right" src="/img/sensorial/image180.webp" alt="Smelling Cylinders Closeup" >}}
+{{< img class="float-right pure-img" src="/img/sensorial/image180.webp" alt="Smelling Cylinders Closeup" >}}
 
 **Materials:**  basket with three to four different smells in pairs ( use soap, tea bags, sachets, small lotions bottles etc.
 
@@ -3647,7 +3645,7 @@ Use scents that all look the same much like Fabric box 2 in which the visual aid
 
 ##### BARIC EXERCISES
 
-{{< img class="float-right" src="/img/sensorial/image181.webp" alt="Baric Tablets Closeup" >}}
+{{< img class="float-right pure-img" src="/img/sensorial/image181.webp" alt="Baric Tablets Closeup" >}}
 
 **Materials:** Box divided into three compartments that contain the baric tablets: three (heavy, medium, light) grades of wooden tablets that vary in color and weight.
 
@@ -3659,7 +3657,7 @@ Use scents that all look the same much like Fabric box 2 in which the visual aid
 
 **Note on this Presentation:**
 
-{{< img class="float-right" src="/img/sensorial/image182.webp" alt="Baric Tablets Closeup" >}}
+{{< img class="float-right pure-img" src="/img/sensorial/image182.webp" alt="Baric Tablets Closeup" >}}
 
 Originally this work was done differently from all other Sensorial lessons: it was a one-on-one lesson with an adult and one child. Because of this requirement, the work was difficult to do on a regular basis. Also, many children and adults have a challenging time differentiating the blocks of wood except for a few samples of the extremes. However, this work does not follow the pattern or system of pairing tablets, so this also confuses students and adults. Needless to say, the baric tablet work with wood block samples is probably one of the most least-used works of all the Montessori materials. However, an effective and ironic solution for baric exercise is to use the thermic tablets for weight exercises since they lend themselves so perfectly to weight analysis.
 
@@ -3703,7 +3701,7 @@ The first and second presentations are to sensorially feel the weight difference
 
 ##### WEIGHING/ SCALE
 
-{{< img class="float-right preview-lg" src="/img/sensorial/image183.webp" alt="Weighing Scale Closeup" >}}
+{{< img class="float-right preview-lg pure-img" src="/img/sensorial/image183.webp" alt="Weighing Scale Closeup" >}}
 
 **Materials:** Balance Scale with a basket  of items from the classroom to weigh. Begin by using the thickest cylinder of Block #1 for the control weight. Then transition to other control weights after they know the lesson.
 
@@ -3784,9 +3782,9 @@ The first and second presentations are to sensorially feel the weight difference
 
 ##### THERMIC BOTTLES
 
-{{< figure src="/img/sensorial/image184.jpg" title="There are Montessori bottles/canisters that are insulated for thermic exercises. However, they are cost prohibitive for many schools. These bottles shown are an alternative, but they will not keep the liquid/solid hot or cold for long. After a morning work cycle, the bottles will likely be room temperature. But, this is a whole other lesson in and of itself! Thermic exercises are often linked to science, observation and experimentation." class="float-right preview-md" alt="Weighs in Basket">}}
+{{< figure src="/img/sensorial/image184.jpg" title="There are Montessori bottles/canisters that are insulated for thermic exercises. However, they are cost prohibitive for many schools. These bottles shown are an alternative, but they will not keep the liquid/solid hot or cold for long. After a morning work cycle, the bottles will likely be room temperature. But, this is a whole other lesson in and of itself! Thermic exercises are often linked to science, observation and experimentation." class="float-right preview-md pure-img" alt="Weighs in Basket">}}
 
-{{< img class="float-right" src="/img/sensorial/image185.webp" alt="Children Working with Weighs" >}}
+{{< img class="float-right pure-img" src="/img/sensorial/image185.webp" alt="Children Working with Weighs" >}}
 
 **Materials:** Set of four matched pairs of bottles, each filled with water of varying temperatures: hot, tepid, room temperature and cold. Table.
 
@@ -3837,7 +3835,7 @@ Through exploration and discovery, the child develops and refines the ability to
 
 #### THERMIC TABLETS
 
-{{< img class="float-right" src="/img/sensorial/image186.webp" alt="Thermic Tablets" >}}
+{{< img class="float-right pure-img" src="/img/sensorial/image186.webp" alt="Thermic Tablets" >}}
 
 **NOTE:** Although the thermic tablets can be used for temperature grading and matching, ironically, they are also used for baric since the wooden baric tablets are challenging for both children and teachers as explained above and the diversity of weights of the materials conforms to that lesson well. 
 
@@ -3889,8 +3887,8 @@ Through exploration and discovery, the child develops and refines the ability to
 
 This is a VERY popular exercise and can be introduced after sufficient practice is done on many of the sensorial materials. This is often listed as an extension in the lesson.
 
-{{< img class="preview-md" src="/img/sensorial/image187.webp" alt="Child Working with Sensorial Materials" >}}
-{{< img class="preview-md" src="/img/sensorial/image188.webp" alt="Child Working with Sensorial Materials" >}}
+{{< img class="preview-md pure-img" src="/img/sensorial/image187.webp" alt="Child Working with Sensorial Materials" >}}
+{{< img class="preview-md pure-img" src="/img/sensorial/image188.webp" alt="Child Working with Sensorial Materials" >}}
 
 
 #### BASKET/BAGS TO MATCH SHAPES (Mystery bag)
@@ -3946,7 +3944,7 @@ The children really enjoy doing this stereognostic work and they often do it in 
 
 #### INTRODUCING A SINGLE FOOD
 
-{{< img class="float-right" src="/img/sensorial/image189.webp" alt="Children Eating Food at Table" >}}
+{{< img class="float-right pure-img" src="/img/sensorial/image189.webp" alt="Children Eating Food at Table" >}}
 
 **Materials:**  The single food, napkins, toothpicks or whatever container is needed to serve the food to the group.
 
@@ -3973,7 +3971,7 @@ The children really enjoy doing this stereognostic work and they often do it in 
 
 #### SWEET AND SOUR
 
-{{< img class="float-right" src="/img/sensorial/image190.webp" alt="Taste Diagram" >}}
+{{< img class="float-right pure-img" src="/img/sensorial/image190.webp" alt="Taste Diagram" >}}
 
 **Materials:** Lemons and sweet apples, toothpicks, and napkins, chart of tongue and what tastes are tasted where.
 
@@ -3991,7 +3989,7 @@ The children really enjoy doing this stereognostic work and they often do it in 
 
 **Notes on Gustatory:**
 
-{{< img class="float-right" src="/img/sensorial/image191.webp" alt="Taste Bottles" >}}
+{{< img class="float-right pure-img" src="/img/sensorial/image191.webp" alt="Taste Bottles" >}}
 
 1. These lessons are best done in a group  
 2. These lessons are effective in teaching them new foods
@@ -4098,7 +4096,7 @@ Share your lessons with you peers and all will benefit!
 
 #### THE MYSTERY OF THE FLOWERNG BULB
 
-{{< img class="float-right" src="/img/sensorial/image192.webp" alt="Plants in Bottles" >}}
+{{< img class="float-right pure-img" src="/img/sensorial/image192.webp" alt="Plants in Bottles" >}}
 
 **Materials:** one narcissus bulb (per child); one wide mouth Mason jar, small pebbles; one label
 with child's name attached to jar with a ribbon (this could be a work in the Practical Life Area- ie: name tag work)
@@ -4175,4 +4173,4 @@ Preparation: About a week before bringing the bulb into the classroom; keep bulb
 
 **Vocabulary:**  hike, photography/photographer, North, South, East, and West, compass, names of plants and animals in the field guide as well as what they see/observe
 
-{{< img class="preview-l" src="/img/sensorial/image193.webp" alt="Plants in Basket" >}}
+{{< img class="preview-l pure-img" src="/img/sensorial/image193.webp" alt="Plants in Basket" >}}

@@ -2455,8 +2455,8 @@ It is helpful to remember that if there are Elementary Montessori classrooms in 
 
 {{< figure class="white-outline float-left preview-300" src="/img/culture/geo/image072.webp" caption="Integrating Culture into all areas of the classroom is best practice. This could be on the Practical Life shelf or the Culture shelf." >}}
 
-{{< spacer >}}
-{{< spacer >}}
+
+{{< clear-float >}}
 
 
 **Ideas for a continent Study across the areas of the EC classroom: Africa**
@@ -2469,8 +2469,8 @@ Language: put couscous in “sand” tray
 4. Math: use kola nuts for 1-10 correspondence; Do a guessing quantity work with anise seeds in a jar; count the countries on the political map; draw the largest and smallest and label them.
 
 {{< box class="white-outline white-bg w-400 float-left" >}}
-The Origin of the Headwrap:
-The headwrap originated in sub-Saharan Africa, and was often used to convey modesty, spirituality and prosperity. Even men in Africa wear head wraps to symbolize wealth and social status. Head wrapping is literally a way that African’s for centuries have been able to non-verbally communicate their place in life. The headwrap of a woman walking down the street will tell you if she’s a widow, a grandmother, or if she’s a married young woman. It’s an element in the daily living of an African woman. Headwraps also serve a practical function in protecting the head from the rays of the sun. In West Africa, head wraps are referred to as ‘gele’ in Yoruba or ‘ichafu’ in Ibo.
+{{< div class="font-bold" >}}The Origin of the Headwrap:{{< /div >}}
+{{< div class="p-1" >}}The headwrap originated in sub-Saharan Africa, and was often used to convey modesty, spirituality and prosperity. Even men in Africa wear head wraps to symbolize wealth and social status. Head wrapping is literally a way that African’s for centuries have been able to non-verbally communicate their place in life. The headwrap of a woman walking down the street will tell you if she’s a widow, a grandmother, or if she’s a married young woman. It’s an element in the daily living of an African woman. Headwraps also serve a practical function in protecting the head from the rays of the sun. In West Africa, head wraps are referred to as ‘gele’ in Yoruba or ‘ichafu’ in Ibo.{{< /div >}}
 {{< /box >}}
 
 
@@ -2953,7 +2953,7 @@ Labels for the months of the year and for the seasons of the year. Seasons are o
 - Prepare and/or practice of writing the date
 - Preparation for elementary calendar work that is more specific
 
-{{< img class="white-outline float-right" src="/img/culture/geo/image102.webp" alt="Photo Calendar" >}}
+{{< img class="white-outline float-right pure-img" src="/img/culture/geo/image102.webp" alt="Photo Calendar" >}}
 
 **Points of Interest:**
 - The connection to the birthday celebration 

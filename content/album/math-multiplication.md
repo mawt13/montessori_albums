@@ -133,13 +133,13 @@ University of Wisconsin, River Falls Teacher Education Program, Summer 2019 note
 
 {{< grid-table class="white-bg" >}}
 
-{{< img class="" src="/img/math/multiplication/image001.webp" alt="Golden Bead Multiplication" >}}
+{{< img class="pure-img" src="/img/math/multiplication/image001.webp" alt="Golden Bead Multiplication" >}}
 
-{{< img class="" src="/img/math/multiplication/image003.webp" alt="Golden Bead Multiplication" >}}
+{{< img class="pure-img" src="/img/math/multiplication/image003.webp" alt="Golden Bead Multiplication" >}}
 
-{{< img class="" src="/img/math/multiplication/image005.webp" alt="Golden Bead Multiplication" >}}
+{{< img class="pure-img" src="/img/math/multiplication/image005.webp" alt="Golden Bead Multiplication" >}}
 
-{{< img class="" src="/img/math/multiplication/image007.webp" alt="Golden Bead Multiplication" >}}
+{{< img class="pure-img" src="/img/math/multiplication/image007.webp" alt="Golden Bead Multiplication" >}}
 
 {{< /grid-table >}}
 
@@ -251,7 +251,7 @@ Maria Montessori, Psychoarithmetic: Arithmetic developed under the guidelines ou
 
 {{< grid-table class="white-bg" >}}
 
-{{< img class="" src="/img/math/multiplication/image009.webp" alt="Bead Bar Multiplication" >}}
+{{< img class="pure-img" src="/img/math/multiplication/image009.webp" alt="Bead Bar Multiplication" >}}
 
 {{< /grid-table >}}
 
@@ -373,7 +373,7 @@ Notes from UW-River Falls summer 2019 residency
 
 {{< grid-table class="white-bg" >}}
 
-{{< img class="" src="/img/math/multiplication/image011.webp" alt="Multiplication Board" >}}
+{{< img class="pure-img" src="/img/math/multiplication/image011.webp" alt="Multiplication Board" >}}
 
 {{< /grid-table >}}
 
@@ -462,23 +462,23 @@ Maria Montessori. Psychoarithmetic: Arithmetic developed under the guidelines ou
 
 {{< grid-table class="white-bg" >}}
 
-{{< img class="" src="/img/math/multiplication/image013.webp" alt="Stamp Game Multiplication" >}}
+{{< img class="pure-img" src="/img/math/multiplication/image013.webp" alt="Stamp Game Multiplication" >}}
 
-{{< img class="" src="/img/math/multiplication/image015.webp" alt="Stamp Game Multiplication" >}}
+{{< img class="pure-img" src="/img/math/multiplication/image015.webp" alt="Stamp Game Multiplication" >}}
 
-{{< img class="" src="/img/math/multiplication/image017.webp" alt="Stamp Game Multiplication" >}}
+{{< img class="pure-img" src="/img/math/multiplication/image017.webp" alt="Stamp Game Multiplication" >}}
 
-{{< img class="" src="/img/math/multiplication/image019.webp" alt="Stamp Game Multiplication" >}}
+{{< img class="pure-img" src="/img/math/multiplication/image019.webp" alt="Stamp Game Multiplication" >}}
 
-{{< img class="" src="/img/math/multiplication/image021.webp" alt="Stamp Game Multiplication" >}}
+{{< img class="pure-img" src="/img/math/multiplication/image021.webp" alt="Stamp Game Multiplication" >}}
 
-{{< img class="" src="/img/math/multiplication/image023.webp" alt="Stamp Game Multiplication" >}}
+{{< img class="pure-img" src="/img/math/multiplication/image023.webp" alt="Stamp Game Multiplication" >}}
 
-{{< img class="" src="/img/math/multiplication/image025.webp" alt="Stamp Game Multiplication" >}}
+{{< img class="pure-img" src="/img/math/multiplication/image025.webp" alt="Stamp Game Multiplication" >}}
 
-{{< img class="" src="/img/math/multiplication/image027.webp" alt="Stamp Game Multiplication" >}}
+{{< img class="pure-img" src="/img/math/multiplication/image027.webp" alt="Stamp Game Multiplication" >}}
 
-{{< img class="" src="/img/math/multiplication/image029.webp" alt="Stamp Game Multiplication" >}}
+{{< img class="pure-img" src="/img/math/multiplication/image029.webp" alt="Stamp Game Multiplication" >}}
 
 {{< /grid-table >}}
 

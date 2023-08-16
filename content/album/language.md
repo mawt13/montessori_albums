@@ -660,7 +660,7 @@ https://www.merriam-webster.com/dictionary/
 
 ## 4. Oral, Visual & Auditory Development
 
-{{< img class="header-img" src="/img/language/image084.webp" alt="Child with Sea Shell">}}
+{{< img class="pure-img" src="/img/language/image084.webp" alt="Child with Sea Shell">}}
 
 ### A. Speech and Language Pathology Sequence for Oral Language Development
 
@@ -831,7 +831,7 @@ CC Standard:
 
 **Direct Aim:**  Demonstrate to the child that their thoughts can be put in words; that words make a sentence and, a series of sentences makes a story.
 
-{{< img class="float-right" src="/img/language/image104.webp" alt="Picture Story" >}}
+{{< img class="float-right pure-img" src="/img/language/image104.webp" alt="Picture Story" >}}
 
 **Indirect Aim:**  Prepare them for reading; promote successful reading comprehension and creative writing
 
@@ -1248,7 +1248,7 @@ CC Standard:
 
 **Vocabulary:** Lesson and material specific
 
-**Age:**  	4+
+**Age:**  4+
 
 **Control of Error:** Teacher/ adult; could make a control card for pairs of the whole work.
 
@@ -1265,7 +1265,7 @@ CC Standard:
 6. Continue with other the fields and profession names. 
 7. Young child: gather up all the labels and staple together and give to the child. Optional: Make a title slip that says Professions. Older child (5/6): They can glue the labels in a copybook; they can copy the words, build words with M.A. etc.
 
-{{< img class="blue-outline float-right" src="/img/language/image155.webp" alt="Fields and Professions Vocabulary">}}
+{{< img class="blue-outline float-right pure-img" src="/img/language/image155.webp" alt="Fields and Professions Vocabulary">}}
 
 **Variations & Extensions:** 
 *  Align the work with themes such as, for Fall/ Autumn on the Art Shelf: Farm/ Farmer’s Market- farmer; Store-merchant/ shopkeeper; Waste Management/refuse collector
@@ -2901,7 +2901,7 @@ CC Standard:
 
 {{< figure class="blue-outline pure-img" src="/img/language/image283.webp" alt="Encoding" caption="Many students need differentiated instruction when using the Moveable Alphabet. The whole alphabet box can be overwhelming. Here is a sample short /a/ word building work that always uses the same MA letters, the same control chart for letter mapping, and the same objects. Once the differentiated sets are made for each short vowel, they can be used over and over." >}}
 
-{{< img class="float-right blue-outline" src="/img/language/image285.webp" alt="Encoding" >}}
+{{< img class="float-right blue-outline pure-img" src="/img/language/image285.webp" alt="Encoding" >}}
 
 
 **A differentiated set includes:**
@@ -2978,9 +2978,9 @@ IF more elementary guides knew why the MA is such a powerful literacy tool, then
 
 {{< figure class="blue-outline pure-img" src="/img/language/image290.webp" alt="Moveable Alphabet" caption="Here is what to AVOID - a MESSY / DISORGANIZED Moveable Alphabet" >}}
 
-{{< img class="green-outline" src="/img/language/image292.webp" >}}
+{{< img class="green-outline pure-img" src="/img/language/image292.webp" >}}
 
-{{< img class="red-outline" src="/img/language/image296.webp" >}}
+{{< img class="red-outline pure-img" src="/img/language/image296.webp" >}}
 
 {{< figure class="yellow-outline" src="/img/language/image294.webp" caption="Be creative about how to keep the letters in place; here adhesive felt pads and rubber bands" >}}
 
@@ -3021,7 +3021,7 @@ IF more elementary guides knew why the MA is such a powerful literacy tool, then
 **Source:** Kateri Carver, PhD
 
 
-{{< img class="red-outline" src="/img/language/image298.webp" >}}
+{{< img class="red-outline pure-img" src="/img/language/image298.webp" >}}
 
 
 {{< spacer >}}
@@ -3326,7 +3326,7 @@ NOTE: Words are written in blue and pink following the MA exactly by the adult. 
 
 #### Dictations with short vowels
 
-{{< img class="white-outline float-right" src="/img/language/image320.webp" alt="Dictations with short vowels" >}}
+{{< img class="white-outline float-right pure-img" src="/img/language/image320.webp" alt="Dictations with short vowels" >}}
 
 CC Standard:
 
@@ -3351,14 +3351,14 @@ CC Standard:
 2. Lay out the card on the left of the rug
 3. Discuss the meaning of or action in the image.
 
-{{< img class="white-outline float-right" src="/img/language/image322.webp" alt="Dictations with short vowels" >}}
+{{< img class="white-outline float-right pure-img" src="/img/language/image322.webp" alt="Dictations with short vowels" >}}
 
 4. Lead the child to the dictation phrase. For the example, “The dog went up the hill.”
 5. Invite the child to write the phrase with the Moveable Alphabet.
 6. Give the child the control card and have them correct their work.
 7. Choose another image card and repeat the process of writing another dictation.
 
-{{< img class="white-outline float-right" src="/img/language/image324.webp" alt="Dictations with short vowels" >}}
+{{< img class="white-outline float-right pure-img" src="/img/language/image324.webp" alt="Dictations with short vowels" >}}
 
 **Variations & Extensions:** Have the children make up their own dictations. Have the children draw their own pictures
 
@@ -3417,7 +3417,7 @@ CC Standard:
 
 #### Object box 1: First decoding
 
-{{< img class="yellow-outline float-right" src="/img/language/image326.webp" alt="Object box" >}}
+{{< img class="yellow-outline float-right pure-img" src="/img/language/image326.webp" alt="Object box" >}}
 
 CC Standard:
 
@@ -3445,7 +3445,7 @@ CC Standard:
 5. As each letter is unveiled, say the sound, and blend it with the next letter to sound out (decode) the word. 
 6. Read the whole word in a normal rate.  Take the next roll and invite the child to help you read the next roll.
 
-{{< figure class="yellow-outline float-right" src="/img/language/image330.webp" alt="Object box" caption="This lesson is also given by writing the word in front of the child with the appropriate colors." >}}
+{{< figure class="yellow-outline float-right pure-img" src="/img/language/image330.webp" alt="Object box" caption="This lesson is also given by writing the word in front of the child with the appropriate colors." >}}
 
 **Variations & Extensions:**
 * Change the objects and the rolls to unfurl 
@@ -3608,7 +3608,7 @@ tack – take
 **Source:** Kateri Carver, PhD
 
 {{< grid-table class="center-content" >}}
-{{< img class="white-outline" src="/img/language/image346.webp" alt="Magic e lessons" >}}
+{{< img class="white-outline pure-img" src="/img/language/image346.webp" alt="Magic e lessons" >}}
 {{< /grid-table >}}
 
 {{< spacer >}}
@@ -3723,8 +3723,8 @@ CHART 1: Below are the spelling variations for the long vowel sounds. The darker
 
 {{< pure_table
 "|long a|long i|long o|long u|long e"
-"1^3|a|i|o|U|e"
-"2^4|a-e|i-e|o-e|u-e|NONE"
+"1&sup3;|a|i|o|U|e"
+"2&#8308;|a-e|i-e|o-e|u-e|NONE"
 "3|ai|ig / igh|oa|Ue|ee"
 "4|ay|y|oe|Ew|ea"
 "5|eigh|ie|ow||y"
@@ -4155,7 +4155,7 @@ CC Standard:
 1. Invite the child to get the MA, a (lined) rug and recording materials such as a clipboard, writing paper and pencil if the child is ready to record.
 2. Show the child the work of dictations. This can be a series of pictures and separate control card.
 
-{{< red-box class="float-left w-250 white-outline p-2" srcs="/img/language/image398.webp" img-class=" " >}}
+{{< red-box class="float-left w-250 white-outline p-2 center-block" srcs="/img/language/image398.webp" img-class="pure-img" >}}
 
 Make little cards to go in between the words – a space!  See note below.
 
@@ -4163,7 +4163,7 @@ Make little cards to go in between the words – a space!  See note below.
 
 3. Ask the child if they would like to make up their own dictation or if they would like to choose a pre-made dictation based on an image.
 
-{{< img class="" src="/img/language/image400.webp" >}}
+{{< img class="pure-img" src="/img/language/image400.webp" >}}
 
 {{< img class="" src="/img/language/image402.png" >}}
 {{< img class="" src="/img/language/image403.png" >}}
@@ -4377,7 +4377,7 @@ Children who struggle with reading and writing should be encouraged to use their
 
 {{< /box >}}
 
-{{< figure class="blue-outline" src="/img/language/image436.webp" caption="Some tools for writing, drawing, and exercising the hand" >}}
+{{< figure class="blue-outline pure-img my-1" src="/img/language/image436.webp" caption="Some tools for writing, drawing, and exercising the hand" >}}
 
 {{< figure class="blue-outline" src="/img/language/image438.webp" caption="Sample tools: stencils, curves, rulers, mitts ( to erase the board)" >}}
 
@@ -4497,14 +4497,14 @@ CC Standard:
 
 The classroom needs materials, supplies, and a system for teaching handwriting.  The system needs to match the classroom’s SPLs and MA.  Children can learn to read in print from books and still write in cursive. Or they can read and write in print and/ or cursive. Consistency across the classroom and school is critical. There are several contemporary research studies that show the positive results from learning to write in cursive.  The USA is one of the few places in the world that teaches manuscript (printing) before cursive. Likewise, the USA is one of the only places to skip cursive. Further, the USA is one of the few places NOT to use graph paper to teach children to write, whether print or cursive! Use it. Even children learning to write their characters in Mandarin use quadrants.
 
-{{< img class="white-outline float-left w-250" src="/img/language/image454.webp" >}}
+{{< img class="white-outline float-left w-250 pure-img" src="/img/language/image454.webp" >}}
 
 The most challenging for the children is the issue of space and placement in relation to a line.
 
 
 Therefore, make very clear where the children START the letters and what is the area that is designated for the letters that go below the line.
 
-{{< img class="blue-outline w-250" src="/img/language/image456.webp" >}}
+{{< img class="blue-outline w-250" srFc="/img/language/image456.webp" >}}
 
 
 Practice with the MA on a long rug (as paper) using ribbons for lines and dashes. 
@@ -4555,7 +4555,7 @@ When used as an oral language material or for phonemic awareness development, no
 
 {{< figure class="white-outline float-left preview-300" src="/img/language/image468.webp" caption="Make your own Miniature environments with some fixed and some moveable pieces. https://www.youtube.com/watch?v=k69siWvoChI" >}}
 
-{{< img class="white-outline w-250" src="/img/language/image470.webp" >}}
+{{< img class="white-outline w-250 pure-img my-1 center-block" src="/img/language/image470.webp" >}}
 
 \
 **Miniature environment for grammar lessons**

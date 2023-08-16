@@ -137,23 +137,23 @@ Primary colors: red, yellow, and blue
 
 Compare stained glass art and the way the light reflects through the glass to the colored tissue paper designs, show the children stained glass art.
 
-{{< img class="float- pure-img" src="/img/art/image002.webp" alt="Art Collage" >}}
+{{< img class="pure-img" src="/img/art/image002.webp" alt="Art Collage" >}}
 
 (https://www.cntraveler.com/galleries/2015-11-11/the-worlds-most-spectacular-stained-glass)
 
-{{< img class="float- pure-img" src="/img/art/image003.webp" alt="Art Collage" >}}
+{{< img class="pure-img" src="/img/art/image003.webp" alt="Art Collage" >}}
 
 (https://www.cntraveler.com/galleries/2015-11-11/the-worlds-most-spectacular-stained-glass)
 
-{{< img class="float- pure-img" src="/img/art/image004.webp" alt="Art Collage" >}}
+{{< img class="pure-img" src="/img/art/image004.webp" alt="Art Collage" >}}
 
 Wafi Mall, Dubai, UAE
 
-{{< img class="float- pure-img" src="/img/art/image005.webp" alt="Art Collage" >}}
+{{< img class="pure-img" src="/img/art/image005.webp" alt="Art Collage" >}}
 
 Nasir Al-Mulk Mosque, Shiraz, Iran
 
-{{< img class="float- pure-img" src="/img/art/image006.webp" alt="Art Collage" >}}
+{{< img class="pure-img" src="/img/art/image006.webp" alt="Art Collage" >}}
 
 Cosmovitral Botanical Garden, Toluca, Mexico
 
@@ -174,17 +174,17 @@ https://www.firstpalette.com/craft/tissue-paper-sun-catchers.html
 
 {{< grid-table class="col-2" >}}
 
-{{< img class="" src="/img/art/image007.webp" alt="Oil Paintings" >}}
+{{< img class="pure-img" src="/img/art/image007.webp" alt="Oil Paintings" >}}
 
-{{< img class="" src="/img/art/image008.webp" alt="Oil Paintings" >}}
+{{< img class="pure-img" src="/img/art/image008.webp" alt="Oil Paintings" >}}
 
-{{< img class="" src="/img/art/image009.webp" alt="Oil Paintings" >}}
+{{< img class="pure-img" src="/img/art/image009.webp" alt="Oil Paintings" >}}
 
-{{< img class="" src="/img/art/image010.webp" alt="Oil Paintings" >}}
+{{< img class="pure-img" src="/img/art/image010.webp" alt="Oil Paintings" >}}
 
 {{< /grid-table >}}
 
-{{< img class="" src="/img/art/image011.webp" alt="Oil Paintings" >}}
+{{< img class="pure-img" src="/img/art/image011.webp" alt="Oil Paintings" >}}
 
 (Leonid Afremov oil painting, She Left, https://afremov.com/images/product/image_1900.jpeg)
 
@@ -738,9 +738,9 @@ Associating different music with different ways of moving along the ellipse (exe
 
 {{< grid-table class="col-2" >}}
 
-{{< img class="preview-lg" src="/img/art/image034.webp" alt="Welcome to the Symphony Book Cover" >}}
+{{< img class="preview-lg pure-img" src="/img/art/image034.webp" alt="Welcome to the Symphony Book Cover" >}}
 
-{{< img class="" src="/img/art/image035.webp" alt="Landfill Harmonic Children">}}
+{{< img class="pure-img" src="/img/art/image035.webp" alt="Landfill Harmonic Children">}}
 
 {{< /grid-table >}}
 
@@ -824,7 +824,7 @@ An orchestra is when a group of instrumentalists work together to create beautif
 
 ### 2. Introduction to Classical Composers from and moving to their music along the line
 
-{{< img class="float-right" src="/img/art/image036.webp" alt="Wolfgang Mozart Book">}}
+{{< img class="float-right pure-img" src="/img/art/image036.webp" alt="Wolfgang Mozart Book">}}
 
 Composers of European ancestry to explore: Wolfgang Mozart (1756-1791): composed over 800 pieces during his short lifetime, he was born in Salzburg.  While he and his sister Nanerll were young, their family toured Europe and Mozart and Nanerll would play music as child prodigies.  Mozart was either four or five when he created his first compositions.  
 
@@ -839,11 +839,11 @@ Beethoven was born in Germany in 1770 and lived until 1827 and is a widely respe
 
 {{< grid-table class="col-2" >}}
 
-{{< img class="" src="/img/art/image037.webp" alt="Mozart Book" >}}
+{{< img class="pure-img" src="/img/art/image037.webp" alt="Mozart Book" >}}
 
-{{< img class="" src="/img/art/image038.webp" alt="The Story Orchestra Book">}}
+{{< img class="pure-img" src="/img/art/image038.webp" alt="The Story Orchestra Book">}}
 
-{{< img class="" src="/img/art/image039.webp" alt="The Animal Orchestra Plays Beethoven Book">}}
+{{< img class="pure-img" src="/img/art/image039.webp" alt="The Animal Orchestra Plays Beethoven Book">}}
 
 {{< /grid-table >}}
 
@@ -966,13 +966,13 @@ All of the musicians listed above
 
 {{< grid-table class="col-2" >}}
 
-{{< img class="" src="/img/art/image040.webp" alt="Earth from Space" >}}
+{{< img class="pure-img" src="/img/art/image040.webp" alt="Earth from Space" >}}
 
 (NASA Goddard Space Flight Center.  Earth from Space: Satellite Image. https://www.sciencephoto.com/media/76201/view/earth-from-space-satellite-image. 2002.  Downloaded 1 May 2022).  
 
-{{< img class="" src="/img/art/image041.webp" alt="Leaves">}}
+{{< img class="pure-img" src="/img/art/image041.webp" alt="Leaves">}}
 
-{{< img class="" src="/img/art/image042.webp" alt="Material World Book">}}
+{{< img class="pure-img" src="/img/art/image042.webp" alt="Material World Book">}}
 
 {{< /grid-table >}}
 
@@ -1030,7 +1030,7 @@ All of the musicians listed above
 
 ### Music Lesson 5: Exploring Lullabies of Families in the Classroom as well as lullabies from around the world
 
-{{< img class="float-right" src="/img/art/image043.webp" alt="Hush Baby Hush Book" >}}
+{{< img class="float-right pure-img" src="/img/art/image043.webp" alt="Hush Baby Hush Book" >}}
 
 **Preparation:** Grace and courtesy lessons/listening to the guide
 

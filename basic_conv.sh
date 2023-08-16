@@ -1,6 +1,6 @@
 #!/bin/bash
 
-DEST=/Users/mkthompson/home_dev/montessori_albums/static/img/culture/botany
+DEST=/Users/mkthompson/home_dev/montessori_albums/static/img/culture/zoo
 WORKING_DIR=/Volumes/RAMDisk/img/
 
 cd $WORKING_DIR
