@@ -1,0 +1,13 @@
+---
+version: "3"
+services:
+  montessori_albums:
+    image: mawt/montessori_albums:latest
+    container_name: montessori_albums
+    environment:
+      - PUID=1001
+      - PGID=1001
+      - TZ=America/Chicago
+    ports:
+      - 4001:80
+    restart: unless-stopped
