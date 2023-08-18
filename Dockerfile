@@ -1,6 +1,8 @@
 #####################################################################
 #                            Build Stage                            #
 #####################################################################
+# https://hugomods.com/en/docs/docker/#google_vignette
+
 FROM hugomods/hugo:exts as builder
 # Base URL
 ARG HUGO_BASEURL=
