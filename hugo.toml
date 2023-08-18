@@ -1,13 +1,15 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://ma.love-god-love-others.org/'
 languageCode = 'en-us'
 title = 'Montessori Albums'
 theme = 'blackburn'
 author = 'Matt'
 
+
 # Shown in the side menu
 copyright = "&copy; 2023. All rights reserved."
 canonifyurls = true
-paginate = 10
+paginate = 20
+disable_mathjax = true
 
 [markup.tableOfContents]
   startLevel = 2

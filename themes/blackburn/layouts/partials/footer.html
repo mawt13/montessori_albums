@@ -1,12 +1,18 @@
 </div>
 </div>
+
+{{ partial "scroll_to_top" . }}
+
 <script src="{{ .Site.BaseURL }}js/ui.js"></script>
 <script src="{{ .Site.BaseURL }}js/menus.js"></script>
 
 {{ partial "goatcounter_analytics.html" . }}
 {{ partial "google_analytics.html" . }}
 {{ partial "piwik_analytics.html" . }}
+
+{{ with .Site.Params.mathjax }}
 {{ partial "footer_mathjax" . }}
+{{ end }}
 
 {{ if .Page.Store.Get "hasMermaid" }}
   <script type="module">

@@ -623,15 +623,15 @@ Bring in pond water that has frog eggs and watch them hatch. They will have to b
 
 {{< box class="w-100 white-outline white-bg" >}}
 {{< div class="font-bold center" >}}Frog Facts for the Life Cycle:{{< /div >}}
-{{< div class="font-bold" >}}Stage 1: Egg{{< /div >}}
-A frog begins life as a fertilized egg. A female frog lays a lot of eggs at one time in a pond. The eggs float on water in a jelly mass or cluster. The eggs will soon hatch into tadpoles!
-{{< div class="font-bold" >}}Stage 2: Tadpole & Froglet{{< /div >}}
-When the tadpole hatches, it looks more like a fish than a frog. It doesn’t have any legs! It has gills that allow it to breathe underwater. The tadpole swims, eats plants and algae from the water, and grows for several weeks.
-During this time, the tadpole starts to develop lungs so it will be able to breathe out of the water when it becomes a frog. The tadpole also starts to grow two hind legs. Now it can leap around instead of only swimming. Although the tadpole is starting to look a little more like a frog, it still has a very long tail!
-{{< div class="font-bold" >}}Stage 3: Young Frog{{< /div >}}
-The tadpole grows two front legs and its long tail becomes shorter and shorter. The tadpole uses the nutrients stored in its tail as food, so until its tail is completely gone, it doesn’t need anything else to eat! Then just a little stub of its tail is left, and the tadpole is a young frog. It hops right out of the water and onto dry land for the first time! The frog is still very small.
-{{< div class="font-bold" >}}Stage 4: Adult Frog{{< /div >}}
-The frog’s tail will eventually disappear completely, and it will start to eat insects instead of plants from the water. The young frog will grow for about 2-4 years to become an adult. The adult frogs then lay their eggs and more tadpoles hatch and begin the cycle again!
+{{< div class="font-bold p-1" >}}Stage 1: Egg{{< /div >}}
+{{< div class="p-1" >}}A frog begins life as a fertilized egg. A female frog lays a lot of eggs at one time in a pond. The eggs float on water in a jelly mass or cluster. The eggs will soon hatch into tadpoles!{{< /div >}}
+{{< div class="font-bold p-1" >}}Stage 2: Tadpole & Froglet{{< /div >}}
+{{< div class="p-1" >}}When the tadpole hatches, it looks more like a fish than a frog. It doesn’t have any legs! It has gills that allow it to breathe underwater. The tadpole swims, eats plants and algae from the water, and grows for several weeks.
+During this time, the tadpole starts to develop lungs so it will be able to breathe out of the water when it becomes a frog. The tadpole also starts to grow two hind legs. Now it can leap around instead of only swimming. Although the tadpole is starting to look a little more like a frog, it still has a very long tail!{{< /div >}}
+{{< div class="font-bold p-1" >}}Stage 3: Young Frog{{< /div >}}
+{{< div class="p-1" >}}The tadpole grows two front legs and its long tail becomes shorter and shorter. The tadpole uses the nutrients stored in its tail as food, so until its tail is completely gone, it doesn’t need anything else to eat! Then just a little stub of its tail is left, and the tadpole is a young frog. It hops right out of the water and onto dry land for the first time! The frog is still very small.{{< /div >}}
+{{< div class="font-bold p-1" >}}Stage 4: Adult Frog{{< /div >}}
+{{< div class="p-1" >}}The frog’s tail will eventually disappear completely, and it will start to eat insects instead of plants from the water. The young frog will grow for about 2-4 years to become an adult. The adult frogs then lay their eggs and more tadpoles hatch and begin the cycle again!{{< /div >}}
 {{< /box >}}
 
 {{< div class="center">}}
@@ -688,10 +688,12 @@ Teach names and functions of body parts on a frog
 2. Name the lesson: the parts and their functions of the frog
 3. As with the specimen of the frog, begin with one end or the other. We will begin with the head as in the presentation of the specimen.
 
+{{< box class="p-relative preview-300" >}}
+
 {{< figure class="white-outline float-right preview-300" src="/img/culture/zoo/image047.webp" caption="The circle behind the frog’s eye is where the inner ear lies." >}}
 
-{{< box class="arrow" >}}
-  {{< div class="arrow__body" >}}{{< /div >}}
+{{< box class="arrow" >}}{{< /box >}}
+
 {{< /box >}}
 
 4. Remove the piece of the head and place it to the right of the puzzle at the top of the table. Do the first period lesson: “this is the head of the frog.” Ask the child what they know about the head of a frog. Recollecting the specimen can help. The parts in the head include: the mouth, the nostrils and the eyes. Amphibians can smell. They have tiny openings on the roof of their mouth called external nares that take in different scents directly into their mouths. The external nares also help them breathe, just like a human nose Review the roles of the sense for the frog and its survival needs. Write the word “head”, “eye”, “mouth” and “nostril” and place them next to the piece for the head. If the tympanum (ear) is visible on the puzzle, then this can be identified too) 

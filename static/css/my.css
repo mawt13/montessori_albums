@@ -9,39 +9,41 @@ html {
 
 body {
 	/* background-color: black; */
+	position: relative;
 }
 
 /* arrow */
+
 .arrow {
-	position: relative;
-  bottom: 0;
-  left: 450px;
-  width: calc(50% - 200px);
-  height: 40%;
-  /* uncomment to see the arrow's rectangle bg*/
-/*   background: white;  */
+position: absolute;
+right: 13em;
+top: 8em;
 }
 
-.arrow__body {
-  width: 100%;
-  height: 95%;
-  margin-left: 11px;
-  border-width: 5px 0 0 5px;
-  border-style: dashed;
-  border-color: var(--highlight-color);
-  border-top-left-radius: 100%;
+.p-relative {position: relative;}
+
+.arrow:before {
+	display:block;
+	width:0;
+	height: 0;
+	border-style: solid;
+	border-width: 14px 8px 0;
+	border-color: var(--highlight-color) transparent transparent transparent; 
 }
 
-.arrow__body::after {
-  content: '';
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  border-width: 20px 15px 0;
+.arrow:after {
+	content: '';
+	border-width: 5px 0 0 5px;
   border-style: solid;
-  border-color: var(--highlight-color) transparent transparent;
+  border-color: var(--highlight-color);
+	border-top-left-radius: 100%;
+	width: 43px;
+	height:108px;
+  display:block;
+	rotate: 204deg;
+	position: absolute;
+	left:-70px;
 }
-
 
 /* ***** */
 
@@ -452,7 +454,11 @@ div.bg-border div {
 	img.blue-outline, figure.blue-outline, div.blue-outline {
 		padding:0;
 	}
+	.arrow:after {left:-80px;}
+}
 
+@media (max-width: 18em) {
+  .arrow {right:0;}
 }
 
 
@@ -494,4 +500,32 @@ div.bg-border div {
 		padding-left: 4em;
 	}
 
+}
+
+
+
+/* scroll to top */
+
+.scroll-container {
+	position: absolute;
+	top: 0;
+	right:0;
+	height: 100%;
+}
+
+/* to hide the button when page first loaded */
+.scroll-container:before {
+	content: '';
+	display: block;
+	height: 100vh;
+	pointer-events: none;
+}
+
+/* fixed to right bottom of page */
+.scroll-container a {
+	position: sticky;
+	top: 88vh;
+	cursor: pointer;
+	font-size: 40px;
+	padding-right: 1rem;
 }

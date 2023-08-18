@@ -12,36 +12,36 @@ _Table of Contents_
   {{< box class=" " >}}Lessons in BLACK are either recommended or optional lessons{{< /box >}}
 {{< /box >}}
 
-{{< div class="redc" >}}[Animal, Plant & Other](#animal-plant--other--review-of-living-and-non-livingredc){{< /div >}}
-{{< div class="redc" >}}[Plant care: Yearly / Seasonal Activities and Cycles](#plant-care-yearly-seasonal-activities-and-cyclesredc){{< /div >}}
-{{< div class="redc" >}}[Seeds: Types and Facts](#seeds-types-and-factsredc){{< /div >}}
-{{< div class="redc" >}}[Experiments with seeds](#experiments-with-seeds-sproutingredc){{< /div >}}
-{{< div class="redc" >}}[Card and Booklet work](#the-seed-card-and-booklet-workredc){{< /div >}}
+{{< div class="redc" >}}[Animal, Plant & Other](#animal-plant--other--review-of-living-and-non-living){{< /div >}}
+{{< div class="redc" >}}[Plant care: Yearly / Seasonal Activities and Cycles](#plant-care-yearly-seasonal-activities-and-cycles){{< /div >}}
+{{< div class="redc" >}}[Seeds: Types and Facts](#seeds-types-and-facts){{< /div >}}
+{{< div class="redc" >}}[Experiments with seeds](#experiments-with-seeds-sprouting){{< /div >}}
+{{< div class="redc" >}}[Card and Booklet work](#the-seed-card-and-booklet-work){{< /div >}}
 	Seeds within the other areas of the classroom: Practical life/Sensorial/Language/Math/Art
 
-{{< div class="redc" >}}[Plants: Types and Parts of the Plant](#plants-types-and-parts-of-plantsredc){{< /div >}}
-{{< div class="redc" >}}[Experiments with plants](#experiments-with-plantsredc){{< /div >}}
+{{< div class="redc" >}}[Plants: Types and Parts of the Plant](#plants-types-and-parts-of-plants){{< /div >}}
+{{< div class="redc" >}}[Experiments with plants](#experiments-with-plants){{< /div >}}
 	Plants within the other areas of the classroom
 
-{{< div class="redc" >}}[Trees: Types and Parts of the Tree](#trees-types-and-parts-of-the-treeredc){{< /div >}}
-{{< div class="redc" >}}[Tree puzzle - nomenclature](#the-tree-puzzleredc){{< /div >}}
+{{< div class="redc" >}}[Trees: Types and Parts of the Tree](#trees-types-and-parts-of-the-tree){{< /div >}}
+{{< div class="redc" >}}[Tree puzzle - nomenclature](#the-tree-puzzle){{< /div >}}
 {{< div class="redc" >}}[Experiments with trees (stems and/or leaves)](){{< /div >}}
-{{< div class="redc" >}}[Card and Booklet work](#the-tree-card-and-booklet-workredc){{< /div >}}
+{{< div class="redc" >}}[Card and Booklet work](#the-tree-card-and-booklet-work){{< /div >}}
 	Trees within the other areas of the classroom
 
-{{< div class="redc" >}}[Leaves: Types and Parts of the Leaf](#leaves-types-and-parts-of-the-leafredc){{< /div >}}
+{{< div class="redc" >}}[Leaves: Types and Parts of the Leaf](#leaves-types-and-parts-of-the-leaf){{< /div >}}
 {{< div class="redc" >}}[Leaf puzzle – nomenclature](){{< /div >}}
 {{< div class="redc" >}}[Experiments with leaves](){{< /div >}}
-{{< div class="redc" >}}[Card and Booklet work](#the-leaf-card-and-bookletsredc){{< /div >}}
+{{< div class="redc" >}}[Card and Booklet work](#the-leaf-card-and-booklets){{< /div >}}
 	Leaves within the other areas of the classroom
 
-{{< div class="redc" >}}[Flowers: Types and Parts of the Flower](#flowers-types-and-parts-of-the-flowerredc){{< /div >}}
-{{< div class="redc" >}}[Flower Puzzle - nomenclature](#flower-puzzleredc){{< /div >}}
-{{< div class="redc" >}}[Experiments with flowers](#flower-experimentredc){{< /div >}}
-{{< div class="redc" >}}[Card and Booklet work](#the-flower-cards-and-bookletsredc){{< /div >}}
+{{< div class="redc" >}}[Flowers: Types and Parts of the Flower](#flowers-types-and-parts-of-the-flower){{< /div >}}
+{{< div class="redc" >}}[Flower Puzzle - nomenclature](#flower-puzzle){{< /div >}}
+{{< div class="redc" >}}[Experiments with flowers](#flower-experiment){{< /div >}}
+{{< div class="redc" >}}[Card and Booklet work](#the-flower-cards-and-booklets){{< /div >}}
 	Flowers within the other areas of the classroom
 
-{{< div class="redc" >}}[Botany Cabinet](#botany-cabinetredc){{< /div >}}
+{{< div class="redc" >}}[Botany Cabinet](#botany-cabinet){{< /div >}}
 {{< div class="redc" >}}[Seeds: Parts and planting](){{< /div >}}
 
 

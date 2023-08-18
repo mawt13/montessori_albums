@@ -38,8 +38,10 @@
   <link href="https://fonts.googleapis.com/css2?family=Raleway&display=swap" rel="stylesheet" type="text/css">
   <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
 
+  {{ with .Site.Params.mathjax }}
   <!-- MathJax -->
-<!--  <script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>-->
+  <script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  {{ end }}
 
  <!-- RSS -->
   {{ if .OutputFormats.Get "RSS" }}
