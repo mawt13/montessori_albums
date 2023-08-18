@@ -8,8 +8,8 @@ toc: true
 
 
 {{< center-quote >}}
-Stephanie Thompson’s Art, Movement, and Music Album:
-River Falls Montessori Studies Program, January-May of 2022
+Stephanie Thompson’s Art, Movement, and Music Album:\
+River Falls Montessori Studies Program, January-May of 2022\
 Instructors: Emily McDoniels and Caitlin O’Connor
 {{< /center-quote >}}
 
