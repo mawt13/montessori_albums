@@ -1,6 +1,11 @@
 :root {
-  --sidebar-width: 20em;
 	--highlight-color:#ff7473;
+}
+
+/* remove the below if you don't want smooth scrolling */
+html,
+body {
+  scroll-behavior: smooth;
 }
 
 html {
@@ -9,7 +14,7 @@ html {
 
 body {
 	/* background-color: black; */
-	position: relative;
+	/* position: relative; */
 }
 
 /* arrow */
@@ -243,14 +248,24 @@ line-height: 1em;
 padding:0;
 }
 
-#toc-sidenav {}
-
 #toc-sidenav nav ul {
 	padding-left:1rem;
 }
 
 #toc-sidenav nav ul li {
-	font-size:0.7rem;
+	font-size:1rem;
+	padding: 0;
+
+}
+#toc-sidenav nav ul li a:hover {
+  background: #333;
+}
+#toc-sidenav nav ul li a {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+	margin: 0;
+	width: 100%;
+	display: inline-block;
 }
 
 img.orange-outline, figure.orange-outline, div.orange-outline {
@@ -408,13 +423,21 @@ div.bg-border div {
 
 /* Mobile View */
 @media (max-width: 48em) {
+	.header {
+		padding:0;
+		width: 100vw;
+	}
+	.header h1 {
+		margin: 0;
+		font-size: 2rem;
+		width: 100vw;
+	}
+	.content {
+		padding: 8px;
+		width: 95vw;
+	}
 	figure {
 		margin:0;padding:0;
-	}
-	img[title*="imgClass--float-right"] {
-		padding:0;
-		max-width:100%;
-		height: auto;
 	}
 	figure.float-right {
 		float:none;
@@ -432,9 +455,7 @@ div.bg-border div {
 	.col-4 {
 		grid-template-columns: 1fr;
 	}
-	#layout.active {
-		left: var(--sidebar-width);
-	}
+
 .preview {margin:0 auto;}
 	.w-300, .w-400, .w-500 {max-width:100%;}
 	img.preview-300, figure.preview-300, figure.preview-300 img {max-width:100%;}
@@ -467,65 +488,36 @@ div.bg-border div {
 	left:2em;
 }
 
-#layout.active #menu {
-	left: var(--sidebar-width);
-	width: var(--sidebar-width);
-}
-
-#layout.active .menu-link {
-	left: var(--sidebar-width);
-}
-
-#menu {
-	margin-left: calc(var(--sidebar-width) * -1); /* "#menu" width */
-	width: var(--sidebar-width);
-}
-
-@media (min-width: 48em) {
-	#menu {
-		left: var(--sidebar-width);
-	}
-	.menu-link {
-		position: fixed;
-		left: var(--sidebar-width);	
-		display: none;
-	}
-	#layout.active .menu-link {
-		left: var(--sidebar-width);
-	}
-	 .header {
-		padding-left: calc(var(--sidebar-width) - 8em);
-	}
-	.content {
-		padding-left: 4em;
-	}
-
-}
-
-
 
 /* scroll to top */
+/* https://www.freecodecamp.org/news/css-only-back-to-top-button */
 
-.scroll-container {
-	position: absolute;
-	top: 0;
-	right:0;
-	height: 100%;
+body {
+  display:grid;
+  grid-template-columns: auto 0px;
 }
 
-/* to hide the button when page first loaded */
-.scroll-container:before {
-	content: '';
-	display: block;
-	height: 100vh;
-	pointer-events: none;
+.top {
+  --offset: 50px;
+
+  position: sticky;
+  bottom:20px;
+  margin-right:10px;
+  place-self:end;
+  right: 0.25rem;
+  margin-top: calc(100vh + var(--offset));
+
+  width:45px;
+  aspect-ratio: 1;
+  background: hsl(211, 30%, 40% );
+  border-radius: 10px;
 }
 
-/* fixed to right bottom of page */
-.scroll-container a {
-	position: sticky;
-	top: 88vh;
-	cursor: pointer;
-	font-size: 40px;
-	padding-right: 1rem;
+.top:before {
+  content: '';
+  position: absolute;
+  inset: 30%;
+  transform:translateY(20%) rotate(-45deg);
+  border-top:5px solid #fff;
+  border-right:5px solid #fff;
 }
