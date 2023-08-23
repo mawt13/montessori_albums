@@ -5,7 +5,7 @@
 
 FROM hugomods/hugo:exts as builder
 # Base URL
-ARG HUGO_BASEURL=http://ma.love-god-love-others.org/
+ARG HUGO_BASEURL=http://ec.montessorialbums.org/
 ENV HUGO_BASEURL=${HUGO_BASEURL}
 # Build site
 COPY . /src
