@@ -21,5 +21,13 @@
   </script>
 {{ end }}
 
+{{ range .Site.Params.custom_js }}
+{{ if findRE "https?://" . }}
+    <script src="{{ . }}"></script>
+{{ else }}
+    <script src="{{ $.Site.BaseURL }}{{ . }}"></script>
+{{ end }}
+{{ end }}
+
 </body>
 </html>

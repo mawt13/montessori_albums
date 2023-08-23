@@ -13,8 +13,37 @@ html {
 }
 
 body {
-	/* background-color: black; */
-	/* position: relative; */
+  --text-color: #222;
+  --bkg-color: #fff;
+}
+body.dark-theme {
+  --text-color: #eee;
+  --bkg-color: #121212;
+}
+
+@media (prefers-color-scheme: dark) {
+  /* defaults to dark theme */
+  body {
+    --text-color: #eee;
+    --bkg-color: #121212;
+  }
+  body.light-theme {
+    --text-color: #222;
+    --bkg-color: #fff;
+  }
+}
+
+body {
+  background: var(--bkg-color);
+}
+
+h1, h2, 
+p {
+  color: var(--text-color);
+}
+
+.btn-toggle {
+  font-size: 0.8rem;
 }
 
 /* arrow */
@@ -236,7 +265,7 @@ img.rotate270, figure.rotate270  img {
 
 div#brandDiv {
 	display:grid;
-	grid-template-columns: 6em 1fr;
+	grid-template-columns: 6em 1fr auto;
 	grid-gap:1rem;
 	padding: 8px;
 }

@@ -3782,7 +3782,7 @@ The first and second presentations are to sensorially feel the weight difference
 
 ##### THERMIC BOTTLES
 
-{{< figure src="/img/sensorial/image184.jpg" title="There are Montessori bottles/canisters that are insulated for thermic exercises. However, they are cost prohibitive for many schools. These bottles shown are an alternative, but they will not keep the liquid/solid hot or cold for long. After a morning work cycle, the bottles will likely be room temperature. But, this is a whole other lesson in and of itself! Thermic exercises are often linked to science, observation and experimentation." class="float-right preview-md pure-img" alt="Weighs in Basket">}}
+{{< figure src="/img/sensorial/image184.webp" title="There are Montessori bottles/canisters that are insulated for thermic exercises. However, they are cost prohibitive for many schools. These bottles shown are an alternative, but they will not keep the liquid/solid hot or cold for long. After a morning work cycle, the bottles will likely be room temperature. But, this is a whole other lesson in and of itself! Thermic exercises are often linked to science, observation and experimentation." class="float-right preview-md pure-img" alt="Weighs in Basket">}}
 
 {{< img class="float-right pure-img" src="/img/sensorial/image185.webp" alt="Children Working with Weighs" >}}
 
