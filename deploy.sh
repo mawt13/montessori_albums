@@ -1,21 +1,21 @@
 #!/bin/bash
 
-TMP_DIR="/Volumes/RAMDisk"
+TMP_DIR="/tmp"
 WEB_SERVER="mawt@10.0.0.3"
 
-cd ~/home_dev/montessori_albums/
+cd ~/dev/montessori_albums/
 
 # remove docker image based on name of project
 docker rmi $(docker images 'mawt/montessori_albums:latest' -a -q)
 
 # build docker image
-docker build -t mawt/montessori_albums .
+docker build -t mawt/montessori_albums . --platform="linux/arm64"
 
 # save docker image to tar file
 docker save -o $TMP_DIR/montessori_albums.tar mawt/montessori_albums:latest
 
 # copy tar file to server
-scp /Volumes/RAMDisk/montessori_albums.tar $WEB_SERVER:/ram/
+scp $TMP_DIR/montessori_albums.tar $WEB_SERVER:/ram/
 
 ### server cmds
 echo 'Executing server cmds...'

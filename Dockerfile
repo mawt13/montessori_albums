@@ -5,7 +5,7 @@
 
 FROM hugomods/hugo:exts as builder
 # Base URL
-ARG HUGO_BASEURL=http://ec.montessorialbums.org/
+ARG HUGO_BASEURL=https://ec.montessorialbums.org/
 ENV HUGO_BASEURL=${HUGO_BASEURL}
 # Build site
 COPY . /src
